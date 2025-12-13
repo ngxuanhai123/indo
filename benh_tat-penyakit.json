@@ -1,0 +1,188 @@
+{
+  "topicNameVietnamese": "Bệnh tật",
+  "topicNameIndonesian": "Penyakit",
+  "words": [
+    {
+      "indonesian": "Buta",
+      "ipa": "[ˈbu.ta]",
+      "english": "Blind",
+      "vietnamese": "Mù",
+      "example": "Orang itu buta sejak lahir."
+    },
+    {
+      "indonesian": "Tuli",
+      "ipa": "[ˈtu.li]",
+      "english": "Deaf",
+      "vietnamese": "Điếc",
+      "example": "Dia tuli di telinga kirinya."
+    },
+    {
+      "indonesian": "Bisu",
+      "ipa": "[ˈbi.su]",
+      "english": "Mute",
+      "vietnamese": "Câm",
+      "example": "Anak itu bisu dan tidak bisa berbicara."
+    },
+    {
+      "indonesian": "Lumpuh",
+      "ipa": "[ˈlum.puh]",
+      "english": "Paralyzed",
+      "vietnamese": "Què",
+      "example": "Kecelakaan itu membuatnya lumpuh."
+    },
+    {
+      "indonesian": "Kudis",
+      "ipa": "[ˈku.dis]",
+      "english": "Scabies",
+      "vietnamese": "Ghẻ",
+      "example": "Dia menderita kudis yang sangat gatal."
+    },
+    {
+      "indonesian": "Kusta",
+      "ipa": "[ˈkus.ta]",
+      "english": "Leprosy",
+      "vietnamese": "Phong cùi",
+      "example": "Penyakit kusta jarang ditemukan sekarang."
+    },
+    {
+      "indonesian": "Alergi",
+      "ipa": "[aˈlɛr.gi]",
+      "english": "Allergy",
+      "vietnamese": "Dị ứng",
+      "example": "Saya alergi terhadap udang."
+    },
+    {
+      "indonesian": "Menular",
+      "ipa": "[məˈnu.lar]",
+      "english": "Contagious",
+      "vietnamese": "Lây nhiễm",
+      "example": "Penyakit ini sangat menular."
+    },
+    {
+      "indonesian": "Cuaca",
+      "ipa": "[ˈtʃua.tʃa]",
+      "english": "Weather",
+      "vietnamese": "Thời tiết",
+      "example": "Cuaca hari ini sangat cerah."
+    },
+    {
+      "indonesian": "Dingin",
+      "ipa": "[ˈdi.ŋin]",
+      "english": "Cold",
+      "vietnamese": "Lạnh",
+      "example": "Minuman ini sangat dingin."
+    },
+    {
+      "indonesian": "Panas",
+      "ipa": "[ˈpa.nas]",
+      "english": "Hot",
+      "vietnamese": "Nóng",
+      "example": "Air ini terlalu panas untuk diminum."
+    },
+    {
+      "indonesian": "Hujan",
+      "ipa": "[ˈhu.dʒan]",
+      "english": "Rain",
+      "vietnamese": "Mưa",
+      "example": "Hujan turun sepanjang malam."
+    },
+    {
+      "indonesian": "Cerah",
+      "ipa": "[ˈtʃə.rah]",
+      "english": "Sunny, Clear",
+      "vietnamese": "Nắng",
+      "example": "Langit sangat cerah hari ini."
+    },
+    {
+      "indonesian": "tidak selera makan",
+      "ipa": "[ˈti.dak səˈlɛ.ra ˈma.kan]",
+      "english": "Loss of appetite",
+      "vietnamese": "Biếng ăn",
+      "example": "Dia tidak selera makan karena sakit."
+    },
+    {
+      "indonesian": "berat",
+      "ipa": "[ˈbə.rat]",
+      "english": "Heavy",
+      "vietnamese": "Nặng",
+      "example": "Kotak ini sangat berat."
+    },
+    {
+      "indonesian": "beras",
+      "ipa": "[ˈbə.ras]",
+      "english": "Uncooked rice",
+      "vietnamese": "Gạo",
+      "example": "Ibu membeli beras di pasar."
+    },
+    {
+      "indonesian": "berak",
+      "ipa": "[ˈbə.rak]",
+      "english": "Defecate",
+      "vietnamese": "Đi ngoài",
+      "example": "Bayi itu berak di popoknya."
+    },
+    {
+      "indonesian": "nasi",
+      "ipa": "[ˈna.si]",
+      "english": "Cooked rice",
+      "vietnamese": "Cơm",
+      "example": "Saya suka makan nasi goreng."
+    },
+    {
+      "indonesian": "masih",
+      "ipa": "[ˈma.sih]",
+      "english": "Still, yet",
+      "vietnamese": "Vẫn còn",
+      "example": "Dia masih tidur."
+    },
+    {
+      "indonesian": "basi",
+      "ipa": "[ˈba.si]",
+      "english": "Stale, spoiled",
+      "vietnamese": "Hư",
+      "example": "Roti ini sudah basi."
+    },
+    {
+      "indonesian": "basa-basi",
+      "ipa": "[ˈba.sa ˈba.si]",
+      "english": "Small talk, pleasantries",
+      "vietnamese": "Tám chuyện",
+      "example": "Mereka hanya basa-basi sebentar."
+    },
+    {
+      "indonesian": "flu",
+      "ipa": "[flu]",
+      "english": "Flu",
+      "vietnamese": "Cảm cúm",
+      "example": "Saya terkena flu kemarin."
+    },
+    {
+      "indonesian": "ngantuk",
+      "ipa": "[ˈŋan.tuk]",
+      "english": "Sleepy",
+      "vietnamese": "Buồn ngủ",
+      "example": "Saya merasa sangat ngantuk setelah makan siang."
+    },
+    {
+      "indonesian": "Keracunan",
+      "ipa": "[kəˈra.tʃu.nan]",
+      "english": "Food poisoning",
+      "vietnamese": "Trúng thực",
+      "example": "Dia keracunan makanan laut."
+    },
+    {
+      "indonesian": "muntah",
+      "ipa": "[ˈmun.tah]",
+      "english": "Vomit",
+      "vietnamese": "Nôn mửa",
+      "example": "Anak itu muntah setelah makan terlalu banyak."
+    },
+    {
+      "indonesian": "jamur",
+      "ipa": "[ˈdʒa.mur]",
+      "english": "Mushroom, fungus",
+      "vietnamese": "Nấm",
+      "example": "Ada banyak jamur di hutan."
+    }
+  ]
+}
