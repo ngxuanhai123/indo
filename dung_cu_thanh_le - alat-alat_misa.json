@@ -1,0 +1,217 @@
+{
+  "name": "Dụng cụ Thánh lễ - Alat-alat misa",
+  "topicNameVietnamese": "Dụng cụ Thánh lễ",
+  "topicNameIndonesian": "Alat-alat misa",
+  "words": [
+    {
+      "english": "Altar",
+      "ipa": "",
+      "englishMeaning": "Altar",
+      "vietnamese": "Bàn thờ",
+      "example": ""
+    },
+    {
+      "english": "Tabernakel",
+      "ipa": "",
+      "englishMeaning": "Tabernacle",
+      "vietnamese": "Nhà tạm",
+      "example": ""
+    },
+    {
+      "english": "Salib",
+      "ipa": "",
+      "englishMeaning": "Crucifix",
+      "vietnamese": "Thánh giá",
+      "example": ""
+    },
+    {
+      "english": "Mimbar",
+      "ipa": "",
+      "englishMeaning": "Ambo/Pulpit",
+      "vietnamese": "Bục giảng",
+      "example": ""
+    },
+    {
+      "english": "Kursi Imam",
+      "ipa": "",
+      "englishMeaning": "Presider's Chair",
+      "vietnamese": "Ghế chủ tế",
+      "example": ""
+    },
+    {
+      "english": "Meja Kredens",
+      "ipa": "",
+      "englishMeaning": "Credence Table",
+      "vietnamese": "Bàn phụng vụ",
+      "example": ""
+    },
+    {
+      "english": "Lampu Gantung",
+      "ipa": "",
+      "englishMeaning": "Sanctuary Lamp",
+      "vietnamese": "Đèn chầu",
+      "example": ""
+    },
+    {
+      "english": "Bejana Baptis",
+      "ipa": "",
+      "englishMeaning": "Baptismal Font",
+      "vietnamese": "Giếng rửa tội",
+      "example": ""
+    },
+    {
+      "english": "Kamar Pengakuan",
+      "ipa": "",
+      "englishMeaning": "Confessional",
+      "vietnamese": "Tòa giải tội",
+      "example": ""
+    },
+    {
+      "english": "Mimbar",
+      "ipa": "",
+      "englishMeaning": "Lectern",
+      "vietnamese": "Giá đọc sách",
+      "example": ""
+    },
+    {
+      "english": "Relikui",
+      "ipa": "",
+      "englishMeaning": "Relic",
+      "vietnamese": "Xương thánh",
+      "example": ""
+    },
+    {
+      "english": "Piala",
+      "ipa": "",
+      "englishMeaning": "Chalice",
+      "vietnamese": "Chén thánh",
+      "example": ""
+    },
+    {
+      "english": "Patena",
+      "ipa": "",
+      "englishMeaning": "Paten",
+      "vietnamese": "Đĩa thánh",
+      "example": ""
+    },
+    {
+      "english": "Monstrans",
+      "ipa": "",
+      "englishMeaning": "Monstrance",
+      "vietnamese": "Mặt nhật",
+      "example": ""
+    },
+    {
+      "english": "Piksis",
+      "ipa": "",
+      "englishMeaning": "Pyx",
+      "vietnamese": "Hộp đựng Mình Thánh",
+      "example": ""
+    },
+    {
+      "english": "Ampul",
+      "ipa": "",
+      "englishMeaning": "Cruets",
+      "vietnamese": "Bình nước rượu",
+      "example": ""
+    },
+    {
+      "english": "Purifikatorium",
+      "ipa": "",
+      "englishMeaning": "Purificator",
+      "vietnamese": "Khăn lau chén",
+      "example": ""
+    },
+    {
+      "english": "Korporale",
+      "ipa": "",
+      "englishMeaning": "Corporal",
+      "vietnamese": "Khăn thánh 9 miếng",
+      "example": ""
+    },
+    {
+      "english": "Palla",
+      "ipa": "",
+      "englishMeaning": "Pall",
+      "vietnamese": "Tấm đậy chén thánh",
+      "example": ""
+    },
+    {
+      "english": "Pendupaan",
+      "ipa": "",
+      "englishMeaning": "Thurible/Censer",
+      "vietnamese": "Bình hương",
+      "example": ""
+    },
+    {
+      "english": "Alba",
+      "ipa": "",
+      "englishMeaning": "Alb",
+      "vietnamese": "Áo trắng",
+      "example": ""
+    },
+    {
+      "english": "Kasula",
+      "ipa": "",
+      "englishMeaning": "Chasuble",
+      "vietnamese": "Áo lễ",
+      "example": ""
+    },
+    {
+      "english": "Stola",
+      "ipa": "",
+      "englishMeaning": "Stole",
+      "vietnamese": "Dây các phép",
+      "example": ""
+    },
+    {
+      "english": "Ibadat Harian",
+      "ipa": "",
+      "englishMeaning": "Breviary/Liturgy of the Hours",
+      "vietnamese": "Các Giờ Kinh Phụng Vụ",
+      "example": ""
+    },
+    {
+      "english": "Hosti",
+      "ipa": "",
+      "englishMeaning": "Host",
+      "vietnamese": "Bánh thánh",
+      "example": ""
+    },
+    {
+      "english": "Anggur Misa",
+      "ipa": "",
+      "englishMeaning": "Altar Wine",
+      "vietnamese": "Rượu lễ",
+      "example": ""
+    },
+    {
+      "english": "Air Suci",
+      "ipa": "",
+      "englishMeaning": "Holy Water",
+      "vietnamese": "Nước thánh",
+      "example": ""
+    },
+    {
+      "english": "Minyak Krisma",
+      "ipa": "",
+      "englishMeaning": "Chrism Oil",
+      "vietnamese": "Dầu Thánh",
+      "example": ""
+    },
+    {
+      "english": "Lilin",
+      "ipa": "",
+      "englishMeaning": "Candle",
+      "vietnamese": "Nến",
+      "example": ""
+    },
+    {
+      "english": "Rosario",
+      "ipa": "",
+      "englishMeaning": "Rosary",
+      "vietnamese": "Tràng hạt Mân Côi",
+      "example": ""
+    }
+  ]
+}
