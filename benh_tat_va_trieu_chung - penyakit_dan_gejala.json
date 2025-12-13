@@ -5,183 +5,157 @@
   "words": [
     {
       "english": "Buta",
-      "ipa": "/bu.ta/",
-      "englishMeaning": "Blind",
+      "ipa": "/bu.ta/ - Eng: Blind",
       "vietnamese": "Mù",
       "example": "Kakek saya buta sejak lahir."
     },
     {
       "english": "Tuli",
-      "ipa": "/tu.li/",
-      "englishMeaning": "Deaf",
+      "ipa": "/tu.li/ - Eng: Deaf",
       "vietnamese": "Điếc",
       "example": "Dia tidak bisa mendengar karena tuli."
     },
     {
       "english": "Bisu",
-      "ipa": "/bi.su/",
-      "englishMeaning": "Mute",
+      "ipa": "/bi.su/ - Eng: Mute",
       "vietnamese": "Câm",
       "example": "Anak itu bisu, dia berkomunikasi dengan bahasa isyarat."
     },
     {
       "english": "Lumpuh",
-      "ipa": "/lum.puh/",
-      "englishMeaning": "Paralyzed",
+      "ipa": "/lum.puh/ - Eng: Paralyzed",
       "vietnamese": "Què",
       "example": "Setelah kecelakaan, kakinya lumpuh."
     },
     {
       "english": "Kudis",
-      "ipa": "/ku.dis/",
-      "englishMeaning": "Scabies",
+      "ipa": "/ku.dis/ - Eng: Scabies",
       "vietnamese": "Ghẻ",
       "example": "Dia menderita kudis dan kulitnya gatal."
     },
     {
       "english": "Kusta",
-      "ipa": "/kus.ta/",
-      "englishMeaning": "Leprosy",
+      "ipa": "/kus.ta/ - Eng: Leprosy",
       "vietnamese": "Phong cùi",
       "example": "Kusta adalah penyakit kulit yang serius."
     },
     {
       "english": "Alergi",
-      "ipa": "/a.lər.gi/",
-      "englishMeaning": "Allergy",
+      "ipa": "/a.lər.gi/ - Eng: Allergy",
       "vietnamese": "Dị ứng",
       "example": "Saya alergi terhadap udang."
     },
     {
       "english": "Menular",
-      "ipa": "/mə.nu.lar/",
-      "englishMeaning": "Contagious",
+      "ipa": "/mə.nu.lar/ - Eng: Contagious",
       "vietnamese": "Lây nhiễm",
       "example": "Penyakit flu sangat mudah menular."
     },
     {
       "english": "Cuaca",
-      "ipa": "/tʃu.a.tʃa/",
-      "englishMeaning": "Weather",
+      "ipa": "/tʃu.a.tʃa/ - Eng: Weather",
       "vietnamese": "Thời tiết",
       "example": "Cuaca hari ini sangat cerah."
     },
     {
       "english": "Dingin",
-      "ipa": "/di.ŋin/",
-      "englishMeaning": "Cold",
+      "ipa": "/di.ŋin/ - Eng: Cold",
       "vietnamese": "Lạnh",
       "example": "Minuman ini sangat dingin."
     },
     {
       "english": "Panas",
-      "ipa": "/pa.nas/",
-      "englishMeaning": "Hot",
+      "ipa": "/pa.nas/ - Eng: Hot",
       "vietnamese": "Nóng",
       "example": "Air teh ini masih panas."
     },
     {
       "english": "Hujan",
-      "ipa": "/hu.dʒan/",
-      "englishMeaning": "Rain",
+      "ipa": "/hu.dʒan/ - Eng: Rain",
       "vietnamese": "Mưa",
       "example": "Hari ini akan hujan deras."
     },
     {
       "english": "Cerah",
-      "ipa": "/tʃə.rah/",
-      "englishMeaning": "Clear / Bright (weather)",
+      "ipa": "/tʃə.rah/ - Eng: Clear / Bright (weather)",
       "vietnamese": "Nắng",
       "example": "Langit terlihat cerah tanpa awan."
     },
     {
       "english": "tidak selera makan",
-      "ipa": "/ti.dak sə.le.ra ma.kan/",
-      "englishMeaning": "Loss of appetite",
+      "ipa": "/ti.dak sə.le.ra ma.kan/ - Eng: Loss of appetite",
       "vietnamese": "biếng ăn",
       "example": "Saya merasa tidak selera makan hari ini."
     },
     {
       "english": "berat",
-      "ipa": "/bə.rat/",
-      "englishMeaning": "Heavy",
+      "ipa": "/bə.rat/ - Eng: Heavy",
       "vietnamese": "nặng",
       "example": "Koper ini sangat berat."
     },
     {
       "english": "beras",
-      "ipa": "/bə.ras/",
-      "englishMeaning": "Uncooked rice",
+      "ipa": "/bə.ras/ - Eng: Uncooked rice",
       "vietnamese": "gạo",
       "example": "Ibu membeli beras di pasar."
     },
     {
       "english": "berak",
-      "ipa": "/bə.rak/",
-      "englishMeaning": "Defecate",
+      "ipa": "/bə.rak/ - Eng: Defecate",
       "vietnamese": "đi ngoài",
       "example": "Bayi itu berak di popoknya."
     },
     {
       "english": "nasi",
-      "ipa": "/na.si/",
-      "englishMeaning": "Cooked rice",
+      "ipa": "/na.si/ - Eng: Cooked rice",
       "vietnamese": "cơm",
       "example": "Saya suka makan nasi goreng."
     },
     {
       "english": "masih",
-      "ipa": "/ma.sih/",
-      "englishMeaning": "Still",
+      "ipa": "/ma.sih/ - Eng: Still",
       "vietnamese": "vẫn còn",
       "example": "Dia masih tidur."
     },
     {
       "english": "basi",
-      "ipa": "/ba.si/",
-      "englishMeaning": "Stale / Spoiled",
+      "ipa": "/ba.si/ - Eng: Stale / Spoiled",
       "vietnamese": "hư",
       "example": "Nasi ini sudah basi."
     },
     {
       "english": "basa-basi",
-      "ipa": "/ba.sa.ba.si/",
-      "englishMeaning": "Small talk / Chit-chat",
+      "ipa": "/ba.sa.ba.si/ - Eng: Small talk / Chit-chat",
       "vietnamese": "tám chuyện",
       "example": "Mereka hanya basa-basi sebentar."
     },
     {
       "english": "flu",
-      "ipa": "/flu/",
-      "englishMeaning": "Flu",
+      "ipa": "/flu/ - Eng: Flu",
       "vietnamese": "cảm cúm",
       "example": "Saya terkena flu dan demam."
     },
     {
       "english": "ngantuk",
-      "ipa": "/ŋan.tuk/",
-      "englishMeaning": "Sleepy",
+      "ipa": "/ŋan.tuk/ - Eng: Sleepy",
       "vietnamese": "buồn ngủ",
       "example": "Saya merasa sangat ngantuk setelah makan siang."
     },
     {
       "english": "Keracunan",
-      "ipa": "/kə.ra.tʃu.nan/",
-      "englishMeaning": "Poisoning",
+      "ipa": "/kə.ra.tʃu.nan/ - Eng: Poisoning",
       "vietnamese": "trúng thực",
       "example": "Dia dirawat di rumah sakit karena keracunan makanan."
     },
     {
       "english": "muntah",
-      "ipa": "/mun.tah/",
-      "englishMeaning": "Vomit",
+      "ipa": "/mun.tah/ - Eng: Vomit",
       "vietnamese": "nôn mửa",
       "example": "Setelah makan makanan basi, dia muntah."
     },
     {
       "english": "jamur",
-      "ipa": "/dʒa.mur/",
-      "englishMeaning": "Mushroom / Fungus",
+      "ipa": "/dʒa.mur/ - Eng: Mushroom / Fungus",
       "vietnamese": "nấm",
       "example": "Ada banyak jenis jamur di hutan."
     }
