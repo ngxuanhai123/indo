@@ -1,0 +1,189 @@
+{
+  "name": "Tìm hiểu - OFMCap - Belajar - OFMCap",
+  "topicNameVietnamese": "Tìm hiểu - OFMCap",
+  "topicNameIndonesian": "Belajar - OFMCap",
+  "words": [
+    {
+      "english": "duduk",
+      "ipa": "/du.duk/",
+      "englishMeaning": "Sit",
+      "vietnamese": "ngồi",
+      "example": "Silakan duduk di sini."
+    },
+    {
+      "english": "berdiri",
+      "ipa": "/bər.di.ri/",
+      "englishMeaning": "Stand",
+      "vietnamese": "đứng",
+      "example": "Dia berdiri di depan pintu."
+    },
+    {
+      "english": "bahasa",
+      "ipa": "/ba.ha.sa/",
+      "englishMeaning": "Language",
+      "vietnamese": "ngôn ngữ",
+      "example": "Bahasa Indonesia adalah bahasa nasional."
+    },
+    {
+      "english": "aspirant",
+      "ipa": "/as.pi.ran/",
+      "englishMeaning": "Aspirant",
+      "vietnamese": "tìm hiểu",
+      "example": "Dia adalah seorang aspirant di biara."
+    },
+    {
+      "english": "postulan",
+      "ipa": "/pos.tu.lan/",
+      "englishMeaning": "Postulant",
+      "vietnamese": "thỉnh sinh",
+      "example": "Para postulan sedang belajar doa."
+    },
+    {
+      "english": "pastor",
+      "ipa": "/pas.tor/",
+      "englishMeaning": "Pastor / Priest (diocesan)",
+      "vietnamese": "cha triều",
+      "example": "Pastor memimpin misa di gereja."
+    },
+    {
+      "english": "pater",
+      "ipa": "/pa.tər/",
+      "englishMeaning": "Father / Priest (religious order)",
+      "vietnamese": "cha dòng",
+      "example": "Pater itu berasal dari ordo Fransiskan."
+    },
+    {
+      "english": "frater",
+      "ipa": "/fra.tər/",
+      "englishMeaning": "Brother (religious order)",
+      "vietnamese": "thầy",
+      "example": "Frater itu sedang belajar teologi."
+    },
+    {
+      "english": "imam",
+      "ipa": "/i.mam/",
+      "englishMeaning": "Priest / Imam",
+      "vietnamese": "linh mục",
+      "example": "Imam memimpin ibadah di masjid."
+    },
+    {
+      "english": "suster",
+      "ipa": "/sus.tər/",
+      "englishMeaning": "Sister / Nun",
+      "vietnamese": "sơ",
+      "example": "Suster itu bekerja di rumah sakit."
+    },
+    {
+      "english": "bruder",
+      "ipa": "/bru.dər/",
+      "englishMeaning": "Brother (religious order)",
+      "vietnamese": "tu huynh",
+      "example": "Bruder itu mengajar di sekolah."
+    },
+    {
+      "english": "paus",
+      "ipa": "/pa.us/",
+      "englishMeaning": "Pope",
+      "vietnamese": "giáo hoàng",
+      "example": "Paus adalah pemimpin Gereja Katolik."
+    },
+    {
+      "english": "uskup",
+      "ipa": "/us.kup/",
+      "englishMeaning": "Bishop",
+      "vietnamese": "giám mục",
+      "example": "Uskup mengunjungi paroki-paroki."
+    },
+    {
+      "english": "peringatan",
+      "ipa": "/pə.ri.ŋa.tan/",
+      "englishMeaning": "Memorial / Commemoration",
+      "vietnamese": "lễ nhớ",
+      "example": "Hari ini adalah peringatan Santo Fransiskus."
+    },
+    {
+      "english": "liturgi",
+      "ipa": "/li.tur.gi/",
+      "englishMeaning": "Liturgy",
+      "vietnamese": "phụng vụ",
+      "example": "Liturgi Gereja Katolik sangat kaya."
+    },
+    {
+      "english": "pesta",
+      "ipa": "/pəs.ta/",
+      "englishMeaning": "Feast / Party",
+      "vietnamese": "lễ kính",
+      "example": "Kami merayakan pesta ulang tahun."
+    },
+    {
+      "english": "masa biasa",
+      "ipa": "/ma.sa bi.a.sa/",
+      "englishMeaning": "Ordinary Time (liturgical)",
+      "vietnamese": "thường niên",
+      "example": "Sekarang adalah masa biasa dalam kalender liturgi."
+    },
+    {
+      "english": "hari raya",
+      "ipa": "/ha.ri ra.ja/",
+      "englishMeaning": "Feast day / Holiday",
+      "vietnamese": "lễ trọng",
+      "example": "Hari Raya Natal adalah hari libur nasional."
+    },
+    {
+      "english": "hari",
+      "ipa": "/ha.ri/",
+      "englishMeaning": "Day",
+      "vietnamese": "ngày",
+      "example": "Hari ini adalah hari yang indah."
+    },
+    {
+      "english": "kemarin",
+      "ipa": "/kə.ma.rin/",
+      "englishMeaning": "Yesterday",
+      "vietnamese": "hôm qua",
+      "example": "Saya bertemu dia kemarin."
+    },
+    {
+      "english": "besok",
+      "ipa": "/bə.sok/",
+      "englishMeaning": "Tomorrow",
+      "vietnamese": "ngày mai",
+      "example": "Kami akan pergi besok pagi."
+    },
+    {
+      "english": "ibadat",
+      "ipa": "/i.ba.dat/",
+      "englishMeaning": "Worship / Devotion",
+      "vietnamese": "đọc kinh",
+      "example": "Mereka melakukan ibadat di gereja."
+    },
+    {
+      "english": "para",
+      "ipa": "/pa.ra/",
+      "englishMeaning": "Plural marker (for people)",
+      "vietnamese": "các (người)",
+      "example": "Para siswa sedang belajar."
+    },
+    {
+      "english": "burung",
+      "ipa": "/bu.ruŋ/",
+      "englishMeaning": "Bird",
+      "vietnamese": "chim",
+      "example": "Burung itu berkicau di pagi hari."
+    },
+    {
+      "english": "hewan",
+      "ipa": "/he.wan/",
+      "englishMeaning": "Animal",
+      "vietnamese": "động vật",
+      "example": "Singa adalah hewan buas."
+    },
+    {
+      "english": "tumbuhan",
+      "ipa": "/tum.bu.han/",
+      "englishMeaning": "Plant / Vegetation",
+      "vietnamese": "cây cối / thực vật",
+      "example": "Ada banyak tumbuhan hijau di hutan."
+    }
+  ]
+}

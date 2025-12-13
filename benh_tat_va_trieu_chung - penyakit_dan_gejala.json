@@ -1,0 +1,189 @@
+{
+  "name": "Bệnh tật và Triệu chứng - Penyakit dan Gejala",
+  "topicNameVietnamese": "Bệnh tật và Triệu chứng",
+  "topicNameIndonesian": "Penyakit dan Gejala",
+  "words": [
+    {
+      "english": "Buta",
+      "ipa": "/bu.ta/",
+      "englishMeaning": "Blind",
+      "vietnamese": "Mù",
+      "example": "Kakek saya buta sejak lahir."
+    },
+    {
+      "english": "Tuli",
+      "ipa": "/tu.li/",
+      "englishMeaning": "Deaf",
+      "vietnamese": "Điếc",
+      "example": "Dia tidak bisa mendengar karena tuli."
+    },
+    {
+      "english": "Bisu",
+      "ipa": "/bi.su/",
+      "englishMeaning": "Mute",
+      "vietnamese": "Câm",
+      "example": "Anak itu bisu, dia berkomunikasi dengan bahasa isyarat."
+    },
+    {
+      "english": "Lumpuh",
+      "ipa": "/lum.puh/",
+      "englishMeaning": "Paralyzed",
+      "vietnamese": "Què",
+      "example": "Setelah kecelakaan, kakinya lumpuh."
+    },
+    {
+      "english": "Kudis",
+      "ipa": "/ku.dis/",
+      "englishMeaning": "Scabies",
+      "vietnamese": "Ghẻ",
+      "example": "Dia menderita kudis dan kulitnya gatal."
+    },
+    {
+      "english": "Kusta",
+      "ipa": "/kus.ta/",
+      "englishMeaning": "Leprosy",
+      "vietnamese": "Phong cùi",
+      "example": "Kusta adalah penyakit kulit yang serius."
+    },
+    {
+      "english": "Alergi",
+      "ipa": "/a.lər.gi/",
+      "englishMeaning": "Allergy",
+      "vietnamese": "Dị ứng",
+      "example": "Saya alergi terhadap udang."
+    },
+    {
+      "english": "Menular",
+      "ipa": "/mə.nu.lar/",
+      "englishMeaning": "Contagious",
+      "vietnamese": "Lây nhiễm",
+      "example": "Penyakit flu sangat mudah menular."
+    },
+    {
+      "english": "Cuaca",
+      "ipa": "/tʃu.a.tʃa/",
+      "englishMeaning": "Weather",
+      "vietnamese": "Thời tiết",
+      "example": "Cuaca hari ini sangat cerah."
+    },
+    {
+      "english": "Dingin",
+      "ipa": "/di.ŋin/",
+      "englishMeaning": "Cold",
+      "vietnamese": "Lạnh",
+      "example": "Minuman ini sangat dingin."
+    },
+    {
+      "english": "Panas",
+      "ipa": "/pa.nas/",
+      "englishMeaning": "Hot",
+      "vietnamese": "Nóng",
+      "example": "Air teh ini masih panas."
+    },
+    {
+      "english": "Hujan",
+      "ipa": "/hu.dʒan/",
+      "englishMeaning": "Rain",
+      "vietnamese": "Mưa",
+      "example": "Hari ini akan hujan deras."
+    },
+    {
+      "english": "Cerah",
+      "ipa": "/tʃə.rah/",
+      "englishMeaning": "Clear / Bright (weather)",
+      "vietnamese": "Nắng",
+      "example": "Langit terlihat cerah tanpa awan."
+    },
+    {
+      "english": "tidak selera makan",
+      "ipa": "/ti.dak sə.le.ra ma.kan/",
+      "englishMeaning": "Loss of appetite",
+      "vietnamese": "biếng ăn",
+      "example": "Saya merasa tidak selera makan hari ini."
+    },
+    {
+      "english": "berat",
+      "ipa": "/bə.rat/",
+      "englishMeaning": "Heavy",
+      "vietnamese": "nặng",
+      "example": "Koper ini sangat berat."
+    },
+    {
+      "english": "beras",
+      "ipa": "/bə.ras/",
+      "englishMeaning": "Uncooked rice",
+      "vietnamese": "gạo",
+      "example": "Ibu membeli beras di pasar."
+    },
+    {
+      "english": "berak",
+      "ipa": "/bə.rak/",
+      "englishMeaning": "Defecate",
+      "vietnamese": "đi ngoài",
+      "example": "Bayi itu berak di popoknya."
+    },
+    {
+      "english": "nasi",
+      "ipa": "/na.si/",
+      "englishMeaning": "Cooked rice",
+      "vietnamese": "cơm",
+      "example": "Saya suka makan nasi goreng."
+    },
+    {
+      "english": "masih",
+      "ipa": "/ma.sih/",
+      "englishMeaning": "Still",
+      "vietnamese": "vẫn còn",
+      "example": "Dia masih tidur."
+    },
+    {
+      "english": "basi",
+      "ipa": "/ba.si/",
+      "englishMeaning": "Stale / Spoiled",
+      "vietnamese": "hư",
+      "example": "Nasi ini sudah basi."
+    },
+    {
+      "english": "basa-basi",
+      "ipa": "/ba.sa.ba.si/",
+      "englishMeaning": "Small talk / Chit-chat",
+      "vietnamese": "tám chuyện",
+      "example": "Mereka hanya basa-basi sebentar."
+    },
+    {
+      "english": "flu",
+      "ipa": "/flu/",
+      "englishMeaning": "Flu",
+      "vietnamese": "cảm cúm",
+      "example": "Saya terkena flu dan demam."
+    },
+    {
+      "english": "ngantuk",
+      "ipa": "/ŋan.tuk/",
+      "englishMeaning": "Sleepy",
+      "vietnamese": "buồn ngủ",
+      "example": "Saya merasa sangat ngantuk setelah makan siang."
+    },
+    {
+      "english": "Keracunan",
+      "ipa": "/kə.ra.tʃu.nan/",
+      "englishMeaning": "Poisoning",
+      "vietnamese": "trúng thực",
+      "example": "Dia dirawat di rumah sakit karena keracunan makanan."
+    },
+    {
+      "english": "muntah",
+      "ipa": "/mun.tah/",
+      "englishMeaning": "Vomit",
+      "vietnamese": "nôn mửa",
+      "example": "Setelah makan makanan basi, dia muntah."
+    },
+    {
+      "english": "jamur",
+      "ipa": "/dʒa.mur/",
+      "englishMeaning": "Mushroom / Fungus",
+      "vietnamese": "nấm",
+      "example": "Ada banyak jenis jamur di hutan."
+    }
+  ]
+}
