@@ -1,0 +1,41 @@
+{
+  "topicNameVietnamese": "Bệnh tật",
+  "topicNameIndonesian": "Kondisi Medis",
+  "words": [
+    {
+      "english": "Buta",
+      "ipa": "/bu.ta/",
+      "englishMeaning": "Blind",
+      "vietnamese": "Mù",
+      "example": "Kakek itu buta sejak lahir."
+    },
+    {
+      "english": "Tuli",
+      "ipa": "/tu.li/",
+      "englishMeaning": "Deaf",
+      "vietnamese": "Điếc",
+      "example": "Dia tidak bisa mendengar karena tuli."
+    },
+    {
+      "english": "Bisu",
+      "ipa": "/bi.su/",
+      "englishMeaning": "Mute",
+      "vietnamese": "Câm",
+      "example": "Anak itu bisu, jadi dia berkomunikasi dengan bahasa isyarat."
+    },
+    {
+      "english": "Lumpuh",
+      "ipa": "/lum.puh/",
+      "englishMeaning": "Paralyzed",
+      "vietnamese": "Què",
+      "example": "Kakinya lumpuh setelah kecelakaan itu."
+    },
+    {
+      "english": "Kudis",
+      "ipa": "/ku.dis/",
+      "englishMeaning": "Scabies",
+      "vietnamese": "Ghẻ",
+      "example": "Dia menggaruk-garuk karena kudis."
+    }
+  ]
+}
