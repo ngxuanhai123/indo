@@ -1,0 +1,329 @@
+{
+  "name": "Thực vật - Tumbuhan",
+  "topicNameVietnamese": "Thực vật",
+  "topicNameIndonesian": "Tumbuhan",
+  "words": [
+    {
+      "english": "mangga",
+      "ipa": "",
+      "englishMeaning": "mango",
+      "vietnamese": "xoài",
+      "example": ""
+    },
+    {
+      "english": "pisang",
+      "ipa": "",
+      "englishMeaning": "banana",
+      "vietnamese": "chuối",
+      "example": ""
+    },
+    {
+      "english": "jeruk bali",
+      "ipa": "",
+      "englishMeaning": "pomelo",
+      "vietnamese": "bưởi",
+      "example": ""
+    },
+    {
+      "english": "jambu",
+      "ipa": "",
+      "englishMeaning": "guava",
+      "vietnamese": "ổi",
+      "example": ""
+    },
+    {
+      "english": "durian",
+      "ipa": "",
+      "englishMeaning": "durian",
+      "vietnamese": "sầu riêng",
+      "example": ""
+    },
+    {
+      "english": "rambutan",
+      "ipa": "",
+      "englishMeaning": "rambutan",
+      "vietnamese": "chôm chôm",
+      "example": ""
+    },
+    {
+      "english": "nangka",
+      "ipa": "",
+      "englishMeaning": "jackfruit",
+      "vietnamese": "mít",
+      "example": ""
+    },
+    {
+      "english": "apel",
+      "ipa": "",
+      "englishMeaning": "apple",
+      "vietnamese": "táo",
+      "example": ""
+    },
+    {
+      "english": "leci",
+      "ipa": "",
+      "englishMeaning": "lychee",
+      "vietnamese": "vải",
+      "example": ""
+    },
+    {
+      "english": "stroberi",
+      "ipa": "",
+      "englishMeaning": "strawberry",
+      "vietnamese": "dâu tây",
+      "example": ""
+    },
+    {
+      "english": "anggur",
+      "ipa": "",
+      "englishMeaning": "grape",
+      "vietnamese": "nho",
+      "example": ""
+    },
+    {
+      "english": "kelengkeng",
+      "ipa": "",
+      "englishMeaning": "longan",
+      "vietnamese": "nhãn",
+      "example": ""
+    },
+    {
+      "english": "sirsak",
+      "ipa": "",
+      "englishMeaning": "soursop",
+      "vietnamese": "mãng cầu",
+      "example": ""
+    },
+    {
+      "english": "nanas",
+      "ipa": "",
+      "englishMeaning": "pineapple",
+      "vietnamese": "dứa / thơm",
+      "example": ""
+    },
+    {
+      "english": "jeruk",
+      "ipa": "",
+      "englishMeaning": "orange",
+      "vietnamese": "cam",
+      "example": ""
+    },
+    {
+      "english": "jeruk nipis",
+      "ipa": "",
+      "englishMeaning": "lime",
+      "vietnamese": "chanh",
+      "example": ""
+    },
+    {
+      "english": "jeruk lemon",
+      "ipa": "",
+      "englishMeaning": "lemon",
+      "vietnamese": "chanh vàng",
+      "example": ""
+    },
+    {
+      "english": "buah naga",
+      "ipa": "",
+      "englishMeaning": "dragon fruit",
+      "vietnamese": "thanh long",
+      "example": ""
+    },
+    {
+      "english": "padi",
+      "ipa": "",
+      "englishMeaning": "rice plant",
+      "vietnamese": "lúa",
+      "example": ""
+    },
+    {
+      "english": "jagung",
+      "ipa": "",
+      "englishMeaning": "corn",
+      "vietnamese": "ngô / bắp",
+      "example": ""
+    },
+    {
+      "english": "kacang",
+      "ipa": "",
+      "englishMeaning": "bean",
+      "vietnamese": "đậu",
+      "example": ""
+    },
+    {
+      "english": "tebu",
+      "ipa": "",
+      "englishMeaning": "sugarcane",
+      "vietnamese": "mía",
+      "example": ""
+    },
+    {
+      "english": "sayuran",
+      "ipa": "",
+      "englishMeaning": "vegetables",
+      "vietnamese": "rau",
+      "example": ""
+    },
+    {
+      "english": "tanaman hias",
+      "ipa": "",
+      "englishMeaning": "ornamental plant",
+      "vietnamese": "cây cảnh",
+      "example": ""
+    },
+    {
+      "english": "pohon",
+      "ipa": "",
+      "englishMeaning": "tree",
+      "vietnamese": "cây",
+      "example": ""
+    },
+    {
+      "english": "rumput",
+      "ipa": "",
+      "englishMeaning": "grass",
+      "vietnamese": "cỏ",
+      "example": ""
+    },
+    {
+      "english": "bunga",
+      "ipa": "",
+      "englishMeaning": "flower",
+      "vietnamese": "hoa",
+      "example": ""
+    },
+    {
+      "english": "wortel",
+      "ipa": "",
+      "englishMeaning": "carrot",
+      "vietnamese": "cà rốt",
+      "example": ""
+    },
+    {
+      "english": "kentang",
+      "ipa": "",
+      "englishMeaning": "potato",
+      "vietnamese": "khoai tây",
+      "example": ""
+    },
+    {
+      "english": "ubi",
+      "ipa": "",
+      "englishMeaning": "sweet potato",
+      "vietnamese": "khoai lang",
+      "example": ""
+    },
+    {
+      "english": "kol",
+      "ipa": "",
+      "englishMeaning": "cabbage",
+      "vietnamese": "bắp cải",
+      "example": ""
+    },
+    {
+      "english": "bayam",
+      "ipa": "",
+      "englishMeaning": "spinach",
+      "vietnamese": "rau chân vịt",
+      "example": ""
+    },
+    {
+      "english": "kangkung",
+      "ipa": "",
+      "englishMeaning": "water spinach",
+      "vietnamese": "rau muống",
+      "example": ""
+    },
+    {
+      "english": "tomat",
+      "ipa": "",
+      "englishMeaning": "tomato",
+      "vietnamese": "cà chua",
+      "example": ""
+    },
+    {
+      "english": "timun",
+      "ipa": "",
+      "englishMeaning": "cucumber",
+      "vietnamese": "dưa leo",
+      "example": ""
+    },
+    {
+      "english": "terong",
+      "ipa": "",
+      "englishMeaning": "eggplant",
+      "vietnamese": "cà tím",
+      "example": ""
+    },
+    {
+      "english": "bawang merah",
+      "ipa": "",
+      "englishMeaning": "shallot",
+      "vietnamese": "hành tím",
+      "example": ""
+    },
+    {
+      "english": "bawang putih",
+      "ipa": "",
+      "englishMeaning": "garlic",
+      "vietnamese": "tỏi",
+      "example": ""
+    },
+    {
+      "english": "cabai",
+      "ipa": "",
+      "englishMeaning": "chili",
+      "vietnamese": "ớt",
+      "example": ""
+    },
+    {
+      "english": "jahe",
+      "ipa": "",
+      "englishMeaning": "ginger",
+      "vietnamese": "gừng",
+      "example": ""
+    },
+    {
+      "english": "kunyit",
+      "ipa": "",
+      "englishMeaning": "turmeric",
+      "vietnamese": "nghệ",
+      "example": ""
+    },
+    {
+      "english": "serai",
+      "ipa": "",
+      "englishMeaning": "lemongrass",
+      "vietnamese": "sả",
+      "example": ""
+    },
+    {
+      "english": "daun bawang",
+      "ipa": "",
+      "englishMeaning": "spring onion",
+      "vietnamese": "hành lá",
+      "example": ""
+    },
+    {
+      "english": "daun ketumbar",
+      "ipa": "",
+      "englishMeaning": "coriander leaf",
+      "vietnamese": "rau mùi",
+      "example": ""
+    },
+    {
+      "english": "daun kemangi",
+      "ipa": "",
+      "englishMeaning": "basil leaf",
+      "vietnamese": "húng quế",
+      "example": ""
+    },
+    {
+      "english": "daun pandan",
+      "ipa": "",
+      "englishMeaning": "pandan leaf",
+      "vietnamese": "lá dứa",
+      "example": ""
+    }
+  ]
+}

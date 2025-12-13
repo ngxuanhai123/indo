@@ -1,0 +1,434 @@
+{
+  "name": "Đồ dùng trong nhà - Peralatan Rumah Tangga",
+  "topicNameVietnamese": "Đồ dùng trong nhà",
+  "topicNameIndonesian": "Peralatan Rumah Tangga",
+  "words": [
+    {
+      "english": "kursi",
+      "ipa": "",
+      "englishMeaning": "chair",
+      "vietnamese": "ghế",
+      "example": ""
+    },
+    {
+      "english": "meja",
+      "ipa": "",
+      "englishMeaning": "table",
+      "vietnamese": "bàn",
+      "example": ""
+    },
+    {
+      "english": "karpet",
+      "ipa": "",
+      "englishMeaning": "carpet",
+      "vietnamese": "thảm",
+      "example": ""
+    },
+    {
+      "english": "lampu",
+      "ipa": "",
+      "englishMeaning": "lamp",
+      "vietnamese": "đèn",
+      "example": ""
+    },
+    {
+      "english": "televisi",
+      "ipa": "",
+      "englishMeaning": "television",
+      "vietnamese": "tivi",
+      "example": ""
+    },
+    {
+      "english": "remote",
+      "ipa": "",
+      "englishMeaning": "remote control",
+      "vietnamese": "điều khiển",
+      "example": ""
+    },
+    {
+      "english": "jam dinding",
+      "ipa": "",
+      "englishMeaning": "wall clock",
+      "vietnamese": "đồng hồ treo tường",
+      "example": ""
+    },
+    {
+      "english": "kipas angin",
+      "ipa": "",
+      "englishMeaning": "fan",
+      "vietnamese": "quạt máy",
+      "example": ""
+    },
+    {
+      "english": "rak buku",
+      "ipa": "",
+      "englishMeaning": "bookshelf",
+      "vietnamese": "kệ sách",
+      "example": ""
+    },
+    {
+      "english": "tempat tidur",
+      "ipa": "",
+      "englishMeaning": "bed",
+      "vietnamese": "giường",
+      "example": ""
+    },
+    {
+      "english": "bantal",
+      "ipa": "",
+      "englishMeaning": "pillow",
+      "vietnamese": "gối",
+      "example": ""
+    },
+    {
+      "english": "selimut",
+      "ipa": "",
+      "englishMeaning": "blanket",
+      "vietnamese": "chăn",
+      "example": ""
+    },
+    {
+      "english": "sprei",
+      "ipa": "",
+      "englishMeaning": "bed sheet",
+      "vietnamese": "ga trải giường",
+      "example": ""
+    },
+    {
+      "english": "lemari pakaian",
+      "ipa": "",
+      "englishMeaning": "wardrobe",
+      "vietnamese": "tủ quần áo",
+      "example": ""
+    },
+    {
+      "english": "cermin",
+      "ipa": "",
+      "englishMeaning": "mirror",
+      "vietnamese": "gương",
+      "example": ""
+    },
+    {
+      "english": "gantungan baju",
+      "ipa": "",
+      "englishMeaning": "clothes hanger",
+      "vietnamese": "móc treo quần áo",
+      "example": ""
+    },
+    {
+      "english": "lampu tidur",
+      "ipa": "",
+      "englishMeaning": "night lamp",
+      "vietnamese": "đèn ngủ",
+      "example": ""
+    },
+    {
+      "english": "piring",
+      "ipa": "",
+      "englishMeaning": "plate",
+      "vietnamese": "đĩa",
+      "example": ""
+    },
+    {
+      "english": "mangkuk",
+      "ipa": "",
+      "englishMeaning": "bowl",
+      "vietnamese": "tô",
+      "example": ""
+    },
+    {
+      "english": "gelas",
+      "ipa": "",
+      "englishMeaning": "glass",
+      "vietnamese": "ly",
+      "example": ""
+    },
+    {
+      "english": "sendok",
+      "ipa": "",
+      "englishMeaning": "spoon",
+      "vietnamese": "thìa",
+      "example": ""
+    },
+    {
+      "english": "garpu",
+      "ipa": "",
+      "englishMeaning": "fork",
+      "vietnamese": "nĩa",
+      "example": ""
+    },
+    {
+      "english": "pisau",
+      "ipa": "",
+      "englishMeaning": "knife",
+      "vietnamese": "dao",
+      "example": ""
+    },
+    {
+      "english": "kompor",
+      "ipa": "",
+      "englishMeaning": "stove",
+      "vietnamese": "bếp",
+      "example": ""
+    },
+    {
+      "english": "kulkas",
+      "ipa": "",
+      "englishMeaning": "refrigerator",
+      "vietnamese": "tủ lạnh",
+      "example": ""
+    },
+    {
+      "english": "microwave",
+      "ipa": "",
+      "englishMeaning": "microwave",
+      "vietnamese": "lò vi sóng",
+      "example": ""
+    },
+    {
+      "english": "rice cooker",
+      "ipa": "",
+      "englishMeaning": "rice cooker",
+      "vietnamese": "nồi cơm điện",
+      "example": ""
+    },
+    {
+      "english": "bak mandi",
+      "ipa": "",
+      "englishMeaning": "bathtub",
+      "vietnamese": "bồn tắm",
+      "example": ""
+    },
+    {
+      "english": "shower",
+      "ipa": "",
+      "englishMeaning": "shower",
+      "vietnamese": "vòi sen",
+      "example": ""
+    },
+    {
+      "english": "ember",
+      "ipa": "",
+      "englishMeaning": "bucket",
+      "vietnamese": "xô",
+      "example": ""
+    },
+    {
+      "english": "gayung",
+      "ipa": "",
+      "englishMeaning": "dipper",
+      "vietnamese": "ca múc nước",
+      "example": ""
+    },
+    {
+      "english": "sikat gigi",
+      "ipa": "",
+      "englishMeaning": "toothbrush",
+      "vietnamese": "bàn chải đánh răng",
+      "example": ""
+    },
+    {
+      "english": "pasta gigi",
+      "ipa": "",
+      "englishMeaning": "toothpaste",
+      "vietnamese": "kem đánh răng",
+      "example": ""
+    },
+    {
+      "english": "sabun",
+      "ipa": "",
+      "englishMeaning": "soap",
+      "vietnamese": "xà phòng",
+      "example": ""
+    },
+    {
+      "english": "sampo",
+      "ipa": "",
+      "englishMeaning": "shampoo",
+      "vietnamese": "dầu gội",
+      "example": ""
+    },
+    {
+      "english": "handuk",
+      "ipa": "",
+      "englishMeaning": "towel",
+      "vietnamese": "khăn tắm",
+      "example": ""
+    },
+    {
+      "english": "sapu",
+      "ipa": "",
+      "englishMeaning": "broom",
+      "vietnamese": "chổi",
+      "example": ""
+    },
+    {
+      "english": "pel",
+      "ipa": "",
+      "englishMeaning": "mop",
+      "vietnamese": "cây lau nhà",
+      "example": ""
+    },
+    {
+      "english": "lap",
+      "ipa": "",
+      "englishMeaning": "cloth",
+      "vietnamese": "khăn lau",
+      "example": ""
+    },
+    {
+      "english": "sarung tangan",
+      "ipa": "",
+      "englishMeaning": "gloves",
+      "vietnamese": "găng tay",
+      "example": ""
+    },
+    {
+      "english": "tisu",
+      "ipa": "",
+      "englishMeaning": "tissue",
+      "vietnamese": "giấy lau",
+      "example": ""
+    },
+    {
+      "english": "komputer",
+      "ipa": "",
+      "englishMeaning": "computer",
+      "vietnamese": "máy tính",
+      "example": ""
+    },
+    {
+      "english": "laptop",
+      "ipa": "",
+      "englishMeaning": "laptop",
+      "vietnamese": "máy tính xách tay",
+      "example": ""
+    },
+    {
+      "english": "printer",
+      "ipa": "",
+      "englishMeaning": "printer",
+      "vietnamese": "máy in",
+      "example": ""
+    },
+    {
+      "english": "router",
+      "ipa": "",
+      "englishMeaning": "router",
+      "vietnamese": "bộ phát wifi",
+      "example": ""
+    },
+    {
+      "english": "charger",
+      "ipa": "",
+      "englishMeaning": "charger",
+      "vietnamese": "bộ sạc",
+      "example": ""
+    },
+    {
+      "english": "kabel",
+      "ipa": "",
+      "englishMeaning": "cable",
+      "vietnamese": "dây cáp",
+      "example": ""
+    },
+    {
+      "english": "headphone",
+      "ipa": "",
+      "englishMeaning": "headphones",
+      "vietnamese": "tai nghe",
+      "example": ""
+    },
+    {
+      "english": "speaker",
+      "ipa": "",
+      "englishMeaning": "speaker",
+      "vietnamese": "loa",
+      "example": ""
+    },
+    {
+      "english": "kamera",
+      "ipa": "",
+      "englishMeaning": "camera",
+      "vietnamese": "máy ảnh",
+      "example": ""
+    },
+    {
+      "english": "tablet",
+      "ipa": "",
+      "englishMeaning": "tablet",
+      "vietnamese": "máy tính bảng",
+      "example": ""
+    },
+    {
+      "english": "obeng",
+      "ipa": "",
+      "englishMeaning": "screwdriver",
+      "vietnamese": "tua vít",
+      "example": ""
+    },
+    {
+      "english": "palu",
+      "ipa": "",
+      "englishMeaning": "hammer",
+      "vietnamese": "búa",
+      "example": ""
+    },
+    {
+      "english": "tang",
+      "ipa": "",
+      "englishMeaning": "pliers",
+      "vietnamese": "kìm",
+      "example": ""
+    },
+    {
+      "english": "meteran",
+      "ipa": "",
+      "englishMeaning": "measuring tape",
+      "vietnamese": "thước dây",
+      "example": ""
+    },
+    {
+      "english": "bor",
+      "ipa": "",
+      "englishMeaning": "drill",
+      "vietnamese": "máy khoan",
+      "example": ""
+    },
+    {
+      "english": "lem",
+      "ipa": "",
+      "englishMeaning": "glue",
+      "vietnamese": "keo dán",
+      "example": ""
+    },
+    {
+      "english": "isolasi",
+      "ipa": "",
+      "englishMeaning": "tape",
+      "vietnamese": "băng keo",
+      "example": ""
+    },
+    {
+      "english": "kunci inggris",
+      "ipa": "",
+      "englishMeaning": "wrench",
+      "vietnamese": "mỏ lết",
+      "example": ""
+    },
+    {
+      "english": "gunting",
+      "ipa": "",
+      "englishMeaning": "scissors",
+      "vietnamese": "kéo",
+      "example": ""
+    },
+    {
+      "english": "pisau cutter",
+      "ipa": "",
+      "englishMeaning": "cutter knife",
+      "vietnamese": "dao rọc giấy",
+      "example": ""
+    }
+  ]
+}

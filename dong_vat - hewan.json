@@ -1,0 +1,308 @@
+{
+  "name": "Động vật - Hewan",
+  "topicNameVietnamese": "Động vật",
+  "topicNameIndonesian": "Hewan",
+  "words": [
+    {
+      "english": "anjing",
+      "ipa": "",
+      "englishMeaning": "dog",
+      "vietnamese": "chó",
+      "example": ""
+    },
+    {
+      "english": "kucing",
+      "ipa": "",
+      "englishMeaning": "cat",
+      "vietnamese": "mèo",
+      "example": ""
+    },
+    {
+      "english": "kelinci",
+      "ipa": "",
+      "englishMeaning": "rabbit",
+      "vietnamese": "thỏ",
+      "example": ""
+    },
+    {
+      "english": "burung",
+      "ipa": "",
+      "englishMeaning": "bird",
+      "vietnamese": "chim",
+      "example": ""
+    },
+    {
+      "english": "ikan",
+      "ipa": "",
+      "englishMeaning": "fish",
+      "vietnamese": "cá",
+      "example": ""
+    },
+    {
+      "english": "ayam",
+      "ipa": "",
+      "englishMeaning": "chicken",
+      "vietnamese": "gà",
+      "example": ""
+    },
+    {
+      "english": "bebek",
+      "ipa": "",
+      "englishMeaning": "duck",
+      "vietnamese": "vịt",
+      "example": ""
+    },
+    {
+      "english": "sapi",
+      "ipa": "",
+      "englishMeaning": "cow",
+      "vietnamese": "bò",
+      "example": ""
+    },
+    {
+      "english": "kuda",
+      "ipa": "",
+      "englishMeaning": "horse",
+      "vietnamese": "ngựa",
+      "example": ""
+    },
+    {
+      "english": "kambing",
+      "ipa": "",
+      "englishMeaning": "goat",
+      "vietnamese": "dê",
+      "example": ""
+    },
+    {
+      "english": "harimau",
+      "ipa": "",
+      "englishMeaning": "tiger",
+      "vietnamese": "hổ",
+      "example": ""
+    },
+    {
+      "english": "singa",
+      "ipa": "",
+      "englishMeaning": "lion",
+      "vietnamese": "sư tử",
+      "example": ""
+    },
+    {
+      "english": "gajah",
+      "ipa": "",
+      "englishMeaning": "elephant",
+      "vietnamese": "voi",
+      "example": ""
+    },
+    {
+      "english": "monyet",
+      "ipa": "",
+      "englishMeaning": "monkey",
+      "vietnamese": "khỉ",
+      "example": ""
+    },
+    {
+      "english": "beruang",
+      "ipa": "",
+      "englishMeaning": "bear",
+      "vietnamese": "gấu",
+      "example": ""
+    },
+    {
+      "english": "rusa",
+      "ipa": "",
+      "englishMeaning": "deer",
+      "vietnamese": "nai / hươu",
+      "example": ""
+    },
+    {
+      "english": "buaya",
+      "ipa": "",
+      "englishMeaning": "crocodile",
+      "vietnamese": "cá sấu",
+      "example": ""
+    },
+    {
+      "english": "ular",
+      "ipa": "",
+      "englishMeaning": "snake",
+      "vietnamese": "rắn",
+      "example": ""
+    },
+    {
+      "english": "kangguru",
+      "ipa": "",
+      "englishMeaning": "kangaroo",
+      "vietnamese": "chuột túi",
+      "example": ""
+    },
+    {
+      "english": "koala",
+      "ipa": "",
+      "englishMeaning": "koala",
+      "vietnamese": "gấu túi",
+      "example": ""
+    },
+    {
+      "english": "semut",
+      "ipa": "",
+      "englishMeaning": "ant",
+      "vietnamese": "kiến",
+      "example": ""
+    },
+    {
+      "english": "nyamuk",
+      "ipa": "",
+      "englishMeaning": "mosquito",
+      "vietnamese": "muỗi",
+      "example": ""
+    },
+    {
+      "english": "lalat",
+      "ipa": "",
+      "englishMeaning": "fly",
+      "vietnamese": "ruồi",
+      "example": ""
+    },
+    {
+      "english": "lebah",
+      "ipa": "",
+      "englishMeaning": "bee",
+      "vietnamese": "ong",
+      "example": ""
+    },
+    {
+      "english": "kupu-kupu",
+      "ipa": "",
+      "englishMeaning": "butterfly",
+      "vietnamese": "bướm",
+      "example": ""
+    },
+    {
+      "english": "cacing",
+      "ipa": "",
+      "englishMeaning": "worm",
+      "vietnamese": "giun",
+      "example": ""
+    },
+    {
+      "english": "laba-laba",
+      "ipa": "",
+      "englishMeaning": "spider",
+      "vietnamese": "nhện",
+      "example": ""
+    },
+    {
+      "english": "kerang",
+      "ipa": "",
+      "englishMeaning": "clam",
+      "vietnamese": "sò",
+      "example": ""
+    },
+    {
+      "english": "kepiting",
+      "ipa": "",
+      "englishMeaning": "crab",
+      "vietnamese": "cua",
+      "example": ""
+    },
+    {
+      "english": "udang",
+      "ipa": "",
+      "englishMeaning": "shrimp",
+      "vietnamese": "tôm",
+      "example": ""
+    },
+    {
+      "english": "elang",
+      "ipa": "",
+      "englishMeaning": "eagle",
+      "vietnamese": "đại bàng",
+      "example": ""
+    },
+    {
+      "english": "merpati",
+      "ipa": "",
+      "englishMeaning": "pigeon",
+      "vietnamese": "chim bồ câu",
+      "example": ""
+    },
+    {
+      "english": "burung hantu",
+      "ipa": "",
+      "englishMeaning": "owl",
+      "vietnamese": "cú mèo",
+      "example": ""
+    },
+    {
+      "english": "burung pipit",
+      "ipa": "",
+      "englishMeaning": "sparrow",
+      "vietnamese": "chim sẻ",
+      "example": ""
+    },
+    {
+      "english": "burung beo",
+      "ipa": "",
+      "englishMeaning": "parrot",
+      "vietnamese": "vẹt",
+      "example": ""
+    },
+    {
+      "english": "burung unta",
+      "ipa": "",
+      "englishMeaning": "ostrich",
+      "vietnamese": "đà điểu",
+      "example": ""
+    },
+    {
+      "english": "kadal",
+      "ipa": "",
+      "englishMeaning": "lizard",
+      "vietnamese": "thằn lằn",
+      "example": ""
+    },
+    {
+      "english": "katak",
+      "ipa": "",
+      "englishMeaning": "frog",
+      "vietnamese": "ếch",
+      "example": ""
+    },
+    {
+      "english": "kodok",
+      "ipa": "",
+      "englishMeaning": "toad",
+      "vietnamese": "cóc",
+      "example": ""
+    },
+    {
+      "english": "bunglon",
+      "ipa": "",
+      "englishMeaning": "chameleon",
+      "vietnamese": "tắc kè hoa",
+      "example": ""
+    },
+    {
+      "english": "kerbau",
+      "ipa": "",
+      "englishMeaning": "buffalo",
+      "vietnamese": "trâu",
+      "example": ""
+    },
+    {
+      "english": "babi",
+      "ipa": "",
+      "englishMeaning": "pig",
+      "vietnamese": "heo / lợn",
+      "example": ""
+    },
+    {
+      "english": "domba",
+      "ipa": "",
+      "englishMeaning": "sheep",
+      "vietnamese": "cừu",
+      "example": ""
+    }
+  ]
+}

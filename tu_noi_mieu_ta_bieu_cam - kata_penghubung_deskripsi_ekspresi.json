@@ -1,0 +1,679 @@
+{
+  "name": "Từ nối, miêu tả, biểu cảm - Kata Penghubung, Deskripsi, Ekspresi",
+  "topicNameVietnamese": "Từ nối, miêu tả, biểu cảm",
+  "topicNameIndonesian": "Kata Penghubung, Deskripsi, Ekspresi",
+  "words": [
+    {
+      "english": "dan",
+      "ipa": "",
+      "englishMeaning": "and",
+      "vietnamese": "và",
+      "example": ""
+    },
+    {
+      "english": "atau",
+      "ipa": "",
+      "englishMeaning": "or",
+      "vietnamese": "hoặc",
+      "example": ""
+    },
+    {
+      "english": "tetapi",
+      "ipa": "",
+      "englishMeaning": "but",
+      "vietnamese": "nhưng",
+      "example": ""
+    },
+    {
+      "english": "namun",
+      "ipa": "",
+      "englishMeaning": "however",
+      "vietnamese": "tuy nhiên",
+      "example": ""
+    },
+    {
+      "english": "karena",
+      "ipa": "",
+      "englishMeaning": "because",
+      "vietnamese": "bởi vì",
+      "example": ""
+    },
+    {
+      "english": "sebab",
+      "ipa": "",
+      "englishMeaning": "cause",
+      "vietnamese": "lý do là",
+      "example": ""
+    },
+    {
+      "english": "jadi",
+      "ipa": "",
+      "englishMeaning": "so",
+      "vietnamese": "vì vậy",
+      "example": ""
+    },
+    {
+      "english": "maka",
+      "ipa": "",
+      "englishMeaning": "thus",
+      "vietnamese": "thế nên",
+      "example": ""
+    },
+    {
+      "english": "meskipun",
+      "ipa": "",
+      "englishMeaning": "although",
+      "vietnamese": "mặc dù",
+      "example": ""
+    },
+    {
+      "english": "walaupun",
+      "ipa": "",
+      "englishMeaning": "even though",
+      "vietnamese": "dù cho",
+      "example": ""
+    },
+    {
+      "english": "sementara",
+      "ipa": "",
+      "englishMeaning": "while",
+      "vietnamese": "trong khi",
+      "example": ""
+    },
+    {
+      "english": "sebelum",
+      "ipa": "",
+      "englishMeaning": "before",
+      "vietnamese": "trước khi",
+      "example": ""
+    },
+    {
+      "english": "sesudah",
+      "ipa": "",
+      "englishMeaning": "after",
+      "vietnamese": "sau khi",
+      "example": ""
+    },
+    {
+      "english": "agar",
+      "ipa": "",
+      "englishMeaning": "so that",
+      "vietnamese": "để",
+      "example": ""
+    },
+    {
+      "english": "supaya",
+      "ipa": "",
+      "englishMeaning": "in order that",
+      "vietnamese": "nhằm mục đích",
+      "example": ""
+    },
+    {
+      "english": "selain itu",
+      "ipa": "",
+      "englishMeaning": "besides that",
+      "vietnamese": "ngoài ra",
+      "example": ""
+    },
+    {
+      "english": "lebih lanjut",
+      "ipa": "",
+      "englishMeaning": "furthermore",
+      "vietnamese": "thêm nữa",
+      "example": ""
+    },
+    {
+      "english": "bahkan",
+      "ipa": "",
+      "englishMeaning": "even",
+      "vietnamese": "thậm chí",
+      "example": ""
+    },
+    {
+      "english": "sebaliknya",
+      "ipa": "",
+      "englishMeaning": "on the contrary",
+      "vietnamese": "ngược lại",
+      "example": ""
+    },
+    {
+      "english": "dengan demikian",
+      "ipa": "",
+      "englishMeaning": "therefore",
+      "vietnamese": "như vậy",
+      "example": ""
+    },
+    {
+      "english": "misalnya",
+      "ipa": "",
+      "englishMeaning": "for example",
+      "vietnamese": "ví dụ",
+      "example": ""
+    },
+    {
+      "english": "contohnya",
+      "ipa": "",
+      "englishMeaning": "such as",
+      "vietnamese": "chẳng hạn",
+      "example": ""
+    },
+    {
+      "english": "yaitu",
+      "ipa": "",
+      "englishMeaning": "that is",
+      "vietnamese": "tức là",
+      "example": ""
+    },
+    {
+      "english": "dengan kata lain",
+      "ipa": "",
+      "englishMeaning": "in other words",
+      "vietnamese": "nói cách khác",
+      "example": ""
+    },
+    {
+      "english": "akhirnya",
+      "ipa": "",
+      "englishMeaning": "finally",
+      "vietnamese": "cuối cùng",
+      "example": ""
+    },
+    {
+      "english": "kemudian",
+      "ipa": "",
+      "englishMeaning": "then",
+      "vietnamese": "sau đó",
+      "example": ""
+    },
+    {
+      "english": "selanjutnya",
+      "ipa": "",
+      "englishMeaning": "next",
+      "vietnamese": "tiếp theo",
+      "example": ""
+    },
+    {
+      "english": "sementara itu",
+      "ipa": "",
+      "englishMeaning": "meanwhile",
+      "vietnamese": "trong khi đó",
+      "example": ""
+    },
+    {
+      "english": "padahal",
+      "ipa": "",
+      "englishMeaning": "in fact",
+      "vietnamese": "thực ra thì",
+      "example": ""
+    },
+    {
+      "english": "meski begitu",
+      "ipa": "",
+      "englishMeaning": "even so",
+      "vietnamese": "dù vậy",
+      "example": ""
+    },
+    {
+      "english": "wah",
+      "ipa": "",
+      "englishMeaning": "wow",
+      "vietnamese": "ôi / wow",
+      "example": ""
+    },
+    {
+      "english": "aduh",
+      "ipa": "",
+      "englishMeaning": "ouch / oh no",
+      "vietnamese": "trời ơi / ôi trời",
+      "example": ""
+    },
+    {
+      "english": "asyik",
+      "ipa": "",
+      "englishMeaning": "awesome",
+      "vietnamese": "tuyệt vời",
+      "example": ""
+    },
+    {
+      "english": "ya ampun",
+      "ipa": "",
+      "englishMeaning": "oh my god",
+      "vietnamese": "trời đất ơi",
+      "example": ""
+    },
+    {
+      "english": "hore",
+      "ipa": "",
+      "englishMeaning": "hooray",
+      "vietnamese": "hoan hô",
+      "example": ""
+    },
+    {
+      "english": "hmm",
+      "ipa": "",
+      "englishMeaning": "hmm",
+      "vietnamese": "ừm / hừm",
+      "example": ""
+    },
+    {
+      "english": "eh",
+      "ipa": "",
+      "englishMeaning": "hey",
+      "vietnamese": "ê / này",
+      "example": ""
+    },
+    {
+      "english": "wow",
+      "ipa": "",
+      "englishMeaning": "wow",
+      "vietnamese": "thật tuyệt",
+      "example": ""
+    },
+    {
+      "english": "ih",
+      "ipa": "",
+      "englishMeaning": "ew",
+      "vietnamese": "gớm / khiếp",
+      "example": ""
+    },
+    {
+      "english": "yah",
+      "ipa": "",
+      "englishMeaning": "oh no",
+      "vietnamese": "tiếc quá",
+      "example": ""
+    },
+    {
+      "english": "wow banget",
+      "ipa": "",
+      "englishMeaning": "so amazing",
+      "vietnamese": "quá tuyệt",
+      "example": ""
+    },
+    {
+      "english": "duh",
+      "ipa": "",
+      "englishMeaning": "ugh",
+      "vietnamese": "trời ơi",
+      "example": ""
+    },
+    {
+      "english": "mantap",
+      "ipa": "",
+      "englishMeaning": "great!",
+      "vietnamese": "đỉnh quá",
+      "example": ""
+    },
+    {
+      "english": "cih",
+      "ipa": "",
+      "englishMeaning": "tsk",
+      "vietnamese": "khinh bỉ",
+      "example": ""
+    },
+    {
+      "english": "hebat",
+      "ipa": "",
+      "englishMeaning": "awesome",
+      "vietnamese": "giỏi quá",
+      "example": ""
+    },
+    {
+      "english": "bagus",
+      "ipa": "",
+      "englishMeaning": "nice",
+      "vietnamese": "tốt lắm",
+      "example": ""
+    },
+    {
+      "english": "jelek banget",
+      "ipa": "",
+      "englishMeaning": "so ugly",
+      "vietnamese": "xấu quá",
+      "example": ""
+    },
+    {
+      "english": "seru",
+      "ipa": "",
+      "englishMeaning": "exciting",
+      "vietnamese": "hào hứng",
+      "example": ""
+    },
+    {
+      "english": "menyenangkan",
+      "ipa": "",
+      "englishMeaning": "pleasant",
+      "vietnamese": "vui vẻ",
+      "example": ""
+    },
+    {
+      "english": "menakjubkan",
+      "ipa": "",
+      "englishMeaning": "amazing",
+      "vietnamese": "kinh ngạc",
+      "example": ""
+    },
+    {
+      "english": "menyedihkan",
+      "ipa": "",
+      "englishMeaning": "sad",
+      "vietnamese": "buồn bã",
+      "example": ""
+    },
+    {
+      "english": "menjengkelkan",
+      "ipa": "",
+      "englishMeaning": "annoying",
+      "vietnamese": "khó chịu",
+      "example": ""
+    },
+    {
+      "english": "menakutkan",
+      "ipa": "",
+      "englishMeaning": "scary",
+      "vietnamese": "đáng sợ",
+      "example": ""
+    },
+    {
+      "english": "menenangkan",
+      "ipa": "",
+      "englishMeaning": "calming",
+      "vietnamese": "dễ chịu",
+      "example": ""
+    },
+    {
+      "english": "menyenangkan sekali",
+      "ipa": "",
+      "englishMeaning": "so fun",
+      "vietnamese": "rất vui",
+      "example": ""
+    },
+    {
+      "english": "gila",
+      "ipa": "",
+      "englishMeaning": "crazy",
+      "vietnamese": "điên thật",
+      "example": ""
+    },
+    {
+      "english": "lucu",
+      "ipa": "",
+      "englishMeaning": "funny",
+      "vietnamese": "hài hước",
+      "example": ""
+    },
+    {
+      "english": "kasihan",
+      "ipa": "",
+      "englishMeaning": "poor thing",
+      "vietnamese": "tội nghiệp",
+      "example": ""
+    },
+    {
+      "english": "semangat!",
+      "ipa": "",
+      "englishMeaning": "cheer up!",
+      "vietnamese": "cố lên!",
+      "example": ""
+    },
+    {
+      "english": "selamat!",
+      "ipa": "",
+      "englishMeaning": "congrats!",
+      "vietnamese": "chúc mừng!",
+      "example": ""
+    },
+    {
+      "english": "besar",
+      "ipa": "",
+      "englishMeaning": "big",
+      "vietnamese": "to / lớn",
+      "example": ""
+    },
+    {
+      "english": "kecil",
+      "ipa": "",
+      "englishMeaning": "small",
+      "vietnamese": "nhỏ",
+      "example": ""
+    },
+    {
+      "english": "panjang",
+      "ipa": "",
+      "englishMeaning": "long",
+      "vietnamese": "dài",
+      "example": ""
+    },
+    {
+      "english": "pendek",
+      "ipa": "",
+      "englishMeaning": "short",
+      "vietnamese": "ngắn",
+      "example": ""
+    },
+    {
+      "english": "cepat",
+      "ipa": "",
+      "englishMeaning": "fast",
+      "vietnamese": "nhanh",
+      "example": ""
+    },
+    {
+      "english": "lambat",
+      "ipa": "",
+      "englishMeaning": "slow",
+      "vietnamese": "chậm",
+      "example": ""
+    },
+    {
+      "english": "panas",
+      "ipa": "",
+      "englishMeaning": "hot",
+      "vietnamese": "nóng",
+      "example": ""
+    },
+    {
+      "english": "dingin",
+      "ipa": "",
+      "englishMeaning": "cold",
+      "vietnamese": "lạnh",
+      "example": ""
+    },
+    {
+      "english": "cantik",
+      "ipa": "",
+      "englishMeaning": "beautiful",
+      "vietnamese": "đẹp",
+      "example": ""
+    },
+    {
+      "english": "jelek",
+      "ipa": "",
+      "englishMeaning": "ugly",
+      "vietnamese": "xấu",
+      "example": ""
+    },
+    {
+      "english": "baik",
+      "ipa": "",
+      "englishMeaning": "good",
+      "vietnamese": "tốt",
+      "example": ""
+    },
+    {
+      "english": "buruk",
+      "ipa": "",
+      "englishMeaning": "bad",
+      "vietnamese": "tệ",
+      "example": ""
+    },
+    {
+      "english": "murah",
+      "ipa": "",
+      "englishMeaning": "cheap",
+      "vietnamese": "rẻ",
+      "example": ""
+    },
+    {
+      "english": "mahal",
+      "ipa": "",
+      "englishMeaning": "expensive",
+      "vietnamese": "đắt",
+      "example": ""
+    },
+    {
+      "english": "ramai",
+      "ipa": "",
+      "englishMeaning": "crowded",
+      "vietnamese": "đông đúc",
+      "example": ""
+    },
+    {
+      "english": "sepi",
+      "ipa": "",
+      "englishMeaning": "quiet",
+      "vietnamese": "vắng vẻ",
+      "example": ""
+    },
+    {
+      "english": "baru",
+      "ipa": "",
+      "englishMeaning": "new",
+      "vietnamese": "mới",
+      "example": ""
+    },
+    {
+      "english": "lama",
+      "ipa": "",
+      "englishMeaning": "old",
+      "vietnamese": "cũ",
+      "example": ""
+    },
+    {
+      "english": "kuat",
+      "ipa": "",
+      "englishMeaning": "strong",
+      "vietnamese": "mạnh",
+      "example": ""
+    },
+    {
+      "english": "lemah",
+      "ipa": "",
+      "englishMeaning": "weak",
+      "vietnamese": "yếu",
+      "example": ""
+    },
+    {
+      "english": "bersih",
+      "ipa": "",
+      "englishMeaning": "clean",
+      "vietnamese": "sạch",
+      "example": ""
+    },
+    {
+      "english": "kotor",
+      "ipa": "",
+      "englishMeaning": "dirty",
+      "vietnamese": "bẩn",
+      "example": ""
+    },
+    {
+      "english": "ringan",
+      "ipa": "",
+      "englishMeaning": "light",
+      "vietnamese": "nhẹ",
+      "example": ""
+    },
+    {
+      "english": "berat",
+      "ipa": "",
+      "englishMeaning": "heavy",
+      "vietnamese": "nặng",
+      "example": ""
+    },
+    {
+      "english": "lembut",
+      "ipa": "",
+      "englishMeaning": "soft",
+      "vietnamese": "mềm",
+      "example": ""
+    },
+    {
+      "english": "keras",
+      "ipa": "",
+      "englishMeaning": "hard",
+      "vietnamese": "cứng",
+      "example": ""
+    },
+    {
+      "english": "pedas",
+      "ipa": "",
+      "englishMeaning": "spicy",
+      "vietnamese": "cay",
+      "example": ""
+    },
+    {
+      "english": "gurih",
+      "ipa": "",
+      "englishMeaning": "savory",
+      "vietnamese": "béo / đậm đà",
+      "example": ""
+    },
+    {
+      "english": "tawar",
+      "ipa": "",
+      "englishMeaning": "bland",
+      "vietnamese": "nhạt",
+      "example": ""
+    },
+    {
+      "english": "hangat",
+      "ipa": "",
+      "englishMeaning": "warm",
+      "vietnamese": "ấm",
+      "example": ""
+    },
+    {
+      "english": "dingin sekali",
+      "ipa": "",
+      "englishMeaning": "very cold",
+      "vietnamese": "rất lạnh",
+      "example": ""
+    },
+    {
+      "english": "indah",
+      "ipa": "",
+      "englishMeaning": "gorgeous",
+      "vietnamese": "tuyệt đẹp",
+      "example": ""
+    },
+    {
+      "english": "menarik",
+      "ipa": "",
+      "englishMeaning": "interesting",
+      "vietnamese": "thú vị",
+      "example": ""
+    },
+    {
+      "english": "bosan",
+      "ipa": "",
+      "englishMeaning": "boring",
+      "vietnamese": "chán",
+      "example": ""
+    },
+    {
+      "english": "sibuk",
+      "ipa": "",
+      "englishMeaning": "busy",
+      "vietnamese": "bận rộn",
+      "example": ""
+    },
+    {
+      "english": "tenang",
+      "ipa": "",
+      "englishMeaning": "calm",
+      "vietnamese": "yên tĩnh",
+      "example": ""
+    }
+  ]
+}

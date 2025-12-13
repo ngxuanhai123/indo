@@ -1,0 +1,84 @@
+{
+  "name": "Vị giác - Rasa",
+  "topicNameVietnamese": "Vị giác",
+  "topicNameIndonesian": "Rasa",
+  "words": [
+    {
+      "english": "tawar",
+      "ipa": "",
+      "englishMeaning": "bland",
+      "vietnamese": "nhạt",
+      "example": ""
+    },
+    {
+      "english": "enak",
+      "ipa": "",
+      "englishMeaning": "delicious",
+      "vietnamese": "ngon",
+      "example": ""
+    },
+    {
+      "english": "tidak enak",
+      "ipa": "",
+      "englishMeaning": "not tasty",
+      "vietnamese": "không ngon",
+      "example": ""
+    },
+    {
+      "english": "beraroma",
+      "ipa": "",
+      "englishMeaning": "aromatic",
+      "vietnamese": "thơm",
+      "example": ""
+    },
+    {
+      "english": "bau",
+      "ipa": "",
+      "englishMeaning": "smelly",
+      "vietnamese": "hôi / có mùi",
+      "example": ""
+    },
+    {
+      "english": "manis",
+      "ipa": "",
+      "englishMeaning": "sweet",
+      "vietnamese": "ngọt",
+      "example": ""
+    },
+    {
+      "english": "asin",
+      "ipa": "",
+      "englishMeaning": "salty",
+      "vietnamese": "mặn",
+      "example": ""
+    },
+    {
+      "english": "asam",
+      "ipa": "",
+      "englishMeaning": "sour",
+      "vietnamese": "chua",
+      "example": ""
+    },
+    {
+      "english": "pahit",
+      "ipa": "",
+      "englishMeaning": "bitter",
+      "vietnamese": "đắng",
+      "example": ""
+    },
+    {
+      "english": "gurih",
+      "ipa": "",
+      "englishMeaning": "savory",
+      "vietnamese": "béo / đậm đà",
+      "example": ""
+    },
+    {
+      "english": "pedas",
+      "ipa": "",
+      "englishMeaning": "spicy",
+      "vietnamese": "cay",
+      "example": ""
+    }
+  ]
+}

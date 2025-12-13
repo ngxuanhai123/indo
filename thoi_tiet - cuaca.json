@@ -1,0 +1,203 @@
+{
+  "name": "Thời tiết - Cuaca",
+  "topicNameVietnamese": "Thời tiết",
+  "topicNameIndonesian": "Cuaca",
+  "words": [
+    {
+      "english": "cuaca",
+      "ipa": "",
+      "englishMeaning": "weather",
+      "vietnamese": "thời tiết",
+      "example": ""
+    },
+    {
+      "english": "cerah",
+      "ipa": "",
+      "englishMeaning": "clear / sunny",
+      "vietnamese": "trời quang / nắng đẹp",
+      "example": ""
+    },
+    {
+      "english": "mendung",
+      "ipa": "",
+      "englishMeaning": "cloudy",
+      "vietnamese": "trời âm u",
+      "example": ""
+    },
+    {
+      "english": "berawan",
+      "ipa": "",
+      "englishMeaning": "overcast",
+      "vietnamese": "có mây",
+      "example": ""
+    },
+    {
+      "english": "hujan",
+      "ipa": "",
+      "englishMeaning": "rain",
+      "vietnamese": "mưa",
+      "example": ""
+    },
+    {
+      "english": "gerimis",
+      "ipa": "",
+      "englishMeaning": "drizzle",
+      "vietnamese": "mưa phùn",
+      "example": ""
+    },
+    {
+      "english": "hujan deras",
+      "ipa": "",
+      "englishMeaning": "heavy rain",
+      "vietnamese": "mưa to",
+      "example": ""
+    },
+    {
+      "english": "badai",
+      "ipa": "",
+      "englishMeaning": "storm",
+      "vietnamese": "bão",
+      "example": ""
+    },
+    {
+      "english": "angin",
+      "ipa": "",
+      "englishMeaning": "wind",
+      "vietnamese": "gió",
+      "example": ""
+    },
+    {
+      "english": "angin kencang",
+      "ipa": "",
+      "englishMeaning": "strong wind",
+      "vietnamese": "gió mạnh",
+      "example": ""
+    },
+    {
+      "english": "salju",
+      "ipa": "",
+      "englishMeaning": "snow",
+      "vietnamese": "tuyết",
+      "example": ""
+    },
+    {
+      "english": "kabut",
+      "ipa": "",
+      "englishMeaning": "fog",
+      "vietnamese": "sương mù",
+      "example": ""
+    },
+    {
+      "english": "embun",
+      "ipa": "",
+      "englishMeaning": "dew",
+      "vietnamese": "sương",
+      "example": ""
+    },
+    {
+      "english": "panas",
+      "ipa": "",
+      "englishMeaning": "hot",
+      "vietnamese": "nóng",
+      "example": ""
+    },
+    {
+      "english": "dingin",
+      "ipa": "",
+      "englishMeaning": "cold",
+      "vietnamese": "lạnh",
+      "example": ""
+    },
+    {
+      "english": "sejuk",
+      "ipa": "",
+      "englishMeaning": "cool",
+      "vietnamese": "mát mẻ",
+      "example": ""
+    },
+    {
+      "english": "hangat",
+      "ipa": "",
+      "englishMeaning": "warm",
+      "vietnamese": "ấm áp",
+      "example": ""
+    },
+    {
+      "english": "lembab",
+      "ipa": "",
+      "englishMeaning": "humid",
+      "vietnamese": "ẩm",
+      "example": ""
+    },
+    {
+      "english": "kering",
+      "ipa": "",
+      "englishMeaning": "dry",
+      "vietnamese": "khô",
+      "example": ""
+    },
+    {
+      "english": "musim",
+      "ipa": "",
+      "englishMeaning": "season",
+      "vietnamese": "mùa",
+      "example": ""
+    },
+    {
+      "english": "musim hujan",
+      "ipa": "",
+      "englishMeaning": "rainy season",
+      "vietnamese": "mùa mưa",
+      "example": ""
+    },
+    {
+      "english": "musim kemarau",
+      "ipa": "",
+      "englishMeaning": "dry season",
+      "vietnamese": "mùa khô",
+      "example": ""
+    },
+    {
+      "english": "musim panas",
+      "ipa": "",
+      "englishMeaning": "summer",
+      "vietnamese": "mùa hè",
+      "example": ""
+    },
+    {
+      "english": "musim dingin",
+      "ipa": "",
+      "englishMeaning": "winter",
+      "vietnamese": "mùa đông",
+      "example": ""
+    },
+    {
+      "english": "musim semi",
+      "ipa": "",
+      "englishMeaning": "spring",
+      "vietnamese": "mùa xuân",
+      "example": ""
+    },
+    {
+      "english": "musim gugur",
+      "ipa": "",
+      "englishMeaning": "autumn / fall",
+      "vietnamese": "mùa thu",
+      "example": ""
+    },
+    {
+      "english": "suhu",
+      "ipa": "",
+      "englishMeaning": "temperature",
+      "vietnamese": "nhiệt độ",
+      "example": ""
+    },
+    {
+      "english": "perlangi",
+      "ipa": "",
+      "englishMeaning": "rainbow",
+      "vietnamese": "cầu vồng",
+      "example": ""
+    }
+  ]
+}
