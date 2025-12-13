@@ -5,183 +5,157 @@
   "words": [
     {
       "english": "sakit",
-      "ipa": "/sa.kit/",
-      "englishMeaning": "Sick / Pain",
+      "ipa": "/sa.kit/ - Eng: Sick / Pain",
       "vietnamese": "bệnh",
       "example": "Saya merasa sakit kepala."
     },
     {
       "english": "kepala",
-      "ipa": "/kə.pa.la/",
-      "englishMeaning": "Head",
+      "ipa": "/kə.pa.la/ - Eng: Head",
       "vietnamese": "đầu",
       "example": "Dia memakai topi di kepala."
     },
     {
       "english": "perut",
-      "ipa": "/pə.rut/",
-      "englishMeaning": "Stomach",
+      "ipa": "/pə.rut/ - Eng: Stomach",
       "vietnamese": "bụng",
       "example": "Perut saya sakit sekali."
     },
     {
       "english": "demam",
-      "ipa": "/də.mam/",
-      "englishMeaning": "Fever",
+      "ipa": "/də.mam/ - Eng: Fever",
       "vietnamese": "sốt",
       "example": "Anak itu demam tinggi."
     },
     {
       "english": "hidung",
-      "ipa": "/hi.duŋ/",
-      "englishMeaning": "Nose",
+      "ipa": "/hi.duŋ/ - Eng: Nose",
       "vietnamese": "mũi",
       "example": "Dia memiliki hidung mancung."
     },
     {
       "english": "Ingusan",
-      "ipa": "/i.ŋu.san/",
-      "englishMeaning": "Runny nose",
+      "ipa": "/i.ŋu.san/ - Eng: Runny nose",
       "vietnamese": "sổ mũi",
       "example": "Bayi itu ingusan karena pilek."
     },
     {
       "english": "bersin",
-      "ipa": "/bər.sin/",
-      "englishMeaning": "Sneeze",
+      "ipa": "/bər.sin/ - Eng: Sneeze",
       "vietnamese": "hắt xì",
       "example": "Dia bersin karena alergi debu."
     },
     {
       "english": "tenggorokan",
-      "ipa": "/təŋ.go.ro.kan/",
-      "englishMeaning": "Throat",
+      "ipa": "/təŋ.go.ro.kan/ - Eng: Throat",
       "vietnamese": "cổ họng",
       "example": "Tenggorokan saya sakit saat menelan."
     },
     {
       "english": "batuk",
-      "ipa": "/ba.tuk/",
-      "englishMeaning": "Cough",
+      "ipa": "/ba.tuk/ - Eng: Cough",
       "vietnamese": "ho",
       "example": "Dia batuk terus-menerus."
     },
     {
       "english": "jerawat",
-      "ipa": "/dʒə.ra.wat/",
-      "englishMeaning": "Pimple / Acne",
+      "ipa": "/dʒə.ra.wat/ - Eng: Pimple / Acne",
       "vietnamese": "mụn",
       "example": "Wajahnya penuh jerawat."
     },
     {
       "english": "kulit",
-      "ipa": "/ku.lit/",
-      "englishMeaning": "Skin",
+      "ipa": "/ku.lit/ - Eng: Skin",
       "vietnamese": "da",
       "example": "Kulitnya sangat halus."
     },
     {
       "english": "gatal",
-      "ipa": "/ga.tal/",
-      "englishMeaning": "Itchy",
+      "ipa": "/ga.tal/ - Eng: Itchy",
       "vietnamese": "ngứa",
       "example": "Kaki saya gatal digigit nyamuk."
     },
     {
       "english": "menggaruk",
-      "ipa": "/məŋ.ga.ruk/",
-      "englishMeaning": "Scratch",
+      "ipa": "/məŋ.ga.ruk/ - Eng: Scratch",
       "vietnamese": "gãi",
       "example": "Dia menggaruk lengannya yang gatal."
     },
     {
       "english": "pesing",
-      "ipa": "/pə.siŋ/",
-      "englishMeaning": "Smell of urine",
+      "ipa": "/pə.siŋ/ - Eng: Smell of urine",
       "vietnamese": "mùi khai",
       "example": "Bau pesing tercium dari kamar mandi."
     },
     {
       "english": "sariawan",
-      "ipa": "/sa.ri.a.wan/",
-      "englishMeaning": "Canker sore / Mouth ulcer",
+      "ipa": "/sa.ri.a.wan/ - Eng: Canker sore / Mouth ulcer",
       "vietnamese": "nhiệt miệng",
       "example": "Saya tidak bisa makan pedas karena sariawan."
     },
     {
       "english": "sakit berat",
-      "ipa": "/sa.kit bə.rat/",
-      "englishMeaning": "Seriously ill",
+      "ipa": "/sa.kit bə.rat/ - Eng: Seriously ill",
       "vietnamese": "bệnh nặng",
       "example": "Neneknya sakit berat dan dirawat di rumah sakit."
     },
     {
       "english": "kanker",
-      "ipa": "/kaŋ.kər/",
-      "englishMeaning": "Cancer",
+      "ipa": "/kaŋ.kər/ - Eng: Cancer",
       "vietnamese": "ung thư",
       "example": "Dia sedang berjuang melawan kanker."
     },
     {
       "english": "darah",
-      "ipa": "/da.rah/",
-      "englishMeaning": "Blood",
+      "ipa": "/da.rah/ - Eng: Blood",
       "vietnamese": "máu",
       "example": "Darahnya mengalir setelah terluka."
     },
     {
       "english": "bengkak",
-      "ipa": "/bəŋ.kak/",
-      "englishMeaning": "Swollen",
+      "ipa": "/bəŋ.kak/ - Eng: Swollen",
       "vietnamese": "sưng",
       "example": "Kakinya bengkak setelah terkilir."
     },
     {
       "english": "tulang",
-      "ipa": "/tu.laŋ/",
-      "englishMeaning": "Bone",
+      "ipa": "/tu.laŋ/ - Eng: Bone",
       "vietnamese": "xương",
       "example": "Dia mematahkan tulang kakinya."
     },
     {
       "english": "mengaku dosa",
-      "ipa": "/məŋ.a.ku do.sa/",
-      "englishMeaning": "Confess sins",
+      "ipa": "/məŋ.a.ku do.sa/ - Eng: Confess sins",
       "vietnamese": "xưng tội",
       "example": "Umat Katolik mengaku dosa kepada pastor."
     },
     {
       "english": "ginjal",
-      "ipa": "/gin.dʒal/",
-      "englishMeaning": "Kidney",
+      "ipa": "/gin.dʒal/ - Eng: Kidney",
       "vietnamese": "thận",
       "example": "Dia memiliki masalah ginjal."
     },
     {
       "english": "kencing manis",
-      "ipa": "/kəŋ.tʃiŋ ma.nis/",
-      "englishMeaning": "Diabetes",
+      "ipa": "/kəŋ.tʃiŋ ma.nis/ - Eng: Diabetes",
       "vietnamese": "tiểu đường",
       "example": "Penyakit kencing manis perlu dikontrol."
     },
     {
       "english": "payu dara",
-      "ipa": "/pa.ju da.ra/",
-      "englishMeaning": "Breast",
+      "ipa": "/pa.ju da.ra/ - Eng: Breast",
       "vietnamese": "vú",
       "example": "Kanker payu dara adalah penyakit serius."
     },
     {
       "english": "usus",
-      "ipa": "/u.sus/",
-      "englishMeaning": "Intestine",
+      "ipa": "/u.sus/ - Eng: Intestine",
       "vietnamese": "ruột",
       "example": "Usus besar berfungsi menyerap air."
     },
     {
       "english": "sedih",
-      "ipa": "/sə.dih/",
-      "englishMeaning": "Sad",
+      "ipa": "/sə.dih/ - Eng: Sad",
       "vietnamese": "buồn",
       "example": "Dia merasa sedih karena kehilangan kucingnya."
     }
