@@ -5,304 +5,261 @@
   "words": [
     {
       "english": "anjing",
-      "ipa": "",
-      "englishMeaning": "dog",
+      "ipa": "/an.dʒiŋ/ - Eng: dog",
       "vietnamese": "chó",
-      "example": ""
+      "example": "Anjing itu menggonggong keras."
     },
     {
       "english": "kucing",
-      "ipa": "",
-      "englishMeaning": "cat",
+      "ipa": "/ku.tʃiŋ/ - Eng: cat",
       "vietnamese": "mèo",
-      "example": ""
+      "example": "Kucing suka tidur di sofa."
     },
     {
       "english": "kelinci",
-      "ipa": "",
-      "englishMeaning": "rabbit",
+      "ipa": "/kə.lin.tʃi/ - Eng: rabbit",
       "vietnamese": "thỏ",
-      "example": ""
+      "example": "Kelinci makan wortel."
     },
     {
       "english": "burung",
-      "ipa": "",
-      "englishMeaning": "bird",
+      "ipa": "/bu.ruŋ/ - Eng: bird",
       "vietnamese": "chim",
-      "example": ""
+      "example": "Burung terbang di langit."
     },
     {
       "english": "ikan",
-      "ipa": "",
-      "englishMeaning": "fish",
+      "ipa": "/i.kan/ - Eng: fish",
       "vietnamese": "cá",
-      "example": ""
+      "example": "Ikan berenang di air."
     },
     {
       "english": "ayam",
-      "ipa": "",
-      "englishMeaning": "chicken",
+      "ipa": "/a.jam/ - Eng: chicken",
       "vietnamese": "gà",
-      "example": ""
+      "example": "Ayam berkokok di pagi hari."
     },
     {
       "english": "bebek",
-      "ipa": "",
-      "englishMeaning": "duck",
+      "ipa": "/be.bek/ - Eng: duck",
       "vietnamese": "vịt",
-      "example": ""
+      "example": "Bebek berenang di danau."
     },
     {
       "english": "sapi",
-      "ipa": "",
-      "englishMeaning": "cow",
+      "ipa": "/sa.pi/ - Eng: cow",
       "vietnamese": "bò",
-      "example": ""
+      "example": "Sapi makan rumput."
     },
     {
       "english": "kuda",
-      "ipa": "",
-      "englishMeaning": "horse",
+      "ipa": "/ku.da/ - Eng: horse",
       "vietnamese": "ngựa",
-      "example": ""
+      "example": "Dia menunggang kuda."
     },
     {
       "english": "kambing",
-      "ipa": "",
-      "englishMeaning": "goat",
+      "ipa": "/kam.biŋ/ - Eng: goat",
       "vietnamese": "dê",
-      "example": ""
+      "example": "Kambing mengembik."
     },
     {
       "english": "harimau",
-      "ipa": "",
-      "englishMeaning": "tiger",
+      "ipa": "/ha.ri.mau/ - Eng: tiger",
       "vietnamese": "hổ",
-      "example": ""
+      "example": "Harimau adalah hewan buas."
     },
     {
       "english": "singa",
-      "ipa": "",
-      "englishMeaning": "lion",
+      "ipa": "/si.ŋa/ - Eng: lion",
       "vietnamese": "sư tử",
-      "example": ""
+      "example": "Singa adalah raja hutan."
     },
     {
       "english": "gajah",
-      "ipa": "",
-      "englishMeaning": "elephant",
+      "ipa": "/ga.dʒah/ - Eng: elephant",
       "vietnamese": "voi",
-      "example": ""
+      "example": "Gajah memiliki belalai panjang."
     },
     {
       "english": "monyet",
-      "ipa": "",
-      "englishMeaning": "monkey",
+      "ipa": "/mo.ɲet/ - Eng: monkey",
       "vietnamese": "khỉ",
-      "example": ""
+      "example": "Monyet suka makan pisang."
     },
     {
       "english": "beruang",
-      "ipa": "",
-      "englishMeaning": "bear",
+      "ipa": "/bə.ru.aŋ/ - Eng: bear",
       "vietnamese": "gấu",
-      "example": ""
+      "example": "Beruang kutub hidup di es."
     },
     {
       "english": "rusa",
-      "ipa": "",
-      "englishMeaning": "deer",
+      "ipa": "/ru.sa/ - Eng: deer",
       "vietnamese": "nai / hươu",
-      "example": ""
+      "example": "Rusa berlari sangat cepat."
     },
     {
       "english": "buaya",
-      "ipa": "",
-      "englishMeaning": "crocodile",
+      "ipa": "/bu.a.ja/ - Eng: crocodile",
       "vietnamese": "cá sấu",
-      "example": ""
+      "example": "Buaya hidup di sungai."
     },
     {
       "english": "ular",
-      "ipa": "",
-      "englishMeaning": "snake",
+      "ipa": "/u.lar/ - Eng: snake",
       "vietnamese": "rắn",
-      "example": ""
+      "example": "Ular itu berbisa."
     },
     {
       "english": "kangguru",
-      "ipa": "",
-      "englishMeaning": "kangaroo",
+      "ipa": "/kaŋ.gu.ru/ - Eng: kangaroo",
       "vietnamese": "chuột túi",
-      "example": ""
+      "example": "Kangguru melompat jauh."
     },
     {
       "english": "koala",
-      "ipa": "",
-      "englishMeaning": "koala",
+      "ipa": "/ko.a.la/ - Eng: koala",
       "vietnamese": "gấu túi",
-      "example": ""
+      "example": "Koala tidur di pohon."
     },
     {
       "english": "semut",
-      "ipa": "",
-      "englishMeaning": "ant",
+      "ipa": "/sə.mut/ - Eng: ant",
       "vietnamese": "kiến",
-      "example": ""
+      "example": "Ada banyak semut di gula."
     },
     {
       "english": "nyamuk",
-      "ipa": "",
-      "englishMeaning": "mosquito",
+      "ipa": "/ɲa.muk/ - Eng: mosquito",
       "vietnamese": "muỗi",
-      "example": ""
+      "example": "Nyamuk menggigit tangan saya."
     },
     {
       "english": "lalat",
-      "ipa": "",
-      "englishMeaning": "fly",
+      "ipa": "/la.lat/ - Eng: fly",
       "vietnamese": "ruồi",
-      "example": ""
+      "example": "Makanan itu dihinggapi lalat."
     },
     {
       "english": "lebah",
-      "ipa": "",
-      "englishMeaning": "bee",
+      "ipa": "/lə.bah/ - Eng: bee",
       "vietnamese": "ong",
-      "example": ""
+      "example": "Lebah menghasilkan madu."
     },
     {
       "english": "kupu-kupu",
-      "ipa": "",
-      "englishMeaning": "butterfly",
+      "ipa": "/ku.pu.ku.pu/ - Eng: butterfly",
       "vietnamese": "bướm",
-      "example": ""
+      "example": "Kupu-kupu hinggap di bunga."
     },
     {
       "english": "cacing",
-      "ipa": "",
-      "englishMeaning": "worm",
+      "ipa": "/tʃa.tʃiŋ/ - Eng: worm",
       "vietnamese": "giun",
-      "example": ""
+      "example": "Cacing hidup di dalam tanah."
     },
     {
       "english": "laba-laba",
-      "ipa": "",
-      "englishMeaning": "spider",
+      "ipa": "/la.ba.la.ba/ - Eng: spider",
       "vietnamese": "nhện",
-      "example": ""
+      "example": "Laba-laba membuat jaring."
     },
     {
       "english": "kerang",
-      "ipa": "",
-      "englishMeaning": "clam",
+      "ipa": "/kə.raŋ/ - Eng: clam",
       "vietnamese": "sò",
-      "example": ""
+      "example": "Saya suka makan kerang."
     },
     {
       "english": "kepiting",
-      "ipa": "",
-      "englishMeaning": "crab",
+      "ipa": "/kə.pi.tiŋ/ - Eng: crab",
       "vietnamese": "cua",
-      "example": ""
+      "example": "Kepiting berjalan menyamping."
     },
     {
       "english": "udang",
-      "ipa": "",
-      "englishMeaning": "shrimp",
+      "ipa": "/u.daŋ/ - Eng: shrimp",
       "vietnamese": "tôm",
-      "example": ""
+      "example": "Udang goreng itu enak."
     },
     {
       "english": "elang",
-      "ipa": "",
-      "englishMeaning": "eagle",
+      "ipa": "/e.laŋ/ - Eng: eagle",
       "vietnamese": "đại bàng",
-      "example": ""
+      "example": "Elang terbang tinggi."
     },
     {
       "english": "merpati",
-      "ipa": "",
-      "englishMeaning": "pigeon",
+      "ipa": "/mər.pa.ti/ - Eng: pigeon",
       "vietnamese": "chim bồ câu",
-      "example": ""
+      "example": "Merpati adalah simbol perdamaian."
     },
     {
       "english": "burung hantu",
-      "ipa": "",
-      "englishMeaning": "owl",
+      "ipa": "/bu.ruŋ han.tu/ - Eng: owl",
       "vietnamese": "cú mèo",
-      "example": ""
+      "example": "Burung hantu aktif di malam hari."
     },
     {
       "english": "burung pipit",
-      "ipa": "",
-      "englishMeaning": "sparrow",
+      "ipa": "/bu.ruŋ pi.pit/ - Eng: sparrow",
       "vietnamese": "chim sẻ",
-      "example": ""
+      "example": "Burung pipit kecil dan lucu."
     },
     {
       "english": "burung beo",
-      "ipa": "",
-      "englishMeaning": "parrot",
+      "ipa": "/bu.ruŋ be.o/ - Eng: parrot",
       "vietnamese": "vẹt",
-      "example": ""
+      "example": "Burung beo bisa meniru suara manusia."
     },
     {
       "english": "burung unta",
-      "ipa": "",
-      "englishMeaning": "ostrich",
+      "ipa": "/bu.ruŋ un.ta/ - Eng: ostrich",
       "vietnamese": "đà điểu",
-      "example": ""
+      "example": "Burung unta tidak bisa terbang."
     },
     {
       "english": "kadal",
-      "ipa": "",
-      "englishMeaning": "lizard",
+      "ipa": "/ka.dal/ - Eng: lizard",
       "vietnamese": "thằn lằn",
-      "example": ""
+      "example": "Kadal berjemur di bawah matahari."
     },
     {
       "english": "katak",
-      "ipa": "",
-      "englishMeaning": "frog",
+      "ipa": "/ka.tak/ - Eng: frog",
       "vietnamese": "ếch",
-      "example": ""
+      "example": "Katak melompat ke air."
     },
     {
       "english": "kodok",
-      "ipa": "",
-      "englishMeaning": "toad",
+      "ipa": "/ko.dok/ - Eng: toad",
       "vietnamese": "cóc",
-      "example": ""
+      "example": "Kulit kodok kasar."
     },
     {
       "english": "bunglon",
-      "ipa": "",
-      "englishMeaning": "chameleon",
+      "ipa": "/buŋ.lon/ - Eng: chameleon",
       "vietnamese": "tắc kè hoa",
-      "example": ""
+      "example": "Bunglon bisa berubah warna."
     },
     {
       "english": "kerbau",
-      "ipa": "",
-      "englishMeaning": "buffalo",
+      "ipa": "/kər.bau/ - Eng: buffalo",
       "vietnamese": "trâu",
-      "example": ""
+      "example": "Petani membajak sawah dengan kerbau."
     },
     {
       "english": "babi",
-      "ipa": "",
-      "englishMeaning": "pig",
+      "ipa": "/ba.bi/ - Eng: pig",
       "vietnamese": "heo / lợn",
-      "example": ""
+      "example": "Babi itu gemuk sekali."
     },
     {
       "english": "domba",
-      "ipa": "",
-      "englishMeaning": "sheep",
+      "ipa": "/dom.ba/ - Eng: sheep",
       "vietnamese": "cừu",
-      "example": ""
+      "example": "Bulu domba tebal."
     }
   ]
 }
