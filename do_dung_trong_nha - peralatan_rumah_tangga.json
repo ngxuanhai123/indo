@@ -5,430 +5,369 @@
   "words": [
     {
       "english": "kursi",
-      "ipa": "",
-      "englishMeaning": "chair",
+      "ipa": "/kur.si/ - Eng: chair",
       "vietnamese": "ghế",
-      "example": ""
+      "example": "Saya duduk di kursi."
     },
     {
       "english": "meja",
-      "ipa": "",
-      "englishMeaning": "table",
+      "ipa": "/me.dʒa/ - Eng: table",
       "vietnamese": "bàn",
-      "example": ""
+      "example": "Buku itu ada di atas meja."
     },
     {
       "english": "karpet",
-      "ipa": "",
-      "englishMeaning": "carpet",
+      "ipa": "/kar.pet/ - Eng: carpet",
       "vietnamese": "thảm",
-      "example": ""
+      "example": "Karpet ini sangat lembut."
     },
     {
       "english": "lampu",
-      "ipa": "",
-      "englishMeaning": "lamp",
+      "ipa": "/lam.pu/ - Eng: lamp",
       "vietnamese": "đèn",
-      "example": ""
+      "example": "Tolong nyalakan lampu."
     },
     {
       "english": "televisi",
-      "ipa": "",
-      "englishMeaning": "television",
+      "ipa": "/te.le.vi.si/ - Eng: television",
       "vietnamese": "tivi",
-      "example": ""
+      "example": "Kami menonton televisi bersama."
     },
     {
       "english": "remote",
-      "ipa": "",
-      "englishMeaning": "remote control",
+      "ipa": "/re.mot/ - Eng: remote control",
       "vietnamese": "điều khiển",
-      "example": ""
+      "example": "Di mana remote TV?"
     },
     {
       "english": "jam dinding",
-      "ipa": "",
-      "englishMeaning": "wall clock",
+      "ipa": "/dʒam din.diŋ/ - Eng: wall clock",
       "vietnamese": "đồng hồ treo tường",
-      "example": ""
+      "example": "Jam dinding itu menunjukkan pukul dua belas."
     },
     {
       "english": "kipas angin",
-      "ipa": "",
-      "englishMeaning": "fan",
+      "ipa": "/ki.pas a.ŋin/ - Eng: fan",
       "vietnamese": "quạt máy",
-      "example": ""
+      "example": "Nyalakan kipas angin karena panas."
     },
     {
       "english": "rak buku",
-      "ipa": "",
-      "englishMeaning": "bookshelf",
+      "ipa": "/rak bu.ku/ - Eng: bookshelf",
       "vietnamese": "kệ sách",
-      "example": ""
+      "example": "Saya menyimpan novel di rak buku."
     },
     {
       "english": "tempat tidur",
-      "ipa": "",
-      "englishMeaning": "bed",
+      "ipa": "/təm.pat ti.dur/ - Eng: bed",
       "vietnamese": "giường",
-      "example": ""
+      "example": "Tempat tidur ini sangat nyaman."
     },
     {
       "english": "bantal",
-      "ipa": "",
-      "englishMeaning": "pillow",
+      "ipa": "/ban.tal/ - Eng: pillow",
       "vietnamese": "gối",
-      "example": ""
+      "example": "Saya butuh dua bantal untuk tidur."
     },
     {
       "english": "selimut",
-      "ipa": "",
-      "englishMeaning": "blanket",
+      "ipa": "/sə.li.mut/ - Eng: blanket",
       "vietnamese": "chăn",
-      "example": ""
+      "example": "Pakai selimut jika kedinginan."
     },
     {
       "english": "sprei",
-      "ipa": "",
-      "englishMeaning": "bed sheet",
+      "ipa": "/sə.prei/ - Eng: bed sheet",
       "vietnamese": "ga trải giường",
-      "example": ""
+      "example": "Ibu mengganti sprei setiap minggu."
     },
     {
       "english": "lemari pakaian",
-      "ipa": "",
-      "englishMeaning": "wardrobe",
+      "ipa": "/lə.ma.ri pa.kai.an/ - Eng: wardrobe",
       "vietnamese": "tủ quần áo",
-      "example": ""
+      "example": "Gantung bajumu di lemari pakaian."
     },
     {
       "english": "cermin",
-      "ipa": "",
-      "englishMeaning": "mirror",
+      "ipa": "/tʃər.min/ - Eng: mirror",
       "vietnamese": "gương",
-      "example": ""
+      "example": "Dia melihat wajahnya di cermin."
     },
     {
       "english": "gantungan baju",
-      "ipa": "",
-      "englishMeaning": "clothes hanger",
+      "ipa": "/gan.tu.ŋan ba.dʒu/ - Eng: clothes hanger",
       "vietnamese": "móc treo quần áo",
-      "example": ""
+      "example": "Saya butuh gantungan baju untuk kemeja ini."
     },
     {
       "english": "lampu tidur",
-      "ipa": "",
-      "englishMeaning": "night lamp",
+      "ipa": "/lam.pu ti.dur/ - Eng: night lamp",
       "vietnamese": "đèn ngủ",
-      "example": ""
+      "example": "Lampu tidur membuat kamar terasa hangat."
     },
     {
       "english": "piring",
-      "ipa": "",
-      "englishMeaning": "plate",
+      "ipa": "/pi.riŋ/ - Eng: plate",
       "vietnamese": "đĩa",
-      "example": ""
+      "example": "Cuci piring setelah makan."
     },
     {
       "english": "mangkuk",
-      "ipa": "",
-      "englishMeaning": "bowl",
+      "ipa": "/maŋ.kuk/ - Eng: bowl",
       "vietnamese": "tô",
-      "example": ""
+      "example": "Tuangkan sup ke dalam mangkuk."
     },
     {
       "english": "gelas",
-      "ipa": "",
-      "englishMeaning": "glass",
+      "ipa": "/gə.las/ - Eng: glass",
       "vietnamese": "ly",
-      "example": ""
+      "example": "Saya minum segelas air."
     },
     {
       "english": "sendok",
-      "ipa": "",
-      "englishMeaning": "spoon",
+      "ipa": "/sen.dok/ - Eng: spoon",
       "vietnamese": "thìa",
-      "example": ""
+      "example": "Makan sup menggunakan sendok."
     },
     {
       "english": "garpu",
-      "ipa": "",
-      "englishMeaning": "fork",
+      "ipa": "/gar.pu/ - Eng: fork",
       "vietnamese": "nĩa",
-      "example": ""
+      "example": "Gunakan garpu untuk makan mi."
     },
     {
       "english": "pisau",
-      "ipa": "",
-      "englishMeaning": "knife",
+      "ipa": "/pi.sau/ - Eng: knife",
       "vietnamese": "dao",
-      "example": ""
+      "example": "Pisau ini sangat tajam."
     },
     {
       "english": "kompor",
-      "ipa": "",
-      "englishMeaning": "stove",
+      "ipa": "/kom.por/ - Eng: stove",
       "vietnamese": "bếp",
-      "example": ""
+      "example": "Ibu memasak di atas kompor."
     },
     {
       "english": "kulkas",
-      "ipa": "",
-      "englishMeaning": "refrigerator",
+      "ipa": "/kul.kas/ - Eng: refrigerator",
       "vietnamese": "tủ lạnh",
-      "example": ""
+      "example": "Simpan susu di dalam kulkas."
     },
     {
       "english": "microwave",
-      "ipa": "",
-      "englishMeaning": "microwave",
+      "ipa": "/mai.kro.weiv/ - Eng: microwave",
       "vietnamese": "lò vi sóng",
-      "example": ""
+      "example": "Panaskan makanan di microwave."
     },
     {
       "english": "rice cooker",
-      "ipa": "",
-      "englishMeaning": "rice cooker",
+      "ipa": "/rais ku.kər/ - Eng: rice cooker",
       "vietnamese": "nồi cơm điện",
-      "example": ""
+      "example": "Menanak nasi menggunakan rice cooker."
     },
     {
       "english": "bak mandi",
-      "ipa": "",
-      "englishMeaning": "bathtub",
+      "ipa": "/bak man.di/ - Eng: bathtub",
       "vietnamese": "bồn tắm",
-      "example": ""
+      "example": "Dia berendam di bak mandi."
     },
     {
       "english": "shower",
-      "ipa": "",
-      "englishMeaning": "shower",
+      "ipa": "/ʃa.wər/ - Eng: shower",
       "vietnamese": "vòi sen",
-      "example": ""
+      "example": "Air shower ini hangat."
     },
     {
       "english": "ember",
-      "ipa": "",
-      "englishMeaning": "bucket",
+      "ipa": "/em.ber/ - Eng: bucket",
       "vietnamese": "xô",
-      "example": ""
+      "example": "Isi ember itu dengan air."
     },
     {
       "english": "gayung",
-      "ipa": "",
-      "englishMeaning": "dipper",
+      "ipa": "/ga.juŋ/ - Eng: dipper",
       "vietnamese": "ca múc nước",
-      "example": ""
+      "example": "Ambil air menggunakan gayung."
     },
     {
       "english": "sikat gigi",
-      "ipa": "",
-      "englishMeaning": "toothbrush",
+      "ipa": "/si.kat gi.gi/ - Eng: toothbrush",
       "vietnamese": "bàn chải đánh răng",
-      "example": ""
+      "example": "Jangan lupa ganti sikat gigi secara berkala."
     },
     {
       "english": "pasta gigi",
-      "ipa": "",
-      "englishMeaning": "toothpaste",
+      "ipa": "/pas.ta gi.gi/ - Eng: toothpaste",
       "vietnamese": "kem đánh răng",
-      "example": ""
+      "example": "Oleskan pasta gigi secukupnya."
     },
     {
       "english": "sabun",
-      "ipa": "",
-      "englishMeaning": "soap",
+      "ipa": "/sa.bun/ - Eng: soap",
       "vietnamese": "xà phòng",
-      "example": ""
+      "example": "Cuci tangan pakai sabun."
     },
     {
       "english": "sampo",
-      "ipa": "",
-      "englishMeaning": "shampoo",
+      "ipa": "/sam.po/ - Eng: shampoo",
       "vietnamese": "dầu gội",
-      "example": ""
+      "example": "Rambutnya wangi sampo."
     },
     {
       "english": "handuk",
-      "ipa": "",
-      "englishMeaning": "towel",
+      "ipa": "/han.duk/ - Eng: towel",
       "vietnamese": "khăn tắm",
-      "example": ""
+      "example": "Keringkan badan dengan handuk."
     },
     {
       "english": "sapu",
-      "ipa": "",
-      "englishMeaning": "broom",
+      "ipa": "/sa.pu/ - Eng: broom",
       "vietnamese": "chổi",
-      "example": ""
+      "example": "Bersihkan lantai dengan sapu."
     },
     {
       "english": "pel",
-      "ipa": "",
-      "englishMeaning": "mop",
+      "ipa": "/pel/ - Eng: mop",
       "vietnamese": "cây lau nhà",
-      "example": ""
+      "example": "Lantai ini perlu dipel."
     },
     {
       "english": "lap",
-      "ipa": "",
-      "englishMeaning": "cloth",
+      "ipa": "/lap/ - Eng: cloth",
       "vietnamese": "khăn lau",
-      "example": ""
+      "example": "Bersihkan meja dengan kain lap."
     },
     {
       "english": "sarung tangan",
-      "ipa": "",
-      "englishMeaning": "gloves",
+      "ipa": "/sa.ruŋ ta.ŋan/ - Eng: gloves",
       "vietnamese": "găng tay",
-      "example": ""
+      "example": "Pakai sarung tangan saat berkebun."
     },
     {
       "english": "tisu",
-      "ipa": "",
-      "englishMeaning": "tissue",
+      "ipa": "/ti.su/ - Eng: tissue",
       "vietnamese": "giấy lau",
-      "example": ""
+      "example": "Minta selembar tisu."
     },
     {
       "english": "komputer",
-      "ipa": "",
-      "englishMeaning": "computer",
+      "ipa": "/kom.pu.tər/ - Eng: computer",
       "vietnamese": "máy tính",
-      "example": ""
+      "example": "Saya bekerja menggunakan komputer."
     },
     {
       "english": "laptop",
-      "ipa": "",
-      "englishMeaning": "laptop",
+      "ipa": "/lap.top/ - Eng: laptop",
       "vietnamese": "máy tính xách tay",
-      "example": ""
+      "example": "Laptop ini mudah dibawa ke mana-mana."
     },
     {
       "english": "printer",
-      "ipa": "",
-      "englishMeaning": "printer",
+      "ipa": "/prin.tər/ - Eng: printer",
       "vietnamese": "máy in",
-      "example": ""
+      "example": "Tinta printer sudah habis."
     },
     {
       "english": "router",
-      "ipa": "",
-      "englishMeaning": "router",
+      "ipa": "/ru.tər/ - Eng: router",
       "vietnamese": "bộ phát wifi",
-      "example": ""
+      "example": "Restart router jika internet lambat."
     },
     {
       "english": "charger",
-      "ipa": "",
-      "englishMeaning": "charger",
+      "ipa": "/tʃar.dʒər/ - Eng: charger",
       "vietnamese": "bộ sạc",
-      "example": ""
+      "example": "Baterai HP habis, saya butuh charger."
     },
     {
       "english": "kabel",
-      "ipa": "",
-      "englishMeaning": "cable",
+      "ipa": "/ka.bəl/ - Eng: cable",
       "vietnamese": "dây cáp",
-      "example": ""
+      "example": "Kabel ini terlalu pendek."
     },
     {
       "english": "headphone",
-      "ipa": "",
-      "englishMeaning": "headphones",
+      "ipa": "/hed.fon/ - Eng: headphones",
       "vietnamese": "tai nghe",
-      "example": ""
+      "example": "Dia mendengarkan musik pakai headphone."
     },
     {
       "english": "speaker",
-      "ipa": "",
-      "englishMeaning": "speaker",
+      "ipa": "/spi.kər/ - Eng: speaker",
       "vietnamese": "loa",
-      "example": ""
+      "example": "Suara speaker itu sangat kencang."
     },
     {
       "english": "kamera",
-      "ipa": "",
-      "englishMeaning": "camera",
+      "ipa": "/ka.me.ra/ - Eng: camera",
       "vietnamese": "máy ảnh",
-      "example": ""
+      "example": "Dia memotret pemandangan dengan kamera."
     },
     {
       "english": "tablet",
-      "ipa": "",
-      "englishMeaning": "tablet",
+      "ipa": "/tab.let/ - Eng: tablet",
       "vietnamese": "máy tính bảng",
-      "example": ""
+      "example": "Anak itu bermain game di tablet."
     },
     {
       "english": "obeng",
-      "ipa": "",
-      "englishMeaning": "screwdriver",
+      "ipa": "/o.beŋ/ - Eng: screwdriver",
       "vietnamese": "tua vít",
-      "example": ""
+      "example": "Gunakan obeng untuk mengencangkan sekrup."
     },
     {
       "english": "palu",
-      "ipa": "",
-      "englishMeaning": "hammer",
+      "ipa": "/pa.lu/ - Eng: hammer",
       "vietnamese": "búa",
-      "example": ""
+      "example": "Dia memukul paku dengan palu."
     },
     {
       "english": "tang",
-      "ipa": "",
-      "englishMeaning": "pliers",
+      "ipa": "/taŋ/ - Eng: pliers",
       "vietnamese": "kìm",
-      "example": ""
+      "example": "Potong kawat itu menggunakan tang."
     },
     {
       "english": "meteran",
-      "ipa": "",
-      "englishMeaning": "measuring tape",
+      "ipa": "/me.tə.ran/ - Eng: measuring tape",
       "vietnamese": "thước dây",
-      "example": ""
+      "example": "Ukur panjang meja dengan meteran."
     },
     {
       "english": "bor",
-      "ipa": "",
-      "englishMeaning": "drill",
+      "ipa": "/bor/ - Eng: drill",
       "vietnamese": "máy khoan",
-      "example": ""
+      "example": "Ayah melubangi dinding dengan bor."
     },
     {
       "english": "lem",
-      "ipa": "",
-      "englishMeaning": "glue",
+      "ipa": "/lem/ - Eng: glue",
       "vietnamese": "keo dán",
-      "example": ""
+      "example": "Tempelkan kertas itu dengan lem."
     },
     {
       "english": "isolasi",
-      "ipa": "",
-      "englishMeaning": "tape",
+      "ipa": "/i.so.la.si/ - Eng: tape",
       "vietnamese": "băng keo",
-      "example": ""
+      "example": "Rekatkan kardus itu dengan isolasi."
     },
     {
       "english": "kunci inggris",
-      "ipa": "",
-      "englishMeaning": "wrench",
+      "ipa": "/kun.tʃi iŋ.gris/ - Eng: wrench",
       "vietnamese": "mỏ lết",
-      "example": ""
+      "example": "Perbaiki pipa bocor dengan kunci inggris."
     },
     {
       "english": "gunting",
-      "ipa": "",
-      "englishMeaning": "scissors",
+      "ipa": "/gun.tiŋ/ - Eng: scissors",
       "vietnamese": "kéo",
-      "example": ""
+      "example": "Gunting kertas ini menjadi dua."
     },
     {
       "english": "pisau cutter",
-      "ipa": "",
-      "englishMeaning": "cutter knife",
+      "ipa": "/pi.sau ka.tər/ - Eng: cutter knife",
       "vietnamese": "dao rọc giấy",
-      "example": ""
+      "example": "Hati-hati saat menggunakan pisau cutter."
     }
   ]
 }
