@@ -1,0 +1,187 @@
+{
+  "name": "Dụng cụ Thánh lễ - Alat-alat misa",
+  "topicNameVietnamese": "Dụng cụ Thánh lễ",
+  "topicNameIndonesian": "Alat-alat misa",
+  "words": [
+    {
+      "english": "Altar",
+      "ipa": "/al.tar/ - Eng: Altar",
+      "vietnamese": "Bàn thờ",
+      "example": "Imam berdiri di depan altar."
+    },
+    {
+      "english": "Tabernakel",
+      "ipa": "/ta.bər.na.kəl/ - Eng: Tabernacle",
+      "vietnamese": "Nhà tạm",
+      "example": "Hosti kudus disimpan di dalam tabernakel."
+    },
+    {
+      "english": "Salib",
+      "ipa": "/sa.lib/ - Eng: Crucifix",
+      "vietnamese": "Thánh giá",
+      "example": "Umat Katolik membuat tanda salib."
+    },
+    {
+      "english": "Mimbar",
+      "ipa": "/mim.bar/ - Eng: Ambo/Pulpit",
+      "vietnamese": "Bục giảng",
+      "example": "Lektor membacakan bacaan dari mimbar."
+    },
+    {
+      "english": "Kursi Imam",
+      "ipa": "/kur.si i.mam/ - Eng: Presider's Chair",
+      "vietnamese": "Ghế chủ tế",
+      "example": "Imam duduk di kursi imam saat pembacaan."
+    },
+    {
+      "english": "Meja Kredens",
+      "ipa": "/me.dʒa kre.dens/ - Eng: Credence Table",
+      "vietnamese": "Bàn phụng vụ",
+      "example": "Putra altar menyiapkan peralatan di meja kredens."
+    },
+    {
+      "english": "Lampu Gantung",
+      "ipa": "/lam.pu gan.tuŋ/ - Eng: Sanctuary Lamp",
+      "vietnamese": "Đèn chầu",
+      "example": "Lampu gantung menyala menandakan kehadiran Kristus."
+    },
+    {
+      "english": "Bejana Baptis",
+      "ipa": "/bə.dʒa.na bap.tis/ - Eng: Baptismal Font",
+      "vietnamese": "Giếng rửa tội",
+      "example": "Bayi itu dibaptis di bejana baptis."
+    },
+    {
+      "english": "Kamar Pengakuan",
+      "ipa": "/ka.mar pəŋ.a.ku.an/ - Eng: Confessional",
+      "vietnamese": "Tòa giải tội",
+      "example": "Dia pergi ke kamar pengakuan untuk mengaku dosa."
+    },
+    {
+      "english": "Mimbar",
+      "ipa": "/mim.bar/ - Eng: Lectern",
+      "vietnamese": "Giá đọc sách",
+      "example": "Kitab Suci diletakkan di atas mimbar."
+    },
+    {
+      "english": "Relikui",
+      "ipa": "/re.li.kui/ - Eng: Relic",
+      "vietnamese": "Xương thánh",
+      "example": "Gereja ini menyimpan relikui santo."
+    },
+    {
+      "english": "Piala",
+      "ipa": "/pia.la/ - Eng: Chalice",
+      "vietnamese": "Chén thánh",
+      "example": "Imam mengangkat piala berisi anggur."
+    },
+    {
+      "english": "Patena",
+      "ipa": "/pa.te.na/ - Eng: Paten",
+      "vietnamese": "Đĩa thánh",
+      "example": "Hosti diletakkan di atas patena."
+    },
+    {
+      "english": "Monstrans",
+      "ipa": "/mons.trans/ - Eng: Monstrance",
+      "vietnamese": "Mặt nhật",
+      "example": "Monstrans digunakan saat Adorasi Ekaristi."
+    },
+    {
+      "english": "Piksis",
+      "ipa": "/pik.sis/ - Eng: Pyx",
+      "vietnamese": "Hộp đựng Mình Thánh",
+      "example": "Piksis digunakan untuk membawa komuni kepada orang sakit."
+    },
+    {
+      "english": "Ampul",
+      "ipa": "/am.pul/ - Eng: Cruets",
+      "vietnamese": "Bình nước rượu",
+      "example": "Ampul berisi air dan anggur dibawa ke altar."
+    },
+    {
+      "english": "Purifikatorium",
+      "ipa": "/pu.ri.fi.ka.to.ri.um/ - Eng: Purificator",
+      "vietnamese": "Khăn lau chén",
+      "example": "Imam membersihkan piala dengan purifikatorium."
+    },
+    {
+      "english": "Korporale",
+      "ipa": "/kor.po.ra.le/ - Eng: Corporal",
+      "vietnamese": "Khăn thánh 9 miếng",
+      "example": "Piala dan patena diletakkan di atas korporale."
+    },
+    {
+      "english": "Palla",
+      "ipa": "/pa.la/ - Eng: Pall",
+      "vietnamese": "Tấm đậy chén thánh",
+      "example": "Palla digunakan untuk menutup piala."
+    },
+    {
+      "english": "Pendupaan",
+      "ipa": "/pən.du.pa.an/ - Eng: Thurible/Censer",
+      "vietnamese": "Bình hương",
+      "example": "Asap dupa keluar dari pendupaan."
+    },
+    {
+      "english": "Alba",
+      "ipa": "/al.ba/ - Eng: Alb",
+      "vietnamese": "Áo trắng",
+      "example": "Imam mengenakan alba putih."
+    },
+    {
+      "english": "Kasula",
+      "ipa": "/ka.su.la/ - Eng: Chasuble",
+      "vietnamese": "Áo lễ",
+      "example": "Kasula imam berwarna hijau hari ini."
+    },
+    {
+      "english": "Stola",
+      "ipa": "/sto.la/ - Eng: Stole",
+      "vietnamese": "Dây các phép",
+      "example": "Imam mencium stola sebelum memakainya."
+    },
+    {
+      "english": "Ibadat Harian",
+      "ipa": "/i.ba.dat ha.ri.an/ - Eng: Breviary/Liturgy of the Hours",
+      "vietnamese": "Các Giờ Kinh Phụng Vụ",
+      "example": "Para biarawan mendoakan Ibadat Harian."
+    },
+    {
+      "english": "Hosti",
+      "ipa": "/hos.ti/ - Eng: Host",
+      "vietnamese": "Bánh thánh",
+      "example": "Umat menerima hosti kudus."
+    },
+    {
+      "english": "Anggur Misa",
+      "ipa": "/aŋ.gur mi.sa/ - Eng: Altar Wine",
+      "vietnamese": "Rượu lễ",
+      "example": "Anggur misa harus terbuat dari buah anggur murni."
+    },
+    {
+      "english": "Air Suci",
+      "ipa": "/a.ir su.tʃi/ - Eng: Holy Water",
+      "vietnamese": "Nước thánh",
+      "example": "Kami memberkati diri dengan air suci."
+    },
+    {
+      "english": "Minyak Krisma",
+      "ipa": "/mi.ɲak kris.ma/ - Eng: Chrism Oil",
+      "vietnamese": "Dầu Thánh",
+      "example": "Uskup mengurapi kening dengan minyak krisma."
+    },
+    {
+      "english": "Lilin",
+      "ipa": "/li.lin/ - Eng: Candle",
+      "vietnamese": "Nến",
+      "example": "Lilin dinyalakan di atas altar."
+    },
+    {
+      "english": "Rosario",
+      "ipa": "/ro.sa.ri.o/ - Eng: Rosary",
+      "vietnamese": "Tràng hạt Mân Côi",
+      "example": "Kami berdoa rosario setiap malam."
+    }
+  ]
+}
