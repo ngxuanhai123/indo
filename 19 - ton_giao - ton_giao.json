@@ -1,0 +1,91 @@
+{
+  "name": "Tôn giáo - Agama",
+  "topicNameVietnamese": "Tôn giáo",
+  "topicNameIndonesian": "Agama",
+  "words": [
+    {
+      "english": "Islam",
+      "ipa": "/is.lam/ - Eng: Islam",
+      "vietnamese": "Hồi giáo",
+      "example": "Islam adalah agama mayoritas di Indonesia."
+    },
+    {
+      "english": "Katolik",
+      "ipa": "/ka.to.lik/ - Eng: Catholicism",
+      "vietnamese": "Công giáo",
+      "example": "Saya pergi ke gereja Katolik setiap Minggu."
+    },
+    {
+      "english": "Kristen Protestan",
+      "ipa": "/kris.tən pro.təs.tan/ - Eng: Protestant Christianity",
+      "vietnamese": "Tin lành",
+      "example": "Teman saya beragama Kristen Protestan."
+    },
+    {
+      "english": "Buddha",
+      "ipa": "/bud.ha/ - Eng: Buddhism",
+      "vietnamese": "Phật giáo",
+      "example": "Candi Borobudur adalah situs bersejarah agama Buddha."
+    },
+    {
+      "english": "Ustad",
+      "ipa": "/us.tad/ - Eng: Islamic Teacher/Ustadz",
+      "vietnamese": "Thầy Hồi giáo",
+      "example": "Ustad sedang memberikan ceramah di masjid."
+    },
+    {
+      "english": "Imam",
+      "ipa": "/i.mam/ - Eng: Priest",
+      "vietnamese": "Linh mục / Imam",
+      "example": "Imam memimpin perayaan Ekaristi."
+    },
+    {
+      "english": "Pendeta",
+      "ipa": "/pən.də.ta/ - Eng: Pastor/Minister",
+      "vietnamese": "Mục sư",
+      "example": "Pendeta memimpin kebaktian di gereja."
+    },
+    {
+      "english": "Biksu",
+      "ipa": "/bik.su/ - Eng: Monk/Bhikkhu",
+      "vietnamese": "Thầy tu / Tăng sĩ",
+      "example": "Para biksu tinggal di biara."
+    },
+    {
+      "english": "Masjid",
+      "ipa": "/mas.dʒid/ - Eng: Mosque",
+      "vietnamese": "Thánh đường Hồi giáo",
+      "example": "Umat Muslim salat di masjid."
+    },
+    {
+      "english": "Gereja",
+      "ipa": "/gə.re.dʒa/ - Eng: Church",
+      "vietnamese": "Nhà thờ",
+      "example": "Gereja itu sangat megah dan indah."
+    },
+    {
+      "english": "Vihara",
+      "ipa": "/vi.ha.ra/ - Eng: Vihara/Buddhist Monastery",
+      "vietnamese": "Chùa (Phật giáo)",
+      "example": "Mereka berdoa di Vihara."
+    },
+    {
+      "english": "Kepausan",
+      "ipa": "/kə.pa.u.san/ - Eng: The Papacy/Holy See",
+      "vietnamese": "Tòa thánh",
+      "example": "Vatikan adalah pusat pemerintahan kepausan."
+    },
+    {
+      "english": "Keuskupan",
+      "ipa": "/kə.us.ku.pan/ - Eng: Diocese/Bishopric",
+      "vietnamese": "Toà Giám mục",
+      "example": "Keuskupan Agung Jakarta dipimpin oleh seorang kardinal."
+    },
+    {
+      "english": "Ateis",
+      "ipa": "/a.te.is/ - Eng: Atheist/Atheism",
+      "vietnamese": "Vô thần",
+      "example": "Seorang ateis tidak percaya adanya Tuhan."
+    }
+  ]
+}
