@@ -1,0 +1,103 @@
+{
+  "name": "Sự cố ngoài đường - Insiden di Jalan",
+  "topicNameVietnamese": "Sự cố ngoài đường",
+  "topicNameIndonesian": "Insiden di Jalan",
+  "words": [
+    {
+      "english": "Kecelakaan",
+      "ipa": "/kə.tʃə.la.ka.an/ - Eng: Accident",
+      "vietnamese": "Tai nạn",
+      "example": "Ada kecelakaan di jalan tol."
+    },
+    {
+      "english": "Tabrakan",
+      "ipa": "/tab.ra.kan/ - Eng: Collision/Crash",
+      "vietnamese": "Va chạm / Đụng xe",
+      "example": "Tabrakan itu menyebabkan kemacetan panjang."
+    },
+    {
+      "english": "Ban Bocor",
+      "ipa": "/ban bo.tʃor/ - Eng: Flat Tire/Puncture",
+      "vietnamese": "Xì lốp / Bể bánh",
+      "example": "Saya terlambat karena ban bocor."
+    },
+    {
+      "english": "Mogok",
+      "ipa": "/mo.gok/ - Eng: Breakdown",
+      "vietnamese": "Chết máy / Hỏng xe",
+      "example": "Motor saya mogok di tengah jalan."
+    },
+    {
+      "english": "Cedera",
+      "ipa": "/tʃə.də.ra/ - Eng: Injury",
+      "vietnamese": "Chấn thương / Bị thương",
+      "example": "Pengendara itu mengalami cedera ringan."
+    },
+    {
+      "english": "Pencurian",
+      "ipa": "/pən.tʃu.ri.an/ - Eng: Theft",
+      "vietnamese": "Trộm cắp",
+      "example": "Hati-hati terhadap pencurian helm di parkiran."
+    },
+    {
+      "english": "Perampokan",
+      "ipa": "/pə.ram.po.kan/ - Eng: Robbery/Mugging",
+      "vietnamese": "Cướp giật",
+      "example": "Perampokan itu terjadi pada malam hari."
+    },
+    {
+      "english": "Tersesat",
+      "ipa": "/tər.sə.sat/ - Eng: To get lost",
+      "vietnamese": "Lạc đường",
+      "example": "Kami tersesat karena mengikuti peta yang salah."
+    },
+    {
+      "english": "Kehilangan",
+      "ipa": "/kə.hi.la.ŋan/ - Eng: Loss/To lose",
+      "vietnamese": "Mất đồ / Thất lạc",
+      "example": "Saya kehilangan kunci motor saya."
+    },
+    {
+      "english": "Darurat",
+      "ipa": "/da.ru.rat/ - Eng: Emergency",
+      "vietnamese": "Khẩn cấp",
+      "example": "Hubungi nomor darurat jika butuh bantuan."
+    },
+    {
+      "english": "Pengereman Mendadak",
+      "ipa": "/pə.ŋə.re.man mən.da.dak/ - Eng: Sudden Braking",
+      "vietnamese": "Phanh gấp",
+      "example": "Pengereman mendadak bisa berbahaya."
+    },
+    {
+      "english": "Kerusakan",
+      "ipa": "/kə.ru.sa.kan/ - Eng: Damage",
+      "vietnamese": "Hư hỏng",
+      "example": "Kerusakan mesin mobil cukup parah."
+    },
+    {
+      "english": "Banjir",
+      "ipa": "/ban.dʒir/ - Eng: Flood",
+      "vietnamese": "Ngập lụt",
+      "example": "Jalanan tidak bisa dilewati karena banjir."
+    },
+    {
+      "english": "Lubang",
+      "ipa": "/lu.baŋ/ - Eng: Pothole",
+      "vietnamese": "Ổ gà / Hố sâu trên đường",
+      "example": "Hati-hati, ada lubang besar di depan."
+    },
+    {
+      "english": "Tegang",
+      "ipa": "/tə.gaŋ/ - Eng: Tension/Conflict",
+      "vietnamese": "Căng thẳng / Xích mích",
+      "example": "Situasi menjadi tegang setelah tabrakan."
+    },
+    {
+      "english": "Polisi",
+      "ipa": "/po.li.si/ - Eng: Police",
+      "vietnamese": "Cảnh sát",
+      "example": "Polisi datang untuk mengatur lalu lintas."
+    }
+  ]
+}
