@@ -1,0 +1,163 @@
+{
+  "name": "Thiên nhiên - Alam",
+  "topicNameVietnamese": "Thiên nhiên",
+  "topicNameIndonesian": "Alam",
+  "words": [
+    {
+      "english": "Pohon",
+      "ipa": "/po.hon/ - Eng: Tree",
+      "vietnamese": "Cây",
+      "example": "Ada banyak pohon besar di hutan."
+    },
+    {
+      "english": "Sungai",
+      "ipa": "/su.ŋai/ - Eng: River",
+      "vietnamese": "Sông",
+      "example": "Air sungai ini mengalir ke laut."
+    },
+    {
+      "english": "Laut",
+      "ipa": "/la.ut/ - Eng: Sea/Ocean",
+      "vietnamese": "Biển",
+      "example": "Kami berenang di laut saat liburan."
+    },
+    {
+      "english": "Gunung",
+      "ipa": "/gu.nuŋ/ - Eng: Mountain",
+      "vietnamese": "Núi",
+      "example": "Mendaki gunung membutuhkan stamina kuat."
+    },
+    {
+      "english": "Bukit",
+      "ipa": "/bu.kit/ - Eng: Hill",
+      "vietnamese": "Đồi",
+      "example": "Rumahnya terletak di atas bukit."
+    },
+    {
+      "english": "Pulau",
+      "ipa": "/pu.lau/ - Eng: Island",
+      "vietnamese": "Hòn đảo",
+      "example": "Pulau Bali sangat terkenal di dunia."
+    },
+    {
+      "english": "Kolam",
+      "ipa": "/ko.lam/ - Eng: Pond",
+      "vietnamese": "Ao",
+      "example": "Ada banyak ikan mas di kolam."
+    },
+    {
+      "english": "Danau",
+      "ipa": "/da.nau/ - Eng: Lake",
+      "vietnamese": "Hồ",
+      "example": "Danau Toba adalah danau terbesar di Indonesia."
+    },
+    {
+      "english": "Hutan",
+      "ipa": "/hu.tan/ - Eng: Forest",
+      "vietnamese": "Rừng",
+      "example": "Kita harus menjaga kelestarian hutan."
+    },
+    {
+      "english": "Pantai",
+      "ipa": "/pan.tai/ - Eng: Beach",
+      "vietnamese": "Bãi biển",
+      "example": "Matahari terbenam di pantai sangat indah."
+    },
+    {
+      "english": "Air Terjun",
+      "ipa": "/a.ir tər.dʒun/ - Eng: Waterfall",
+      "vietnamese": "Thác",
+      "example": "Suara air terjun itu menenangkan."
+    },
+    {
+      "english": "Kebun/Taman",
+      "ipa": "/kə.bun/ - Eng: Garden/Yard",
+      "vietnamese": "Vườn",
+      "example": "Ibu sedang menyiram bunga di kebun."
+    },
+    {
+      "english": "Taman Kota",
+      "ipa": "/ta.man ko.ta/ - Eng: Park",
+      "vietnamese": "Công viên",
+      "example": "Warga berolahraga di taman kota setiap pagi."
+    },
+    {
+      "english": "Langit",
+      "ipa": "/la.ŋit/ - Eng: Sky",
+      "vietnamese": "Bầu trời",
+      "example": "Langit berwarna biru cerah hari ini."
+    },
+    {
+      "english": "Awan",
+      "ipa": "/a.wan/ - Eng: Cloud",
+      "vietnamese": "Mây",
+      "example": "Awan gelap pertanda akan hujan."
+    },
+    {
+      "english": "Guntur/Guruh",
+      "ipa": "/gun.tur/ - Eng: Thunder",
+      "vietnamese": "Sấm",
+      "example": "Suara guntur menggelegar di langit."
+    },
+    {
+      "english": "Petir",
+      "ipa": "/pə.tir/ - Eng: Lightning",
+      "vietnamese": "Sét",
+      "example": "Kilatan petir terlihat menakutkan."
+    },
+    {
+      "english": "Matahari",
+      "ipa": "/ma.ta.ha.ri/ - Eng: Sun",
+      "vietnamese": "Mặt trời",
+      "example": "Matahari terbit dari timur."
+    },
+    {
+      "english": "Bulan",
+      "ipa": "/bu.lan/ - Eng: Moon",
+      "vietnamese": "Mặt trăng",
+      "example": "Bulan purnama bersinar terang malam ini."
+    },
+    {
+      "english": "Bintang",
+      "ipa": "/bin.taŋ/ - Eng: Star",
+      "vietnamese": "Ngôi sao",
+      "example": "Kita bisa melihat banyak bintang di desa."
+    },
+    {
+      "english": "Badai",
+      "ipa": "/ba.dai/ - Eng: Storm",
+      "vietnamese": "Bão",
+      "example": "Nelayan tidak melaut karena ada badai."
+    },
+    {
+      "english": "Banjir",
+      "ipa": "/ban.dʒir/ - Eng: Flood",
+      "vietnamese": "Lụt / Lũ lụt",
+      "example": "Hujan deras menyebabkan banjir di kota."
+    },
+    {
+      "english": "Tanah Longsor",
+      "ipa": "/ta.nah loŋ.sor/ - Eng: Landslide",
+      "vietnamese": "Sạt lở (đất)",
+      "example": "Jalan ditutup akibat tanah longsor."
+    },
+    {
+      "english": "Gempa Bumi",
+      "ipa": "/gəm.pa bu.mi/ - Eng: Earthquake",
+      "vietnamese": "Động đất",
+      "example": "Gempa bumi merusak banyak bangunan."
+    },
+    {
+      "english": "Tsunami",
+      "ipa": "/tsu.na.mi/ - Eng: Tsunami",
+      "vietnamese": "Sóng thần",
+      "example": "Sistem peringatan tsunami berbunyi."
+    },
+    {
+      "english": "Sejuk/Dingin",
+      "ipa": "/sə.dʒuk/ - Eng: Cool/Chilly",
+      "vietnamese": "Mát mẻ",
+      "example": "Udara di pegunungan sangat sejuk."
+    }
+  ]
+}
