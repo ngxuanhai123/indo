@@ -5,121 +5,104 @@
   "words": [
     {
       "english": "kekayaan",
-      "ipa": "/kə.ka.ja.an/",
-      "englishMeaning": "Wealth / Riches",
+      "ipa": "/kə.ka.ja.an/ - Eng: Wealth / Riches",
       "vietnamese": "giàu có",
       "example": "Kekayaan alam Indonesia sangat melimpah."
     },
     {
-      "english": "kultul",
-      "ipa": "/kul.tul/",
-      "englishMeaning": "Culture",
+      "english": "kultur",
+      "ipa": "/kul.tur/ - Eng: Culture",
       "vietnamese": "văn hoá",
-      "example": "Indonesia memiliki beragam kultul."
+      "example": "Indonesia memiliki beragam kultur."
     },
     {
       "english": "suku",
-      "ipa": "/su.ku/",
-      "englishMeaning": "Tribe / Ethnic group",
+      "ipa": "/su.ku/ - Eng: Tribe / Ethnic group",
       "vietnamese": "dân tộc",
       "example": "Indonesia memiliki banyak suku bangsa."
     },
     {
       "english": "batik",
-      "ipa": "/ba.tik/",
-      "englishMeaning": "Batik (traditional Indonesian fabric)",
-      "vietnamese": "thổ cẩm",
+      "ipa": "/ba.tik/ - Eng: Batik (traditional Indonesian fabric)",
+      "vietnamese": "thổ cẩm / vải Batik",
       "example": "Saya memakai baju batik."
     },
     {
       "english": "ikan",
-      "ipa": "/i.kan/",
-      "englishMeaning": "Fish",
+      "ipa": "/i.kan/ - Eng: Fish",
       "vietnamese": "cá",
       "example": "Ikan goreng itu enak sekali."
     },
     {
       "english": "nasi",
-      "ipa": "/na.si/",
-      "englishMeaning": "Cooked rice",
+      "ipa": "/na.si/ - Eng: Cooked rice",
       "vietnamese": "cơm",
       "example": "Nasi adalah makanan pokok."
     },
     {
       "english": "pedas",
-      "ipa": "/pə.das/",
-      "englishMeaning": "Spicy",
+      "ipa": "/pə.das/ - Eng: Spicy",
       "vietnamese": "cay",
       "example": "Makanan ini sangat pedas."
     },
     {
       "english": "ayam",
-      "ipa": "/a.jam/",
-      "englishMeaning": "Chicken",
+      "ipa": "/a.jam/ - Eng: Chicken",
       "vietnamese": "gà",
       "example": "Kami makan sate ayam."
     },
     {
       "english": "nyanyi",
-      "ipa": "/ɲa.ɲi/",
-      "englishMeaning": "Sing",
+      "ipa": "/ɲa.ɲi/ - Eng: Sing",
       "vietnamese": "hát",
       "example": "Dia suka nyanyi di kamar mandi."
     },
     {
       "english": "menari",
-      "ipa": "/mə.na.ri/",
-      "englishMeaning": "Dance",
-      "vietnamese": "nhảy",
+      "ipa": "/mə.na.ri/ - Eng: Dance",
+      "vietnamese": "nhảy / múa",
       "example": "Mereka menari tarian tradisional."
     },
     {
       "english": "guru",
-      "ipa": "/gu.ru/",
-      "englishMeaning": "Teacher",
-      "vietnamese": "gv",
+      "ipa": "/gu.ru/ - Eng: Teacher",
+      "vietnamese": "giáo viên",
       "example": "Guru itu mengajar bahasa Inggris."
     },
     {
       "english": "Bapak guru",
-      "ipa": "/ba.pak gu.ru/",
-      "englishMeaning": "Male teacher",
+      "ipa": "/ba.pak gu.ru/ - Eng: Male teacher",
       "vietnamese": "thầy giáo",
       "example": "Bapak guru sedang menjelaskan pelajaran."
     },
     {
       "english": "ibu guru",
-      "ipa": "/i.bu gu.ru/",
-      "englishMeaning": "Female teacher",
+      "ipa": "/i.bu gu.ru/ - Eng: Female teacher",
       "vietnamese": "cô giáo",
       "example": "Ibu guru sangat sabar."
     },
     {
       "english": "buang air besar",
-      "ipa": "/bu.aŋ a.ir bə.sar/",
-      "englishMeaning": "Defecate",
+      "ipa": "/bu.aŋ a.ir bə.sar/ - Eng: Defecate",
       "vietnamese": "đi nặng",
       "example": "Saya harus buang air besar."
     },
     {
       "english": "buang air kecil",
-      "ipa": "/bu.aŋ a.ir kə.tʃil/",
-      "englishMeaning": "Urinate",
+      "ipa": "/bu.aŋ a.ir kə.tʃil/ - Eng: Urinate",
       "vietnamese": "đi nhẹ",
       "example": "Dia pergi ke toilet untuk buang air kecil."
     },
     {
       "english": "mencuci",
-      "ipa": "/mən.tʃu.tʃi/",
-      "englishMeaning": "Wash",
+      "ipa": "/mən.tʃu.tʃi/ - Eng: Wash",
       "vietnamese": "rửa",
       "example": "Saya mencuci piring setelah makan."
     },
     {
       "english": "piring",
-      "ipa": "/pi.riŋ/",
-      "englishMeaning": "Plate",
-      "vietnamese": "chén, đĩa...",
+      "ipa": "/pi.riŋ/ - Eng: Plate",
+      "vietnamese": "chén / đĩa",
       "example": "Tolong cuci piring-piring kotor itu."
     }
   ]
