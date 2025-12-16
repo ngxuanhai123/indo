@@ -5,253 +5,217 @@
   "words": [
     {
       "english": "saya",
-      "ipa": "/sa.ja/",
-      "englishMeaning": "I / Me",
+      "ipa": "/sa.ja/ - Eng: I / Me",
       "vietnamese": "tôi",
       "example": "Saya pergi ke pasar."
     },
     {
       "english": "kamu",
-      "ipa": "/ka.mu/",
-      "englishMeaning": "You (informal)",
+      "ipa": "/ka.mu/ - Eng: You (informal)",
       "vietnamese": "bạn",
       "example": "Kamu mau makan apa?"
     },
     {
       "english": "dia",
-      "ipa": "/di.a/",
-      "englishMeaning": "He / She / Him / Her",
+      "ipa": "/di.a/ - Eng: He / She / Him / Her",
       "vietnamese": "anh ấy / cô ấy",
       "example": "Dia sedang membaca buku."
     },
     {
       "english": "kita",
-      "ipa": "/ki.ta/",
-      "englishMeaning": "We / Us (inclusive)",
+      "ipa": "/ki.ta/ - Eng: We / Us (inclusive)",
       "vietnamese": "chúng ta (bao gồm người nghe)",
       "example": "Kita harus bekerja sama."
     },
     {
       "english": "kami",
-      "ipa": "/ka.mi/",
-      "englishMeaning": "We / Us (exclusive)",
+      "ipa": "/ka.mi/ - Eng: We / Us (exclusive)",
       "vietnamese": "chúng tôi (không bao gồm người nghe)",
       "example": "Kami akan datang besok."
     },
     {
       "english": "mereka",
-      "ipa": "/mə.re.ka/",
-      "englishMeaning": "They / Them",
+      "ipa": "/mə.re.ka/ - Eng: They / Them",
       "vietnamese": "họ",
       "example": "Mereka sedang bermain di taman."
     },
     {
       "english": "meja",
-      "ipa": "/me.dʒa/",
-      "englishMeaning": "Table",
+      "ipa": "/me.dʒa/ - Eng: Table",
       "vietnamese": "bàn",
       "example": "Ada buku di atas meja."
     },
     {
       "english": "kursi",
-      "ipa": "/kur.si/",
-      "englishMeaning": "Chair",
+      "ipa": "/kur.si/ - Eng: Chair",
       "vietnamese": "ghế",
       "example": "Silakan duduk di kursi ini."
     },
     {
       "english": "pintu",
-      "ipa": "/pin.tu/",
-      "englishMeaning": "Door",
+      "ipa": "/pin.tu/ - Eng: Door",
       "vietnamese": "cửa",
       "example": "Tolong tutup pintunya."
     },
     {
       "english": "jendela",
-      "ipa": "/dʒən.de.la/",
-      "englishMeaning": "Window",
+      "ipa": "/dʒən.de.la/ - Eng: Window",
       "vietnamese": "cửa sổ",
       "example": "Buka jendela agar udara masuk."
     },
     {
       "english": "tempat tidur",
-      "ipa": "/təm.pat ti.dur/",
-      "englishMeaning": "Bed",
+      "ipa": "/təm.pat ti.dur/ - Eng: Bed",
       "vietnamese": "giường",
       "example": "Saya tidur di tempat tidur."
     },
     {
       "english": "lemari",
-      "ipa": "/lə.ma.ri/",
-      "englishMeaning": "Wardrobe / Cupboard",
+      "ipa": "/lə.ma.ri/ - Eng: Wardrobe / Cupboard",
       "vietnamese": "tủ",
       "example": "Pakaian saya ada di lemari."
     },
     {
       "english": "lampu",
-      "ipa": "/lam.pu/",
-      "englishMeaning": "Lamp / Light",
+      "ipa": "/lam.pu/ - Eng: Lamp / Light",
       "vietnamese": "đèn",
       "example": "Nyalakan lampu saat gelap."
     },
     {
       "english": "kulkas",
-      "ipa": "/kul.kas/",
-      "englishMeaning": "Refrigerator",
+      "ipa": "/kul.kas/ - Eng: Refrigerator",
       "vietnamese": "tủ lạnh",
       "example": "Ada minuman dingin di kulkas."
     },
     {
       "english": "kompor",
-      "ipa": "/kom.por/",
-      "englishMeaning": "Stove",
+      "ipa": "/kom.por/ - Eng: Stove",
       "vietnamese": "bếp",
       "example": "Ibu memasak di kompor."
     },
     {
       "english": "televisi",
-      "ipa": "/tə.lə.vi.si/",
-      "englishMeaning": "Television",
+      "ipa": "/te.le.vi.si/ - Eng: Television",
       "vietnamese": "tivi",
       "example": "Kami menonton televisi setiap malam."
     },
     {
       "english": "nasi",
-      "ipa": "/na.si/",
-      "englishMeaning": "Cooked rice",
+      "ipa": "/na.si/ - Eng: Cooked rice",
       "vietnamese": "cơm",
       "example": "Saya makan nasi dengan lauk pauk."
     },
     {
       "english": "air",
-      "ipa": "/a.ir/",
-      "englishMeaning": "Water",
+      "ipa": "/a.ir/ - Eng: Water",
       "vietnamese": "nước",
       "example": "Saya minum air putih setiap hari."
     },
     {
       "english": "teh",
-      "ipa": "/teh/",
-      "englishMeaning": "Tea",
+      "ipa": "/teh/ - Eng: Tea",
       "vietnamese": "trà",
       "example": "Saya suka minum teh hangat."
     },
     {
       "english": "kopi",
-      "ipa": "/ko.pi/",
-      "englishMeaning": "Coffee",
+      "ipa": "/ko.pi/ - Eng: Coffee",
       "vietnamese": "cà phê",
       "example": "Ayah minum kopi setiap pagi."
     },
     {
       "english": "roti",
-      "ipa": "/ro.ti/",
-      "englishMeaning": "Bread",
+      "ipa": "/ro.ti/ - Eng: Bread",
       "vietnamese": "bánh mì",
       "example": "Saya makan roti untuk sarapan."
     },
     {
       "english": "ayam",
-      "ipa": "/a.jam/",
-      "englishMeaning": "Chicken",
+      "ipa": "/a.jam/ - Eng: Chicken",
       "vietnamese": "gà",
       "example": "Kami makan ayam goreng."
     },
     {
       "english": "ikan",
-      "ipa": "/i.kan/",
-      "englishMeaning": "Fish",
+      "ipa": "/i.kan/ - Eng: Fish",
       "vietnamese": "cá",
       "example": "Ikan ini sangat segar."
     },
     {
       "english": "daging",
-      "ipa": "/da.giŋ/",
-      "englishMeaning": "Meat",
+      "ipa": "/da.giŋ/ - Eng: Meat",
       "vietnamese": "thịt",
       "example": "Daging sapi ini empuk sekali."
     },
     {
       "english": "sayur",
-      "ipa": "/sa.jur/",
-      "englishMeaning": "Vegetable",
+      "ipa": "/sa.jur/ - Eng: Vegetable",
       "vietnamese": "rau",
       "example": "Makanlah banyak sayur agar sehat."
     },
     {
       "english": "buah",
-      "ipa": "/bu.ah/",
-      "englishMeaning": "Fruit",
+      "ipa": "/bu.ah/ - Eng: Fruit",
       "vietnamese": "trái cây",
       "example": "Saya suka makan buah-buahan."
     },
     {
       "english": "makan",
-      "ipa": "/ma.kan/",
-      "englishMeaning": "Eat",
+      "ipa": "/ma.kan/ - Eng: Eat",
       "vietnamese": "ăn",
       "example": "Mari kita makan siang bersama."
     },
     {
       "english": "minum",
-      "ipa": "/mi.num/",
-      "englishMeaning": "Drink",
+      "ipa": "/mi.num/ - Eng: Drink",
       "vietnamese": "uống",
       "example": "Saya haus, ingin minum."
     },
     {
       "english": "tidur",
-      "ipa": "/ti.dur/",
-      "englishMeaning": "Sleep",
+      "ipa": "/ti.dur/ - Eng: Sleep",
       "vietnamese": "ngủ",
       "example": "Bayi itu sedang tidur nyenyak."
     },
     {
       "english": "pergi",
-      "ipa": "/pər.gi/",
-      "englishMeaning": "Go",
+      "ipa": "/pər.gi/ - Eng: Go",
       "vietnamese": "đi",
       "example": "Saya akan pergi ke sekolah."
     },
     {
       "english": "datang",
-      "ipa": "/da.taŋ/",
-      "englishMeaning": "Come",
+      "ipa": "/da.taŋ/ - Eng: Come",
       "vietnamese": "đến",
       "example": "Dia akan datang besok pagi."
     },
     {
       "english": "belajar",
-      "ipa": "/bə.la.dʒar/",
-      "englishMeaning": "Study / Learn",
+      "ipa": "/bə.la.dʒar/ - Eng: Study / Learn",
       "vietnamese": "học",
       "example": "Saya suka belajar bahasa Indonesia."
     },
     {
       "english": "bekerja",
-      "ipa": "/bə.kər.dʒa/",
-      "englishMeaning": "Work",
+      "ipa": "/bə.kər.dʒa/ - Eng: Work",
       "vietnamese": "làm việc",
       "example": "Ayah bekerja di kantor."
     },
     {
       "english": "bermain",
-      "ipa": "/bər.ma.in/",
-      "englishMeaning": "Play",
+      "ipa": "/bər.ma.in/ - Eng: Play",
       "vietnamese": "chơi",
       "example": "Anak-anak bermain di taman."
     },
     {
       "english": "bicara",
-      "ipa": "/bi.tʃa.ra/",
-      "englishMeaning": "Speak / Talk",
+      "ipa": "/bi.tʃa.ra/ - Eng: Speak / Talk",
       "vietnamese": "nói chuyện",
       "example": "Mereka sedang bicara serius."
     },
     {
       "english": "melihat",
-      "ipa": "/mə.li.hat/",
-      "englishMeaning": "See / Look",
+      "ipa": "/mə.li.hat/ - Eng: See / Look",
       "vietnamese": "nhìn",
       "example": "Saya melihat pemandangan indah."
     }
