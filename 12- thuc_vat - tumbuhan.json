@@ -1,0 +1,283 @@
+{
+  "name": "Thực vật - Tumbuhan",
+  "topicNameVietnamese": "Thực vật",
+  "topicNameIndonesian": "Tumbuhan",
+  "words": [
+    {
+      "english": "mangga",
+      "ipa": "/ˈmaŋ.ga/ - Eng: mango",
+      "vietnamese": "xoài",
+      "example": "Saya suka jus mangga."
+    },
+    {
+      "english": "pisang",
+      "ipa": "/ˈpi.saŋ/ - Eng: banana",
+      "vietnamese": "chuối",
+      "example": "Monyet suka makan pisang."
+    },
+    {
+      "english": "jeruk bali",
+      "ipa": "/ˈdʒə.ruk ˈba.li/ - Eng: pomelo",
+      "vietnamese": "bưởi",
+      "example": "Jeruk bali ukurannya besar."
+    },
+    {
+      "english": "jambu",
+      "ipa": "/ˈdʒam.bu/ - Eng: guava",
+      "vietnamese": "ổi",
+      "example": "Jambu ini manis sekali."
+    },
+    {
+      "english": "durian",
+      "ipa": "/ˈdu.ri.an/ - Eng: durian",
+      "vietnamese": "sầu riêng",
+      "example": "Durian memiliki bau yang kuat."
+    },
+    {
+      "english": "rambutan",
+      "ipa": "/ram.ˈbu.tan/ - Eng: rambutan",
+      "vietnamese": "chôm chôm",
+      "example": "Kulit rambutan berbulu."
+    },
+    {
+      "english": "nangka",
+      "ipa": "/ˈnaŋ.ka/ - Eng: jackfruit",
+      "vietnamese": "mít",
+      "example": "Nangka muda bisa dimasak."
+    },
+    {
+      "english": "apel",
+      "ipa": "/ˈa.pəl/ - Eng: apple",
+      "vietnamese": "táo",
+      "example": "Makan apel baik untuk kesehatan."
+    },
+    {
+      "english": "leci",
+      "ipa": "/ˈle.tʃi/ - Eng: lychee",
+      "vietnamese": "vải",
+      "example": "Buah leci rasanya segar."
+    },
+    {
+      "english": "stroberi",
+      "ipa": "/stro.ˈbɛ.ri/ - Eng: strawberry",
+      "vietnamese": "dâu tây",
+      "example": "Stroberi berwarna merah."
+    },
+    {
+      "english": "anggur",
+      "ipa": "/ˈaŋ.gur/ - Eng: grape",
+      "vietnamese": "nho",
+      "example": "Anggur ini tanpa biji."
+    },
+    {
+      "english": "kelengkeng",
+      "ipa": "/kə.ˈləŋ.kɛŋ/ - Eng: longan",
+      "vietnamese": "nhãn",
+      "example": "Rasa kelengkeng mirip leci."
+    },
+    {
+      "english": "sirsak",
+      "ipa": "/ˈsir.sak/ - Eng: soursop",
+      "vietnamese": "mãng cầu",
+      "example": "Jus sirsak sangat enak."
+    },
+    {
+      "english": "nanas",
+      "ipa": "/ˈna.nas/ - Eng: pineapple",
+      "vietnamese": "dứa / thơm",
+      "example": "Nanas memiliki kulit kasar."
+    },
+    {
+      "english": "jeruk",
+      "ipa": "/ˈdʒə.ruk/ - Eng: orange",
+      "vietnamese": "cam",
+      "example": "Ibu memeras jeruk."
+    },
+    {
+      "english": "jeruk nipis",
+      "ipa": "/ˈdʒə.ruk ˈni.pis/ - Eng: lime",
+      "vietnamese": "chanh",
+      "example": "Tambahkan jeruk nipis pada soto."
+    },
+    {
+      "english": "jeruk lemon",
+      "ipa": "/ˈdʒə.ruk ˈle.mon/ - Eng: lemon",
+      "vietnamese": "chanh vàng",
+      "example": "Teh lemon sangat menyegarkan."
+    },
+    {
+      "english": "buah naga",
+      "ipa": "/ˈbu.ah ˈna.ga/ - Eng: dragon fruit",
+      "vietnamese": "thanh long",
+      "example": "Daging buah naga ada yang merah."
+    },
+    {
+      "english": "padi",
+      "ipa": "/ˈpa.di/ - Eng: rice plant",
+      "vietnamese": "lúa",
+      "example": "Petani menanam padi di sawah."
+    },
+    {
+      "english": "jagung",
+      "ipa": "/ˈdʒa.guŋ/ - Eng: corn",
+      "vietnamese": "ngô / bắp",
+      "example": "Jagung bakar enak dimakan malam hari."
+    },
+    {
+      "english": "kacang",
+      "ipa": "/ˈka.tʃaŋ/ - Eng: bean",
+      "vietnamese": "đậu",
+      "example": "Saya suka makan kacang rebus."
+    },
+    {
+      "english": "tebu",
+      "ipa": "/ˈtə.bu/ - Eng: sugarcane",
+      "vietnamese": "mía",
+      "example": "Gula dibuat dari tebu."
+    },
+    {
+      "english": "sayuran",
+      "ipa": "/sa.ˈju.ran/ - Eng: vegetables",
+      "vietnamese": "rau",
+      "example": "Kita harus makan sayuran setiap hari."
+    },
+    {
+      "english": "tanaman hias",
+      "ipa": "/ta.ˈna.man ˈhi.as/ - Eng: ornamental plant",
+      "vietnamese": "cây cảnh",
+      "example": "Tanaman hias mempercantik rumah."
+    },
+    {
+      "english": "pohon",
+      "ipa": "/ˈpo.hon/ - Eng: tree",
+      "vietnamese": "cây",
+      "example": "Pohon itu sangat tinggi."
+    },
+    {
+      "english": "rumput",
+      "ipa": "/ˈrum.put/ - Eng: grass",
+      "vietnamese": "cỏ",
+      "example": "Sapi makan rumput."
+    },
+    {
+      "english": "bunga",
+      "ipa": "/ˈbu.ŋa/ - Eng: flower",
+      "vietnamese": "hoa",
+      "example": "Bunga mawar baunya harum."
+    },
+    {
+      "english": "wortel",
+      "ipa": "/ˈwor.təl/ - Eng: carrot",
+      "vietnamese": "cà rốt",
+      "example": "Wortel baik untuk mata."
+    },
+    {
+      "english": "kentang",
+      "ipa": "/kən.ˈtaŋ/ - Eng: potato",
+      "vietnamese": "khoai tây",
+      "example": "Saya suka kentang goreng."
+    },
+    {
+      "english": "ubi",
+      "ipa": "/ˈu.bi/ - Eng: sweet potato",
+      "vietnamese": "khoai lang",
+      "example": "Ubi rebus rasanya manis."
+    },
+    {
+      "english": "kol",
+      "ipa": "/kol/ - Eng: cabbage",
+      "vietnamese": "bắp cải",
+      "example": "Kol bisa dibuat sayur sop."
+    },
+    {
+      "english": "bayam",
+      "ipa": "/ˈba.jam/ - Eng: spinach",
+      "vietnamese": "rau chân vịt",
+      "example": "Popeye suka makan bayam."
+    },
+    {
+      "english": "kangkung",
+      "ipa": "/ˈkaŋ.kuŋ/ - Eng: water spinach",
+      "vietnamese": "rau muống",
+      "example": "Cah kangkung adalah makanan favorit saya."
+    },
+    {
+      "english": "tomat",
+      "ipa": "/ˈto.mat/ - Eng: tomato",
+      "vietnamese": "cà chua",
+      "example": "Tomat mengandung vitamin C."
+    },
+    {
+      "english": "timun",
+      "ipa": "/ˈti.mun/ - Eng: cucumber",
+      "vietnamese": "dưa leo",
+      "example": "Timun sering dijadikan lalapan."
+    },
+    {
+      "english": "terong",
+      "ipa": "/ˈtɛ.roŋ/ - Eng: eggplant",
+      "vietnamese": "cà tím",
+      "example": "Terong balado sangat pedas."
+    },
+    {
+      "english": "bawang merah",
+      "ipa": "/ˈba.waŋ ˈmɛ.rah/ - Eng: shallot",
+      "vietnamese": "hành tím",
+      "example": "Iris bawang merah tipis-tipis."
+    },
+    {
+      "english": "bawang putih",
+      "ipa": "/ˈba.waŋ ˈpu.tih/ - Eng: garlic",
+      "vietnamese": "tỏi",
+      "example": "Bawang putih membuat masakan harum."
+    },
+    {
+      "english": "cabai",
+      "ipa": "/ˈtʃa.bai/ - Eng: chili",
+      "vietnamese": "ớt",
+      "example": "Cabai ini sangat pedas."
+    },
+    {
+      "english": "jahe",
+      "ipa": "/ˈdʒa.he/ - Eng: ginger",
+      "vietnamese": "gừng",
+      "example": "Wedang jahe menghangatkan tubuh."
+    },
+    {
+      "english": "kunyit",
+      "ipa": "/ˈku.ɲit/ - Eng: turmeric",
+      "vietnamese": "nghệ",
+      "example": "Kunyit berwarna kuning."
+    },
+    {
+      "english": "serai",
+      "ipa": "/ˈsə.rai/ - Eng: lemongrass",
+      "vietnamese": "sả",
+      "example": "Serai digunakan untuk bumbu masak."
+    },
+    {
+      "english": "daun bawang",
+      "ipa": "/ˈda.un ˈba.waŋ/ - Eng: spring onion",
+      "vietnamese": "hành lá",
+      "example": "Taburkan daun bawang di atas bubur."
+    },
+    {
+      "english": "daun ketumbar",
+      "ipa": "/ˈda.un kə.ˈtum.bar/ - Eng: coriander leaf",
+      "vietnamese": "rau mùi",
+      "example": "Daun ketumbar memiliki aroma khas."
+    },
+    {
+      "english": "daun kemangi",
+      "ipa": "/ˈda.un kə.ˈma.ŋi/ - Eng: basil leaf",
+      "vietnamese": "húng quế",
+      "example": "Daun kemangi enak dimakan mentah."
+    },
+    {
+      "english": "daun pandan",
+      "ipa": "/ˈda.un ˈpan.dan/ - Eng: pandan leaf",
+      "vietnamese": "lá dứa",
+      "example": "Daun pandan mengharumkan nasi."
+    }
+  ]
+}
