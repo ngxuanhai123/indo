@@ -1,0 +1,175 @@
+{
+  "name": "Thời tiết - Cuaca",
+  "topicNameVietnamese": "Thời tiết",
+  "topicNameIndonesian": "Cuaca",
+  "words": [
+    {
+      "english": "cuaca",
+      "ipa": "/tʃu.a.tʃa/ - Eng: weather",
+      "vietnamese": "thời tiết",
+      "example": "Bagaimana cuaca hari ini?"
+    },
+    {
+      "english": "cerah",
+      "ipa": "/tʃə.rah/ - Eng: clear / sunny",
+      "vietnamese": "trời quang / nắng đẹp",
+      "example": "Langit sangat cerah hari ini."
+    },
+    {
+      "english": "mendung",
+      "ipa": "/mən.duŋ/ - Eng: cloudy",
+      "vietnamese": "trời âm u",
+      "example": "Langit mendung, sepertinya akan hujan."
+    },
+    {
+      "english": "berawan",
+      "ipa": "/bər.a.wan/ - Eng: overcast",
+      "vietnamese": "có mây",
+      "example": "Hari ini sedikit berawan."
+    },
+    {
+      "english": "hujan",
+      "ipa": "/hu.dʒan/ - Eng: rain",
+      "vietnamese": "mưa",
+      "example": "Saya suka suara hujan."
+    },
+    {
+      "english": "gerimis",
+      "ipa": "/gə.ri.mis/ - Eng: drizzle",
+      "vietnamese": "mưa phùn",
+      "example": "Pakai payungmu, di luar gerimis."
+    },
+    {
+      "english": "hujan deras",
+      "ipa": "/hu.dʒan də.ras/ - Eng: heavy rain",
+      "vietnamese": "mưa to",
+      "example": "Hujan deras menyebabkan banjir."
+    },
+    {
+      "english": "badai",
+      "ipa": "/ba.dai/ - Eng: storm",
+      "vietnamese": "bão",
+      "example": "Badai besar menghancurkan rumah itu."
+    },
+    {
+      "english": "angin",
+      "ipa": "/a.ŋin/ - Eng: wind",
+      "vietnamese": "gió",
+      "example": "Angin bertiup sepoi-sepoi."
+    },
+    {
+      "english": "angin kencang",
+      "ipa": "/a.ŋin kən.tʃaŋ/ - Eng: strong wind",
+      "vietnamese": "gió mạnh",
+      "example": "Hati-hati, ada angin kencang."
+    },
+    {
+      "english": "salju",
+      "ipa": "/sal.dʒu/ - Eng: snow",
+      "vietnamese": "tuyết",
+      "example": "Anak-anak bermain bola salju."
+    },
+    {
+      "english": "kabut",
+      "ipa": "/ka.but/ - Eng: fog",
+      "vietnamese": "sương mù",
+      "example": "Hati-hati menyetir saat ada kabut."
+    },
+    {
+      "english": "embun",
+      "ipa": "/əm.bun/ - Eng: dew",
+      "vietnamese": "sương",
+      "example": "Ada embun di daun pagi ini."
+    },
+    {
+      "english": "panas",
+      "ipa": "/pa.nas/ - Eng: hot",
+      "vietnamese": "nóng",
+      "example": "Cuaca sangat panas siang ini."
+    },
+    {
+      "english": "dingin",
+      "ipa": "/di.ŋin/ - Eng: cold",
+      "vietnamese": "lạnh",
+      "example": "Saya merasa dingin, tolong matikan AC."
+    },
+    {
+      "english": "sejuk",
+      "ipa": "/sə.dʒuk/ - Eng: cool",
+      "vietnamese": "mát mẻ",
+      "example": "Udara di pegunungan sangat sejuk."
+    },
+    {
+      "english": "hangat",
+      "ipa": "/ha.ŋat/ - Eng: warm",
+      "vietnamese": "ấm áp",
+      "example": "Matahari pagi terasa hangat."
+    },
+    {
+      "english": "lembab",
+      "ipa": "/ləm.bab/ - Eng: humid",
+      "vietnamese": "ẩm",
+      "example": "Udara di sini sangat lembab."
+    },
+    {
+      "english": "kering",
+      "ipa": "/kə.riŋ/ - Eng: dry",
+      "vietnamese": "khô",
+      "example": "Musim kemarau membuat tanah kering."
+    },
+    {
+      "english": "musim",
+      "ipa": "/mu.sim/ - Eng: season",
+      "vietnamese": "mùa",
+      "example": "Indonesia memiliki dua musim."
+    },
+    {
+      "english": "musim hujan",
+      "ipa": "/mu.sim hu.dʒan/ - Eng: rainy season",
+      "vietnamese": "mùa mưa",
+      "example": "Bawa payung selama musim hujan."
+    },
+    {
+      "english": "musim kemarau",
+      "ipa": "/mu.sim kə.ma.rau/ - Eng: dry season",
+      "vietnamese": "mùa khô",
+      "example": "Air sulit didapat saat musim kemarau."
+    },
+    {
+      "english": "musim panas",
+      "ipa": "/mu.sim pa.nas/ - Eng: summer",
+      "vietnamese": "mùa hè",
+      "example": "Kami pergi ke pantai saat musim panas."
+    },
+    {
+      "english": "musim dingin",
+      "ipa": "/mu.sim di.ŋin/ - Eng: winter",
+      "vietnamese": "mùa đông",
+      "example": "Musim dingin di Eropa sangat dingin."
+    },
+    {
+      "english": "musim semi",
+      "ipa": "/mu.sim sə.mi/ - Eng: spring",
+      "vietnamese": "mùa xuân",
+      "example": "Bunga bermekaran di musim semi."
+    },
+    {
+      "english": "musim gugur",
+      "ipa": "/mu.sim gu.gur/ - Eng: autumn / fall",
+      "vietnamese": "mùa thu",
+      "example": "Daun berubah warna saat musim gugur."
+    },
+    {
+      "english": "suhu",
+      "ipa": "/su.hu/ - Eng: temperature",
+      "vietnamese": "nhiệt độ",
+      "example": "Suhu hari ini mencapai 30 derajat."
+    },
+    {
+      "english": "pelangi",
+      "ipa": "/pə.la.ŋi/ - Eng: rainbow",
+      "vietnamese": "cầu vồng",
+      "example": "Pelangi muncul setelah hujan."
+    }
+  ]
+}
