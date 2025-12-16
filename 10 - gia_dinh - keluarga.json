@@ -1,0 +1,169 @@
+{
+  "name": "Gia đình - Keluarga",
+  "topicNameVietnamese": "Gia đình",
+  "topicNameIndonesian": "Keluarga",
+  "words": [
+    {
+      "english": "ayah",
+      "ipa": "/a.jah/ - Eng: father",
+      "vietnamese": "cha / bố",
+      "example": "Ayah sedang bekerja di kantor."
+    },
+    {
+      "english": "ibu",
+      "ipa": "/i.bu/ - Eng: mother",
+      "vietnamese": "mẹ",
+      "example": "Ibu memasak makanan enak."
+    },
+    {
+      "english": "orang tua",
+      "ipa": "/o.raŋ tu.a/ - Eng: parents",
+      "vietnamese": "cha mẹ",
+      "example": "Saya sangat menghormati orang tua."
+    },
+    {
+      "english": "anak",
+      "ipa": "/a.nak/ - Eng: child",
+      "vietnamese": "con",
+      "example": "Anak itu sedang bermain bola."
+    },
+    {
+      "english": "anak laki-laki",
+      "ipa": "/a.nak la.ki.la.ki/ - Eng: son",
+      "vietnamese": "con trai",
+      "example": "Anak laki-laki mereka sudah besar."
+    },
+    {
+      "english": "anak perempuan",
+      "ipa": "/a.nak pə.rəm.pu.an/ - Eng: daughter",
+      "vietnamese": "con gái",
+      "example": "Anak perempuannya pandai menyanyi."
+    },
+    {
+      "english": "kakak laki-laki",
+      "ipa": "/ka.kak la.ki.la.ki/ - Eng: older brother",
+      "vietnamese": "anh trai",
+      "example": "Kakak laki-laki saya kuliah di luar negeri."
+    },
+    {
+      "english": "kakak perempuan",
+      "ipa": "/ka.kak pə.rəm.pu.an/ - Eng: older sister",
+      "vietnamese": "chị gái",
+      "example": "Kakak perempuan membantu ibu."
+    },
+    {
+      "english": "adik laki-laki",
+      "ipa": "/a.dik la.ki.la.ki/ - Eng: younger brother",
+      "vietnamese": "em trai",
+      "example": "Adik laki-laki saya suka main game."
+    },
+    {
+      "english": "adik perempuan",
+      "ipa": "/a.dik pə.rəm.pu.an/ - Eng: younger sister",
+      "vietnamese": "em gái",
+      "example": "Adik perempuan saya sangat lucu."
+    },
+    {
+      "english": "suami",
+      "ipa": "/su.a.mi/ - Eng: husband",
+      "vietnamese": "chồng",
+      "example": "Suaminya seorang dokter."
+    },
+    {
+      "english": "istri",
+      "ipa": "/is.tri/ - Eng: wife",
+      "vietnamese": "vợ",
+      "example": "Istrinya sangat ramah."
+    },
+    {
+      "english": "kakek",
+      "ipa": "/ka.kek/ - Eng: grandfather",
+      "vietnamese": "ông",
+      "example": "Kakek suka membaca koran."
+    },
+    {
+      "english": "nenek",
+      "ipa": "/ne.nek/ - Eng: grandmother",
+      "vietnamese": "bà",
+      "example": "Nenek membuat kue yang enak."
+    },
+    {
+      "english": "cucu",
+      "ipa": "/tʃu.tʃu/ - Eng: grandchild",
+      "vietnamese": "cháu",
+      "example": "Nenek sangat sayang kepada cucu."
+    },
+    {
+      "english": "paman",
+      "ipa": "/pa.man/ - Eng: uncle",
+      "vietnamese": "chú / cậu / bác trai",
+      "example": "Paman saya tinggal di Jakarta."
+    },
+    {
+      "english": "bibi",
+      "ipa": "/bi.bi/ - Eng: aunt",
+      "vietnamese": "cô / dì / bác gái",
+      "example": "Bibi memberi saya hadiah."
+    },
+    {
+      "english": "sepupu",
+      "ipa": "/sə.pu.pu/ - Eng: cousin",
+      "vietnamese": "anh chị em họ",
+      "example": "Saya bermain dengan sepupu."
+    },
+    {
+      "english": "keluarga",
+      "ipa": "/kə.lu.ar.ga/ - Eng: family",
+      "vietnamese": "gia đình",
+      "example": "Keluarga kami sangat bahagia."
+    },
+    {
+      "english": "rumah",
+      "ipa": "/ru.mah/ - Eng: house",
+      "vietnamese": "nhà",
+      "example": "Rumah kami dekat taman."
+    },
+    {
+      "english": "hubungan",
+      "ipa": "/hu.bu.ŋan/ - Eng: relationship",
+      "vietnamese": "mối quan hệ",
+      "example": "Hubungan mereka sangat harmonis."
+    },
+    {
+      "english": "pernikahan",
+      "ipa": "/pər.ni.ka.han/ - Eng: marriage",
+      "vietnamese": "hôn nhân",
+      "example": "Pesta pernikahan itu sangat meriah."
+    },
+    {
+      "english": "kelahiran",
+      "ipa": "/kə.la.hi.ran/ - Eng: birth",
+      "vietnamese": "sự ra đời",
+      "example": "Kami merayakan kelahiran bayi baru."
+    },
+    {
+      "english": "kematian",
+      "ipa": "/kə.ma.ti.an/ - Eng: death",
+      "vietnamese": "sự qua đời",
+      "example": "Berita kematian itu sangat menyedihkan."
+    },
+    {
+      "english": "ulang tahun",
+      "ipa": "/u.laŋ ta.hun/ - Eng: birthday",
+      "vietnamese": "sinh nhật",
+      "example": "Selamat ulang tahun!"
+    },
+    {
+      "english": "acara keluarga",
+      "ipa": "/a.tʃa.ra kə.lu.ar.ga/ - Eng: family event",
+      "vietnamese": "sự kiện gia đình",
+      "example": "Besok ada acara keluarga di rumah nenek."
+    },
+    {
+      "english": "tetangga",
+      "ipa": "/tə.taŋ.ga/ - Eng: neighbor",
+      "vietnamese": "hàng xóm",
+      "example": "Tetangga kami sangat baik hati."
+    }
+  ]
+}
