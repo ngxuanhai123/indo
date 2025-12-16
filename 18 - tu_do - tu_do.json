@@ -1,0 +1,331 @@
+{
+  "name": "Tự do - Kosakata Bebas",
+  "topicNameVietnamese": "Tự do",
+  "topicNameIndonesian": "Kosakata Bebas",
+  "words": [
+    {
+      "english": "Menikmati",
+      "ipa": "/mə.nik.ma.ti/ - Eng: To Enjoy/To Savor",
+      "vietnamese": "Thưởng thức",
+      "example": "Saya menikmati pemandangan alam."
+    },
+    {
+      "english": "Berjanji",
+      "ipa": "/bər.dʒan.dʒi/ - Eng: To Promise",
+      "vietnamese": "Hứa",
+      "example": "Dia berjanji untuk datang tepat waktu."
+    },
+    {
+      "english": "Mengepel Lantai",
+      "ipa": "/mə.ŋə.pel lan.tai/ - Eng: To Mop the Floor",
+      "vietnamese": "Lau nhà",
+      "example": "Ibu sedang mengepel lantai dapur."
+    },
+    {
+      "english": "Pakaian",
+      "ipa": "/pa.kai.an/ - Eng: Clothing/Clothes",
+      "vietnamese": "Quần áo",
+      "example": "Pakaian ini sudah dicuci bersih."
+    },
+    {
+      "english": "Singa",
+      "ipa": "/si.ŋa/ - Eng: Lion",
+      "vietnamese": "Sư tử",
+      "example": "Singa mengaum dengan keras di kebun binatang."
+    },
+    {
+      "english": "Tertawa Normal",
+      "ipa": "/tər.ta.wa nor.mal/ - Eng: To Laugh Normally",
+      "vietnamese": "Cười bình thường",
+      "example": "Mereka tertawa normal saat mengobrol."
+    },
+    {
+      "english": "Tertawa Terbahak-bahak",
+      "ipa": "/tər.ta.wa tər.ba.hak.ba.hak/ - Eng: To Laugh Hysterically",
+      "vietnamese": "Cười như điên / Cười phá lên",
+      "example": "Dia tertawa terbahak-bahak mendengar lelucon itu."
+    },
+    {
+      "english": "Pergi/Berjalan",
+      "ipa": "/pər.gi/ /bər.dʒa.lan/ - Eng: To Go/To Walk",
+      "vietnamese": "Đi",
+      "example": "Saya berjalan kaki ke sekolah."
+    },
+    {
+      "english": "Kapan",
+      "ipa": "/ka.pan/ - Eng: When",
+      "vietnamese": "Khi nào",
+      "example": "Kapan kamu akan pulang ke kampung?"
+    },
+    {
+      "english": "Sabar",
+      "ipa": "/sa.bar/ - Eng: Patience/Patient",
+      "vietnamese": "Nhẫn nại",
+      "example": "Kita harus sabar menghadapi masalah ini."
+    },
+    {
+      "english": "Marah",
+      "ipa": "/ma.rah/ - Eng: Angry/Anger",
+      "vietnamese": "Tức giận",
+      "example": "Jangan marah, itu hanya salah paham."
+    },
+    {
+      "english": "Menyadari",
+      "ipa": "/mə.ɲa.da.ri/ - Eng: To Realize/To Recognize",
+      "vietnamese": "Nhận ra",
+      "example": "Saya baru menyadari bahwa dompet saya tertinggal."
+    },
+    {
+      "english": "Ramah",
+      "ipa": "/ra.mah/ - Eng: Friendly",
+      "vietnamese": "Thân thiện",
+      "example": "Orang Indonesia dikenal sangat ramah."
+    },
+    {
+      "english": "Melihat",
+      "ipa": "/mə.li.hat/ - Eng: To Look/To See",
+      "vietnamese": "Nhìn",
+      "example": "Saya melihat burung indah di pohon."
+    },
+    {
+      "english": "Menonton",
+      "ipa": "/mə.non.ton/ - Eng: To Watch",
+      "vietnamese": "Xem",
+      "example": "Kami menonton film di bioskop."
+    },
+    {
+      "english": "Berbaring",
+      "ipa": "/bər.ba.riŋ/ - Eng: To Lie Down",
+      "vietnamese": "Nằm",
+      "example": "Dia berbaring di tempat tidur karena sakit."
+    },
+    {
+      "english": "Belum Tidur",
+      "ipa": "/bə.lum ti.dur/ - Eng: Not yet asleep/Awake",
+      "vietnamese": "Chưa ngủ",
+      "example": "Adik belum tidur karena menunggu Ayah."
+    },
+    {
+      "english": "Sambil",
+      "ipa": "/sam.bil/ - Eng: While/At the same time",
+      "vietnamese": "Trong khi / Đồng thời",
+      "example": "Dia makan sambil menonton TV."
+    },
+    {
+      "english": "Sambal",
+      "ipa": "/sam.bal/ - Eng: Chili Sauce",
+      "vietnamese": "Tương ớt / Nước chấm cay",
+      "example": "Sambal ini sangat pedas dan enak."
+    },
+    {
+      "english": "Mengatur/Menyusun",
+      "ipa": "/mə.ŋa.tur/ - Eng: To Arrange/To Organize",
+      "vietnamese": "Sắp xếp",
+      "example": "Ibu mengatur bunga di dalam vas."
+    },
+    {
+      "english": "Mungkin",
+      "ipa": "/muŋ.kin/ - Eng: Possible/Maybe",
+      "vietnamese": "Có thể",
+      "example": "Mungkin besok akan hujan."
+    },
+    {
+      "english": "Mengemudi/Menyetir",
+      "ipa": "/mə.ŋə.mu.di/ - Eng: To Drive",
+      "vietnamese": "Lái",
+      "example": "Ayah mengemudi mobil dengan hati-hati."
+    },
+    {
+      "english": "Kata Benda",
+      "ipa": "/ka.ta bən.da/ - Eng: Noun",
+      "vietnamese": "Danh từ",
+      "example": "'Meja' adalah contoh kata benda."
+    },
+    {
+      "english": "Kata Kerja",
+      "ipa": "/ka.ta kər.dʒa/ - Eng: Verb",
+      "vietnamese": "Động từ",
+      "example": "'Lari' adalah kata kerja."
+    },
+    {
+      "english": "Kata Sifat",
+      "ipa": "/ka.ta si.fat/ - Eng: Adjective",
+      "vietnamese": "Tính từ",
+      "example": "'Cantik' adalah kata sifat."
+    },
+    {
+      "english": "Kata Keterangan",
+      "ipa": "/ka.ta kə.tə.ra.ŋan/ - Eng: Adverb",
+      "vietnamese": "Trạng từ",
+      "example": "Kata keterangan menjelaskan kata kerja."
+    },
+    {
+      "english": "Jurnal Harian",
+      "ipa": "/dʒur.nal ha.ri.an/ - Eng: Daily Journal",
+      "vietnamese": "Sổ nhật ký hàng ngày",
+      "example": "Saya menulis pengalaman di jurnal harian."
+    },
+    {
+      "english": "Jurnal Mingguan",
+      "ipa": "/dʒur.nal miŋ.gu.an/ - Eng: Weekly Journal",
+      "vietnamese": "Sổ nhật ký hàng tuần",
+      "example": "Laporan ini dicatat dalam jurnal mingguan."
+    },
+    {
+      "english": "Apakah / Ada atau Tidak",
+      "ipa": "/a.pa.kah/ - Eng: Is there/Is not",
+      "vietnamese": "Có không",
+      "example": "Apakah ada pertanyaan?"
+    },
+    {
+      "english": "Bagaimana",
+      "ipa": "/ba.gai.ma.na/ - Eng: How",
+      "vietnamese": "Như thế nào",
+      "example": "Bagaimana kabarmu hari ini?"
+    },
+    {
+      "english": "Di Mana",
+      "ipa": "/di ma.na/ - Eng: Where",
+      "vietnamese": "Ở đâu",
+      "example": "Di mana rumahmu?"
+    },
+    {
+      "english": "Ke Mana",
+      "ipa": "/kə ma.na/ - Eng: Where to",
+      "vietnamese": "Đến đâu",
+      "example": "Ke mana kamu akan pergi liburan?"
+    },
+    {
+      "english": "Dari Mana",
+      "ipa": "/da.ri ma.na/ - Eng: Where from",
+      "vietnamese": "Từ đâu",
+      "example": "Dari mana asalmu?"
+    },
+    {
+      "english": "Siapa",
+      "ipa": "/si.a.pa/ - Eng: Who",
+      "vietnamese": "Ai",
+      "example": "Siapa nama temanmu?"
+    },
+    {
+      "english": "Mengapa/Kenapa",
+      "ipa": "/mə.ŋa.pa/ - Eng: Why",
+      "vietnamese": "Tại sao",
+      "example": "Mengapa kamu terlambat?"
+    },
+    {
+      "english": "Maksud Misa",
+      "ipa": "/mak.sud mi.sa/ - Eng: Mass Intention",
+      "vietnamese": "Ý lễ",
+      "example": "Umat memberikan amplop untuk maksud misa."
+    },
+    {
+      "english": "Kehendak Tuhan",
+      "ipa": "/kə.hən.dak tu.han/ - Eng: God's Will",
+      "vietnamese": "Ý Chúa",
+      "example": "Kita harus berserah pada kehendak Tuhan."
+    },
+    {
+      "english": "Niat",
+      "ipa": "/ni.at/ - Eng: Intention/Purpose",
+      "vietnamese": "Ý định",
+      "example": "Niatnya baik, tapi caranya salah."
+    },
+    {
+      "english": "Kartu Undangan",
+      "ipa": "/kar.tu un.da.ŋan/ - Eng: Invitation Card",
+      "vietnamese": "Thiệp mời",
+      "example": "Saya menerima kartu undangan pernikahan."
+    },
+    {
+      "english": "Udang",
+      "ipa": "/u.daŋ/ - Eng: Shrimp/Prawn",
+      "vietnamese": "Con tôm",
+      "example": "Udang goreng tepung sangat lezat."
+    },
+    {
+      "english": "Hukum / undang-undang",
+      "ipa": "/hu.kum/ - Eng: Law",
+      "vietnamese": "Luật",
+      "example": "Semua warga negara harus mematuhi hukum."
+    },
+    {
+      "english": "Bubur",
+      "ipa": "/bu.bur/ - Eng: Porridge/Congee",
+      "vietnamese": "Cháo",
+      "example": "Bubur ayam enak dimakan saat sarapan."
+    },
+    {
+      "english": "Belut",
+      "ipa": "/bə.lut/ - Eng: Eel",
+      "vietnamese": "Con lươn",
+      "example": "Belut hidup di sawah dan sungai."
+    },
+    {
+      "english": "Subur",
+      "ipa": "/su.bur/ - Eng: Fertile",
+      "vietnamese": "Phì nhiêu / Màu mỡ",
+      "example": "Tanah di daerah ini sangat subur."
+    },
+    {
+      "english": "Tidak Subur",
+      "ipa": "/ti.dak su.bur/ - Eng: Infertile/Barren",
+      "vietnamese": "Không phì nhiêu / Vô sinh",
+      "example": "Tanah yang kering itu tidak subur."
+    },
+    {
+      "english": "Kacang",
+      "ipa": "/ka.tʃaŋ/ - Eng: Bean/Peanut",
+      "vietnamese": "Đậu",
+      "example": "Kacang tanah mengandung banyak protein."
+    },
+    {
+      "english": "seMalam / kemarin malam",
+      "ipa": "/sə.ma.lam/ - Eng: Last Night",
+      "vietnamese": "Tối hôm qua",
+      "example": "Semalam hujan turun sangat deras."
+    },
+    {
+      "english": "Malam Ini / nanti malam",
+      "ipa": "/ma.lam i.ni/ - Eng: Tonight",
+      "vietnamese": "Tối nay",
+      "example": "Saya akan belajar bahasa Indonesia malam ini."
+    },
+    {
+      "english": "Kebiasaan",
+      "ipa": "/kə.bi.a.sa.an/ - Eng: Habit",
+      "vietnamese": "Thói quen",
+      "example": "Membaca adalah kebiasaan yang baik."
+    },
+    {
+      "english": "Segar",
+      "ipa": "/sə.gar/ - Eng: Fresh",
+      "vietnamese": "Tươi / Tươi mát",
+      "example": "Udara pagi di desa sangat segar."
+    },
+    {
+      "english": "Menyiram",
+      "ipa": "/mə.ɲi.ram/ - Eng: To Water/To Pour",
+      "vietnamese": "Tưới",
+      "example": "Adik menyiram tanaman setiap sore."
+    },
+    {
+      "english": "Pulau",
+      "ipa": "/pu.lau/ - Eng: Island",
+      "vietnamese": "Đảo",
+      "example": "Indonesia memiliki ribuan pulau."
+    },
+    {
+      "english": "Laut",
+      "ipa": "/la.ut/ - Eng: Sea/Ocean",
+      "vietnamese": "Biển",
+      "example": "Nelayan mencari ikan di laut."
+    },
+    {
+      "english": "Pantai",
+      "ipa": "/pan.tai/ - Eng: Beach",
+      "vietnamese": "Bãi biển",
+      "example": "Kami bermain pasir di pantai."
+    }
+  ]
+}
