@@ -1,0 +1,121 @@
+{
+  "name": "Màu sắc - Warna",
+  "topicNameVietnamese": "Màu sắc",
+  "topicNameIndonesian": "Warna",
+  "words": [
+    {
+      "english": "Merah",
+      "ipa": "/mə.rah/ - Eng: Red",
+      "vietnamese": "Đỏ",
+      "example": "Bendera Indonesia berwarna merah dan putih."
+    },
+    {
+      "english": "Biru",
+      "ipa": "/bi.ru/ - Eng: Blue",
+      "vietnamese": "Xanh dương",
+      "example": "Langit terlihat biru hari ini."
+    },
+    {
+      "english": "Kuning",
+      "ipa": "/ku.niŋ/ - Eng: Yellow",
+      "vietnamese": "Vàng",
+      "example": "Bunga matahari berwarna kuning."
+    },
+    {
+      "english": "Hijau",
+      "ipa": "/hi.dʒau/ - Eng: Green",
+      "vietnamese": "Xanh lá",
+      "example": "Daun-daun di pohon berwarna hijau."
+    },
+    {
+      "english": "Hitam",
+      "ipa": "/hi.tam/ - Eng: Black",
+      "vietnamese": "Đen",
+      "example": "Kucing itu memiliki bulu hitam."
+    },
+    {
+      "english": "Putih",
+      "ipa": "/pu.tih/ - Eng: White",
+      "vietnamese": "Trắng",
+      "example": "Salju berwarna putih bersih."
+    },
+    {
+      "english": "Abu-abu",
+      "ipa": "/a.bu.a.bu/ - Eng: Gray",
+      "vietnamese": "Xám",
+      "example": "Awan di langit berwarna abu-abu."
+    },
+    {
+      "english": "Cokelat",
+      "ipa": "/tʃo.kə.lat/ - Eng: Brown",
+      "vietnamese": "Nâu",
+      "example": "Meja ini terbuat dari kayu cokelat."
+    },
+    {
+      "english": "Jingga/Oranye",
+      "ipa": "/dʒiŋ.ga/ - Eng: Orange",
+      "vietnamese": "Cam",
+      "example": "Buah jeruk berwarna jingga."
+    },
+    {
+      "english": "Ungu",
+      "ipa": "/u.ŋu/ - Eng: Purple",
+      "vietnamese": "Tím",
+      "example": "Bunga lavender berwarna ungu."
+    },
+    {
+      "english": "Merah Muda",
+      "ipa": "/mə.rah mu.da/ - Eng: Pink",
+      "vietnamese": "Hồng",
+      "example": "Gaunnya berwarna merah muda."
+    },
+    {
+      "english": "Biru Muda",
+      "ipa": "/bi.ru mu.da/ - Eng: Light Blue",
+      "vietnamese": "Xanh da trời / Xanh nhạt",
+      "example": "Langit pagi berwarna biru muda."
+    },
+    {
+      "english": "Hijau Tua",
+      "ipa": "/hi.dʒau tu.a/ - Eng: Dark Green",
+      "vietnamese": "Xanh rêu / Xanh đậm",
+      "example": "Hutan itu memiliki pepohonan hijau tua."
+    },
+    {
+      "english": "Kuning Emas",
+      "ipa": "/ku.niŋ ə.mas/ - Eng: Gold",
+      "vietnamese": "Vàng kim",
+      "example": "Cincin itu terbuat dari emas kuning."
+    },
+    {
+      "english": "Biru Tua",
+      "ipa": "/bi.ru tu.a/ - Eng: Dark Blue",
+      "vietnamese": "Xanh đậm",
+      "example": "Laut terlihat biru tua di kejauhan."
+    },
+    {
+      "english": "Cokelat Muda",
+      "ipa": "/tʃo.kə.lat mu.da/ - Eng: Light Brown",
+      "vietnamese": "Nâu nhạt",
+      "example": "Rambutnya berwarna cokelat muda."
+    },
+    {
+      "english": "Abu-abu Tua",
+      "ipa": "/a.bu.a.bu tu.a/ - Eng: Dark Gray",
+      "vietnamese": "Xám đậm",
+      "example": "Mobil itu berwarna abu-abu tua."
+    },
+    {
+      "english": "Putih Gading",
+      "ipa": "/pu.tih ga.diŋ/ - Eng: Ivory",
+      "vietnamese": "Trắng ngà",
+      "example": "Gaun pengantin itu berwarna putih gading."
+    },
+    {
+      "english": "Perak",
+      "ipa": "/pə.rak/ - Eng: Silver",
+      "vietnamese": "Bạc",
+      "example": "Dia memakai kalung perak."
+    }
+  ]
+}
