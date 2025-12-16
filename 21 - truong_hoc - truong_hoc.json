@@ -1,0 +1,199 @@
+{
+  "name": "Trường học - Sekolah",
+  "topicNameVietnamese": "Trường học",
+  "topicNameIndonesian": "Sekolah",
+  "words": [
+    {
+      "english": "Taman Kanak-Kanak (TK)",
+      "ipa": "/ta.man ka.nak ka.nak/ - Eng: Kindergarten",
+      "vietnamese": "Trường mẫu giáo",
+      "example": "Adik saya bersekolah di Taman Kanak-Kanak."
+    },
+    {
+      "english": "Sekolah Dasar (SD)",
+      "ipa": "/sə.ko.lah da.sar/ - Eng: Primary School",
+      "vietnamese": "Cấp 1 / Tiểu học",
+      "example": "Murid SD memakai seragam putih merah."
+    },
+    {
+      "english": "Sekolah Menengah Pertama (SMP)",
+      "ipa": "/sə.ko.lah mə.nə.ŋah pər.ta.ma/ - Eng: Junior High School",
+      "vietnamese": "Cấp 2 / Trung học Cơ sở",
+      "example": "Dia sekarang duduk di bangku SMP."
+    },
+    {
+      "english": "Sekolah Menengah Atas (SMA)",
+      "ipa": "/sə.ko.lah mə.nə.ŋah a.tas/ - Eng: Senior High School",
+      "vietnamese": "Cấp 3 / Trung học Phổ thông",
+      "example": "Lulusan SMA bisa melanjutkan ke universitas."
+    },
+    {
+      "english": "Universitas/Perguruan Tinggi",
+      "ipa": "/u.ni.vər.si.tas/ - Eng: University",
+      "vietnamese": "Đại học",
+      "example": "Dia kuliah di universitas ternama."
+    },
+    {
+      "english": "Sekolah Kejuruan",
+      "ipa": "/sə.ko.lah kə.dʒu.ru.an/ - Eng: Vocational School",
+      "vietnamese": "Trường nghề",
+      "example": "Sekolah kejuruan fokus pada keterampilan praktis."
+    },
+    {
+      "english": "Kuliah",
+      "ipa": "/ku.li.ah/ - Eng: To attend University/To Study",
+      "vietnamese": "Học đại học / Theo học",
+      "example": "Kakak sedang kuliah di jurusan hukum."
+    },
+    {
+      "english": "Belum",
+      "ipa": "/bə.lum/ - Eng: Not yet",
+      "vietnamese": "Chưa",
+      "example": "Saya belum mengerjakan PR."
+    },
+    {
+      "english": "Mata Pelajaran",
+      "ipa": "/ma.ta pə.la.dʒa.ran/ - Eng: School Subject",
+      "vietnamese": "Môn học",
+      "example": "Matematika adalah mata pelajaran favoritku."
+    },
+    {
+      "english": "Jurusan",
+      "ipa": "/dʒu.ru.san/ - Eng: Major/Field of Study",
+      "vietnamese": "Ngành học",
+      "example": "Dia memilih jurusan teknik."
+    },
+    {
+      "english": "Filsafat",
+      "ipa": "/fil.sa.fat/ - Eng: Philosophy",
+      "vietnamese": "Triết học",
+      "example": "Mahasiswa itu belajar filsafat Yunani."
+    },
+    {
+      "english": "Teologi",
+      "ipa": "/te.o.lo.gi/ - Eng: Theology",
+      "vietnamese": "Thần học",
+      "example": "Calon imam harus belajar teologi."
+    },
+    {
+      "english": "Sejarah",
+      "ipa": "/sə.dʒa.rah/ - Eng: History",
+      "vietnamese": "Lịch sử",
+      "example": "Kita belajar sejarah kemerdekaan Indonesia."
+    },
+    {
+      "english": "Seni",
+      "ipa": "/sə.ni/ - Eng: Art",
+      "vietnamese": "Nghệ thuật",
+      "example": "Pelajaran seni sangat menyenangkan."
+    },
+    {
+      "english": "Ruang Kelas",
+      "ipa": "/ru.aŋ kə.las/ - Eng: Classroom",
+      "vietnamese": "Phòng học",
+      "example": "Ruang kelas kami bersih dan rapi."
+    },
+    {
+      "english": "Perpustakaan",
+      "ipa": "/pər.pus.ta.ka.an/ - Eng: Library",
+      "vietnamese": "Thư viện",
+      "example": "Siswa meminjam buku di perpustakaan."
+    },
+    {
+      "english": "Lapangan",
+      "ipa": "/la.pa.ŋan/ - Eng: Field/Yard",
+      "vietnamese": "Sân (trường)",
+      "example": "Kami bermain bola di lapangan sekolah."
+    },
+    {
+      "english": "Halaman Buku",
+      "ipa": "/ha.la.man bu.ku/ - Eng: Book Page",
+      "vietnamese": "Trang sách",
+      "example": "Buka halaman buku nomor sepuluh."
+    },
+    {
+      "english": "Kantor",
+      "ipa": "/kan.tor/ - Eng: Office",
+      "vietnamese": "Văn phòng",
+      "example": "Guru kepala ada di kantor."
+    },
+    {
+      "english": "Aula/Balai Pertemuan",
+      "ipa": "/au.la/ - Eng: Hall/Auditorium",
+      "vietnamese": "Hội trường",
+      "example": "Rapat diadakan di aula sekolah."
+    },
+    {
+      "english": "Kepala Sekolah/Rektor",
+      "ipa": "/kə.pa.la sə.ko.lah/ - Eng: Principal/Rector",
+      "vietnamese": "Hiệu trưởng / Viện trưởng",
+      "example": "Kepala sekolah memimpin upacara bendera."
+    },
+    {
+      "english": "Teman Sekelas",
+      "ipa": "/tə.man sə.kə.las/ - Eng: Classmate",
+      "vietnamese": "Bạn cùng lớp",
+      "example": "Saya belajar bersama teman sekelas."
+    },
+    {
+      "english": "Waktu Istirahat",
+      "ipa": "/wak.tu is.ti.ra.hat/ - Eng: Break time/Recess",
+      "vietnamese": "Giờ giải lao",
+      "example": "Siswa makan di kantin saat waktu istirahat."
+    },
+    {
+      "english": "Kelompok",
+      "ipa": "/kə.lom.pok/ - Eng: Group",
+      "vietnamese": "Nhóm",
+      "example": "Tugas ini dikerjakan secara kelompok."
+    },
+    {
+      "english": "Diskusi",
+      "ipa": "/dis.ku.si/ - Eng: Discussion",
+      "vietnamese": "Thảo luận",
+      "example": "Kami melakukan diskusi kelompok."
+    },
+    {
+      "english": "Pena/Pulpen",
+      "ipa": "/pe.na/ - Eng: Pen",
+      "vietnamese": "Bút",
+      "example": "Saya menulis menggunakan pena biru."
+    },
+    {
+      "english": "Buku Catatan",
+      "ipa": "/bu.ku tʃa.ta.tan/ - Eng: Notebook",
+      "vietnamese": "Vở (ghi chép)",
+      "example": "Catat materi di buku catatan."
+    },
+    {
+      "english": "Murid",
+      "ipa": "/mu.rid/ - Eng: Student/Pupil",
+      "vietnamese": "Học sinh",
+      "example": "Murid-murid mendengarkan guru."
+    },
+    {
+      "english": "Mahasiswa",
+      "ipa": "/ma.ha.sis.wa/ - Eng: University Student",
+      "vietnamese": "Sinh viên",
+      "example": "Mahasiswa baru mengikuti orientasi."
+    },
+    {
+      "english": "Tas Sekolah",
+      "ipa": "/tas sə.ko.lah/ - Eng: School Bag",
+      "vietnamese": "Cặp (sách)",
+      "example": "Tas sekolah saya berwarna hitam."
+    },
+    {
+      "english": "Penggaris",
+      "ipa": "/pəŋ.ga.ris/ - Eng: Ruler",
+      "vietnamese": "Thước",
+      "example": "Gunakan penggaris untuk membuat garis lurus."
+    },
+    {
+      "english": "SMK (Sekolah Menengah Kejuruan)",
+      "ipa": "/es.em.ka/ - Eng: Vocational High School",
+      "vietnamese": "Trường Trung học Phổ thông Nghề",
+      "example": "Lulusan SMK siap bekerja."
+    }
+  ]
+}
