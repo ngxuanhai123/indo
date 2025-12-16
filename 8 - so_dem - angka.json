@@ -1,0 +1,325 @@
+{
+  "name": "Số đếm - Angka",
+  "topicNameVietnamese": "Số đếm",
+  "topicNameIndonesian": "Angka",
+  "words": [
+    {
+      "english": "nol",
+      "ipa": "/nol/ - Eng: Zero",
+      "vietnamese": "không",
+      "example": "Angka nol berarti tidak ada."
+    },
+    {
+      "english": "satu",
+      "ipa": "/sa.tu/ - Eng: One",
+      "vietnamese": "một",
+      "example": "Saya punya satu apel."
+    },
+    {
+      "english": "dua",
+      "ipa": "/du.a/ - Eng: Two",
+      "vietnamese": "hai",
+      "example": "Ada dua kucing di sana."
+    },
+    {
+      "english": "tiga",
+      "ipa": "/ti.ga/ - Eng: Three",
+      "vietnamese": "ba",
+      "example": "Kami memiliki tiga anak."
+    },
+    {
+      "english": "empat",
+      "ipa": "/əm.pat/ - Eng: Four",
+      "vietnamese": "bốn",
+      "example": "Ada empat musim dalam setahun."
+    },
+    {
+      "english": "lima",
+      "ipa": "/li.ma/ - Eng: Five",
+      "vietnamese": "năm",
+      "example": "Saya punya lima jari."
+    },
+    {
+      "english": "enam",
+      "ipa": "/ə.nam/ - Eng: Six",
+      "vietnamese": "sáu",
+      "example": "Ada enam telur di keranjang."
+    },
+    {
+      "english": "tujuh",
+      "ipa": "/tu.dʒuh/ - Eng: Seven",
+      "vietnamese": "bảy",
+      "example": "Ada tujuh hari dalam seminggu."
+    },
+    {
+      "english": "delapan",
+      "ipa": "/də.la.pan/ - Eng: Eight",
+      "vietnamese": "tám",
+      "example": "Dia berusia delapan tahun."
+    },
+    {
+      "english": "sembilan",
+      "ipa": "/səm.bi.lan/ - Eng: Nine",
+      "vietnamese": "chín",
+      "example": "Ada sembilan planet di tata surya."
+    },
+    {
+      "english": "sepuluh",
+      "ipa": "/sə.pu.luh/ - Eng: Ten",
+      "vietnamese": "mười",
+      "example": "Saya punya sepuluh jari tangan."
+    },
+    {
+      "english": "miliar",
+      "ipa": "/mi.li.ar/ - Eng: Billion",
+      "vietnamese": "tỷ",
+      "example": "Populasi dunia mencapai miliaran orang."
+    },
+    {
+      "english": "juta",
+      "ipa": "/dʒu.ta/ - Eng: Million",
+      "vietnamese": "triệu",
+      "example": "Kota ini memiliki satu juta penduduk."
+    },
+    {
+      "english": "ribu",
+      "ipa": "/ri.bu/ - Eng: Thousand",
+      "vietnamese": "nghìn",
+      "example": "Harga buku itu seribu rupiah."
+    },
+    {
+      "english": "ratus",
+      "ipa": "/ra.tus/ - Eng: Hundred",
+      "vietnamese": "trăm",
+      "example": "Ada seratus halaman di buku ini."
+    },
+    {
+      "english": "puluh",
+      "ipa": "/pu.luh/ - Eng: Ten (as in tens place)",
+      "vietnamese": "chục",
+      "example": "Dua puluh berarti dua kali sepuluh."
+    },
+    {
+      "english": "sebelas",
+      "ipa": "/sə.bə.las/ - Eng: Eleven",
+      "vietnamese": "mười một",
+      "example": "Dia berusia sebelas tahun."
+    },
+    {
+      "english": "dua belas",
+      "ipa": "/du.a bə.las/ - Eng: Twelve",
+      "vietnamese": "mười hai",
+      "example": "Ada dua belas bulan dalam setahun."
+    },
+    {
+      "english": "tiga belas",
+      "ipa": "/ti.ga bə.las/ - Eng: Thirteen",
+      "vietnamese": "mười ba",
+      "example": "Dia membeli tiga belas buah apel."
+    },
+    {
+      "english": "empat belas",
+      "ipa": "/əm.pat bə.las/ - Eng: Fourteen",
+      "vietnamese": "mười bốn",
+      "example": "Ada empat belas siswa di kelas."
+    },
+    {
+      "english": "lima belas",
+      "ipa": "/li.ma bə.las/ - Eng: Fifteen",
+      "vietnamese": "mười lăm",
+      "example": "Pertandingan akan dimulai dalam lima belas menit."
+    },
+    {
+      "english": "enam belas",
+      "ipa": "/ə.nam bə.las/ - Eng: Sixteen",
+      "vietnamese": "mười sáu",
+      "example": "Dia memiliki enam belas kelereng."
+    },
+    {
+      "english": "tujuh belas",
+      "ipa": "/tu.dʒuh bə.las/ - Eng: Seventeen",
+      "vietnamese": "mười bảy",
+      "example": "Dia berusia tujuh belas tahun."
+    },
+    {
+      "english": "delapan belas",
+      "ipa": "/də.la.pan bə.las/ - Eng: Eighteen",
+      "vietnamese": "mười tám",
+      "example": "Ada delapan belas kursi di ruangan ini."
+    },
+    {
+      "english": "sembilan belas",
+      "ipa": "/səm.bi.lan bə.las/ - Eng: Nineteen",
+      "vietnamese": "mười chín",
+      "example": "Dia membaca sembilan belas buku tahun ini."
+    },
+    {
+      "english": "dua puluh",
+      "ipa": "/du.a pu.luh/ - Eng: Twenty",
+      "vietnamese": "hai mươi",
+      "example": "Saya punya dua puluh ribu rupiah."
+    },
+    {
+      "english": "dua puluh satu",
+      "ipa": "/du.a pu.luh sa.tu/ - Eng: Twenty-one",
+      "vietnamese": "hai mươi mốt",
+      "example": "Dia berusia dua puluh satu tahun."
+    },
+    {
+      "english": "seratus",
+      "ipa": "/sə.ra.tus/ - Eng: One hundred",
+      "vietnamese": "một trăm",
+      "example": "Ada seratus siswa di sekolah itu."
+    },
+    {
+      "english": "seribu",
+      "ipa": "/sə.ri.bu/ - Eng: One thousand",
+      "vietnamese": "một nghìn",
+      "example": "Harga tiketnya seribu rupiah."
+    },
+    {
+      "english": "satu juta",
+      "ipa": "/sa.tu dʒu.ta/ - Eng: One million",
+      "vietnamese": "một triệu",
+      "example": "Populasi kota ini satu juta jiwa."
+    },
+    {
+      "english": "sepuluh juta",
+      "ipa": "/sə.pu.luh dʒu.ta/ - Eng: Ten million",
+      "vietnamese": "mười triệu",
+      "example": "Perusahaan itu memiliki aset sepuluh juta dolar."
+    },
+    {
+      "english": "Senin",
+      "ipa": "/sə.nin/ - Eng: Monday",
+      "vietnamese": "thứ hai",
+      "example": "Hari Senin adalah awal minggu kerja."
+    },
+    {
+      "english": "Selasa",
+      "ipa": "/sə.la.sa/ - Eng: Tuesday",
+      "vietnamese": "thứ ba",
+      "example": "Kami ada rapat setiap hari Selasa."
+    },
+    {
+      "english": "Rabu",
+      "ipa": "/ra.bu/ - Eng: Wednesday",
+      "vietnamese": "thứ tư",
+      "example": "Saya pergi ke pasar setiap hari Rabu."
+    },
+    {
+      "english": "Kamis",
+      "ipa": "/ka.mis/ - Eng: Thursday",
+      "vietnamese": "thứ năm",
+      "example": "Pelajaran bahasa Inggris hari Kamis."
+    },
+    {
+      "english": "Jumat",
+      "ipa": "/dʒu.mat/ - Eng: Friday",
+      "vietnamese": "thứ sáu",
+      "example": "Hari Jumat adalah akhir pekan."
+    },
+    {
+      "english": "Sabtu",
+      "ipa": "/sab.tu/ - Eng: Saturday",
+      "vietnamese": "thứ bảy",
+      "example": "Kami berlibur pada hari Sabtu."
+    },
+    {
+      "english": "Minggu",
+      "ipa": "/miŋ.gu/ - Eng: Sunday / Week",
+      "vietnamese": "chủ nhật",
+      "example": "Hari Minggu adalah hari istirahat."
+    },
+    {
+      "english": "Januari",
+      "ipa": "/dʒa.nu.a.ri/ - Eng: January",
+      "vietnamese": "tháng một",
+      "example": "Tahun baru dimulai pada bulan Januari."
+    },
+    {
+      "english": "Februari",
+      "ipa": "/fəb.ru.a.ri/ - Eng: February",
+      "vietnamese": "tháng hai",
+      "example": "Bulan Februari memiliki 28 atau 29 hari."
+    },
+    {
+      "english": "Maret",
+      "ipa": "/ma.rət/ - Eng: March",
+      "vietnamese": "tháng ba",
+      "example": "Musim semi dimulai pada bulan Maret."
+    },
+    {
+      "english": "April",
+      "ipa": "/ap.ril/ - Eng: April",
+      "vietnamese": "tháng tư",
+      "example": "Hari Kartini diperingati setiap 21 April."
+    },
+    {
+      "english": "Mei",
+      "ipa": "/mei/ - Eng: May",
+      "vietnamese": "tháng năm",
+      "example": "Hari Buruh dirayakan pada 1 Mei."
+    },
+    {
+      "english": "Juni",
+      "ipa": "/dʒu.ni/ - Eng: June",
+      "vietnamese": "tháng sáu",
+      "example": "Liburan sekolah biasanya di bulan Juni."
+    },
+    {
+      "english": "Juli",
+      "ipa": "/dʒu.li/ - Eng: July",
+      "vietnamese": "tháng bảy",
+      "example": "Ulang tahun saya di bulan Juli."
+    },
+    {
+      "english": "Agustus",
+      "ipa": "/a.gus.tus/ - Eng: August",
+      "vietnamese": "tháng tám",
+      "example": "Hari Kemerdekaan Indonesia pada 17 Agustus."
+    },
+    {
+      "english": "September",
+      "ipa": "/səp.təm.bər/ - Eng: September",
+      "vietnamese": "tháng chín",
+      "example": "Musim gugur dimulai pada bulan September."
+    },
+    {
+      "english": "Oktober",
+      "ipa": "/ok.to.bər/ - Eng: October",
+      "vietnamese": "tháng mười",
+      "example": "Hari Sumpah Pemuda pada 28 Oktober."
+    },
+    {
+      "english": "November",
+      "ipa": "/no.vəm.bər/ - Eng: November",
+      "vietnamese": "tháng mười một",
+      "example": "Bulan November sering hujan."
+    },
+    {
+      "english": "Desember",
+      "ipa": "/də.səm.bər/ - Eng: December",
+      "vietnamese": "tháng mười hai",
+      "example": "Natal dirayakan pada bulan Desember."
+    },
+    {
+      "english": "Tanggal",
+      "ipa": "/taŋ.gal/ - Eng: Date",
+      "vietnamese": "ngày",
+      "example": "Tanggal berapa hari ini?"
+    },
+    {
+      "english": "Bulan",
+      "ipa": "/bu.lan/ - Eng: Month / Moon",
+      "vietnamese": "tháng",
+      "example": "Ada dua belas bulan dalam setahun."
+    },
+    {
+      "english": "Tahun",
+      "ipa": "/ta.hun/ - Eng: Year",
+      "vietnamese": "năm",
+      "example": "Tahun ini adalah tahun 2024."
+    }
+  ]
+}
