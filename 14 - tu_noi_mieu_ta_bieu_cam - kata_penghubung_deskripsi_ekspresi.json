@@ -1,0 +1,583 @@
+{
+  "name": "Từ nối, miêu tả, biểu cảm - Kata Penghubung, Deskripsi, Ekspresi",
+  "topicNameVietnamese": "Từ nối, miêu tả, biểu cảm",
+  "topicNameIndonesian": "Kata Penghubung, Deskripsi, Ekspresi",
+  "words": [
+    {
+      "english": "dan",
+      "ipa": "/dan/ - Eng: and",
+      "vietnamese": "và",
+      "example": "Saya dan kamu adalah teman."
+    },
+    {
+      "english": "atau",
+      "ipa": "/a.tau/ - Eng: or",
+      "vietnamese": "hoặc",
+      "example": "Kamu mau teh atau kopi?"
+    },
+    {
+      "english": "tetapi",
+      "ipa": "/tə.ta.pi/ - Eng: but",
+      "vietnamese": "nhưng",
+      "example": "Rumahnya kecil tetapi bersih."
+    },
+    {
+      "english": "namun",
+      "ipa": "/na.mun/ - Eng: however",
+      "vietnamese": "tuy nhiên",
+      "example": "Dia lelah, namun tetap bekerja."
+    },
+    {
+      "english": "karena",
+      "ipa": "/ka.rə.na/ - Eng: because",
+      "vietnamese": "bởi vì",
+      "example": "Saya tidak datang karena sakit."
+    },
+    {
+      "english": "sebab",
+      "ipa": "/sə.bab/ - Eng: cause",
+      "vietnamese": "lý do là / nguyên nhân",
+      "example": "Apa sebab dia marah?"
+    },
+    {
+      "english": "jadi",
+      "ipa": "/dʒa.di/ - Eng: so",
+      "vietnamese": "vì vậy",
+      "example": "Hujan, jadi saya bawa payung."
+    },
+    {
+      "english": "maka",
+      "ipa": "/ma.ka/ - Eng: thus",
+      "vietnamese": "thế nên",
+      "example": "Berpikirlah sebelum bertindak, maka kamu tidak akan menyesal."
+    },
+    {
+      "english": "meskipun",
+      "ipa": "/məs.ki.pun/ - Eng: although",
+      "vietnamese": "mặc dù",
+      "example": "Dia tetap pergi meskipun hujan."
+    },
+    {
+      "english": "walaupun",
+      "ipa": "/wa.lau.pun/ - Eng: even though",
+      "vietnamese": "dù cho",
+      "example": "Walaupun mahal, dia membelinya."
+    },
+    {
+      "english": "sementara",
+      "ipa": "/sə.mən.ta.ra/ - Eng: while",
+      "vietnamese": "trong khi",
+      "example": "Ibu memasak sementara ayah membaca koran."
+    },
+    {
+      "english": "sebelum",
+      "ipa": "/sə.bə.lum/ - Eng: before",
+      "vietnamese": "trước khi",
+      "example": "Cuci tangan sebelum makan."
+    },
+    {
+      "english": "sesudah",
+      "ipa": "/sə.su.dah/ - Eng: after",
+      "vietnamese": "sau khi",
+      "example": "Kita pulang sesudah acara selesai."
+    },
+    {
+      "english": "agar",
+      "ipa": "/a.gar/ - Eng: so that",
+      "vietnamese": "để",
+      "example": "Belajarlah agar pintar."
+    },
+    {
+      "english": "supaya",
+      "ipa": "/su.pa.ja/ - Eng: in order that",
+      "vietnamese": "nhằm mục đích / để",
+      "example": "Makan sayur supaya sehat."
+    },
+    {
+      "english": "selain itu",
+      "ipa": "/sə.la.in i.tu/ - Eng: besides that",
+      "vietnamese": "ngoài ra",
+      "example": "Dia pintar, selain itu dia rajin."
+    },
+    {
+      "english": "lebih lanjut",
+      "ipa": "/lə.bih lan.dʒut/ - Eng: furthermore",
+      "vietnamese": "thêm nữa / hơn nữa",
+      "example": "Kami akan membahas ini lebih lanjut."
+    },
+    {
+      "english": "bahkan",
+      "ipa": "/bah.kan/ - Eng: even",
+      "vietnamese": "thậm chí",
+      "example": "Semua orang datang, bahkan yang sakit pun datang."
+    },
+    {
+      "english": "sebaliknya",
+      "ipa": "/sə.ba.lik.ɲa/ - Eng: on the contrary",
+      "vietnamese": "ngược lại",
+      "example": "Dia tidak marah, sebaliknya dia tersenyum."
+    },
+    {
+      "english": "dengan demikian",
+      "ipa": "/də.ŋan də.mi.ki.an/ - Eng: therefore",
+      "vietnamese": "như vậy / do đó",
+      "example": "Dengan demikian, rapat ditutup."
+    },
+    {
+      "english": "misalnya",
+      "ipa": "/mi.sal.ɲa/ - Eng: for example",
+      "vietnamese": "ví dụ",
+      "example": "Saya suka buah, misalnya apel."
+    },
+    {
+      "english": "contohnya",
+      "ipa": "/tʃon.toh.ɲa/ - Eng: such as",
+      "vietnamese": "chẳng hạn / ví dụ là",
+      "example": "Hewan buas, contohnya singa."
+    },
+    {
+      "english": "yaitu",
+      "ipa": "/ja.i.tu/ - Eng: that is",
+      "vietnamese": "tức là / là",
+      "example": "Ada dua warna, yaitu merah dan biru."
+    },
+    {
+      "english": "dengan kata lain",
+      "ipa": "/də.ŋan ka.ta la.in/ - Eng: in other words",
+      "vietnamese": "nói cách khác",
+      "example": "Dia tidak lulus, dengan kata lain dia gagal."
+    },
+    {
+      "english": "akhirnya",
+      "ipa": "/a.khir.ɲa/ - Eng: finally",
+      "vietnamese": "cuối cùng",
+      "example": "Akhirnya dia datang juga."
+    },
+    {
+      "english": "kemudian",
+      "ipa": "/kə.mu.di.an/ - Eng: then",
+      "vietnamese": "sau đó",
+      "example": "Dia makan, kemudian tidur."
+    },
+    {
+      "english": "selanjutnya",
+      "ipa": "/sə.lan.dʒut.ɲa/ - Eng: next",
+      "vietnamese": "tiếp theo",
+      "example": "Siapa giliran selanjutnya?"
+    },
+    {
+      "english": "sementara itu",
+      "ipa": "/sə.mən.ta.ra i.tu/ - Eng: meanwhile",
+      "vietnamese": "trong khi đó",
+      "example": "Saya belajar, sementara itu adik bermain."
+    },
+    {
+      "english": "padahal",
+      "ipa": "/pa.da.hal/ - Eng: in fact",
+      "vietnamese": "thực ra thì / mà (trái ngược)",
+      "example": "Dia bilang sakit, padahal dia sehat."
+    },
+    {
+      "english": "meski begitu",
+      "ipa": "/məs.ki bə.gi.tu/ - Eng: even so",
+      "vietnamese": "dù vậy",
+      "example": "Hujan deras, meski begitu kami tetap berangkat."
+    },
+    {
+      "english": "wah",
+      "ipa": "/wah/ - Eng: wow",
+      "vietnamese": "ôi / wow",
+      "example": "Wah, indah sekali!"
+    },
+    {
+      "english": "aduh",
+      "ipa": "/a.duh/ - Eng: ouch / oh no",
+      "vietnamese": "trời ơi / ôi trời (đau/than phiền)",
+      "example": "Aduh, kaki saya sakit!"
+    },
+    {
+      "english": "asyik",
+      "ipa": "/a.sik/ - Eng: awesome",
+      "vietnamese": "tuyệt vời / thích quá",
+      "example": "Asyik, besok libur!"
+    },
+    {
+      "english": "ya ampun",
+      "ipa": "/ja am.pun/ - Eng: oh my god",
+      "vietnamese": "trời đất ơi",
+      "example": "Ya ampun, saya lupa!"
+    },
+    {
+      "english": "hore",
+      "ipa": "/ho.re/ - Eng: hooray",
+      "vietnamese": "hoan hô",
+      "example": "Hore, kita menang!"
+    },
+    {
+      "english": "hmm",
+      "ipa": "/həm/ - Eng: hmm",
+      "vietnamese": "ừm / hừm",
+      "example": "Hmm, biarkan saya berpikir."
+    },
+    {
+      "english": "eh",
+      "ipa": "/eh/ - Eng: hey",
+      "vietnamese": "ê / này",
+      "example": "Eh, kamu di sini?"
+    },
+    {
+      "english": "wow",
+      "ipa": "/wau/ - Eng: wow",
+      "vietnamese": "thật tuyệt",
+      "example": "Wow, mobil itu keren!"
+    },
+    {
+      "english": "ih",
+      "ipa": "/ih/ - Eng: ew",
+      "vietnamese": "gớm / khiếp",
+      "example": "Ih, ada kecoa!"
+    },
+    {
+      "english": "yah",
+      "ipa": "/jah/ - Eng: oh no",
+      "vietnamese": "tiếc quá / thôi xong",
+      "example": "Yah, tiketnya habis."
+    },
+    {
+      "english": "wow banget",
+      "ipa": "/wau ba.ŋət/ - Eng: so amazing",
+      "vietnamese": "quá tuyệt / đỉnh",
+      "example": "Penampilannya wow banget."
+    },
+    {
+      "english": "duh",
+      "ipa": "/duh/ - Eng: ugh",
+      "vietnamese": "trời ơi / haizz",
+      "example": "Duh, saya pusing."
+    },
+    {
+      "english": "mantap",
+      "ipa": "/man.tap/ - Eng: great!",
+      "vietnamese": "đỉnh quá / ngon tuyệt",
+      "example": "Rasa makanannya mantap!"
+    },
+    {
+      "english": "cih",
+      "ipa": "/tʃih/ - Eng: tsk",
+      "vietnamese": "hừ / khinh bỉ",
+      "example": "Cih, sombong sekali dia."
+    },
+    {
+      "english": "hebat",
+      "ipa": "/he.bat/ - Eng: awesome",
+      "vietnamese": "giỏi quá / tuyệt vời",
+      "example": "Kamu hebat sekali!"
+    },
+    {
+      "english": "bagus",
+      "ipa": "/ba.gus/ - Eng: nice",
+      "vietnamese": "tốt lắm / đẹp",
+      "example": "Nilaimu bagus."
+    },
+    {
+      "english": "jelek banget",
+      "ipa": "/dʒə.lek ba.ŋət/ - Eng: so ugly",
+      "vietnamese": "xấu quá / tệ quá",
+      "example": "Baju itu jelek banget."
+    },
+    {
+      "english": "seru",
+      "ipa": "/sə.ru/ - Eng: exciting",
+      "vietnamese": "hào hứng / sôi động",
+      "example": "Pertandingannya sangat seru."
+    },
+    {
+      "english": "menyenangkan",
+      "ipa": "/mə.ɲə.naŋ.kan/ - Eng: pleasant",
+      "vietnamese": "vui vẻ / dễ chịu",
+      "example": "Liburan ini sangat menyenangkan."
+    },
+    {
+      "english": "menakjubkan",
+      "ipa": "/mə.nak.dʒub.kan/ - Eng: amazing",
+      "vietnamese": "kinh ngạc / đáng ngưỡng mộ",
+      "example": "Pemandangannya menakjubkan."
+    },
+    {
+      "english": "menyedihkan",
+      "ipa": "/mə.ɲə.dih.kan/ - Eng: sad",
+      "vietnamese": "buồn bã / đáng thương",
+      "example": "Cerita film itu menyedihkan."
+    },
+    {
+      "english": "menjengkelkan",
+      "ipa": "/mən.dʒeŋ.kəl.kan/ - Eng: annoying",
+      "vietnamese": "khó chịu / phiền toái",
+      "example": "Suara bising itu menjengkelkan."
+    },
+    {
+      "english": "menakutkan",
+      "ipa": "/mə.na.kut.kan/ - Eng: scary",
+      "vietnamese": "đáng sợ",
+      "example": "Hantu itu menakutkan."
+    },
+    {
+      "english": "menenangkan",
+      "ipa": "/mə.nə.naŋ.kan/ - Eng: calming",
+      "vietnamese": "dễ chịu / thư thái",
+      "example": "Musik ini menenangkan."
+    },
+    {
+      "english": "menyenangkan sekali",
+      "ipa": "/mə.ɲə.naŋ.kan sə.ka.li/ - Eng: so fun",
+      "vietnamese": "rất vui",
+      "example": "Pesta ini menyenangkan sekali."
+    },
+    {
+      "english": "gila",
+      "ipa": "/gi.la/ - Eng: crazy",
+      "vietnamese": "điên thật",
+      "example": "Ide itu gila!"
+    },
+    {
+      "english": "lucu",
+      "ipa": "/lu.tʃu/ - Eng: funny",
+      "vietnamese": "hài hước / dễ thương",
+      "example": "Badut itu sangat lucu."
+    },
+    {
+      "english": "kasihan",
+      "ipa": "/ka.si.han/ - Eng: poor thing",
+      "vietnamese": "tội nghiệp / đáng thương",
+      "example": "Kasihan anak kucing itu."
+    },
+    {
+      "english": "semangat!",
+      "ipa": "/sə.ma.ŋat/ - Eng: cheer up!",
+      "vietnamese": "cố lên! / nhiệt huyết",
+      "example": "Ayo, tetap semangat!"
+    },
+    {
+      "english": "selamat!",
+      "ipa": "/sə.la.mat/ - Eng: congrats!",
+      "vietnamese": "chúc mừng!",
+      "example": "Selamat atas kelulusanmu!"
+    },
+    {
+      "english": "besar",
+      "ipa": "/bə.sar/ - Eng: big",
+      "vietnamese": "to / lớn",
+      "example": "Rumahnya sangat besar."
+    },
+    {
+      "english": "kecil",
+      "ipa": "/kə.tʃil/ - Eng: small",
+      "vietnamese": "nhỏ / bé",
+      "example": "Semut itu kecil."
+    },
+    {
+      "english": "panjang",
+      "ipa": "/pan.dʒaŋ/ - Eng: long",
+      "vietnamese": "dài",
+      "example": "Rambutnya panjang."
+    },
+    {
+      "english": "pendek",
+      "ipa": "/pən.dek/ - Eng: short",
+      "vietnamese": "ngắn",
+      "example": "Celananya pendek."
+    },
+    {
+      "english": "cepat",
+      "ipa": "/tʃə.pat/ - Eng: fast",
+      "vietnamese": "nhanh",
+      "example": "Mobil itu melaju cepat."
+    },
+    {
+      "english": "lambat",
+      "ipa": "/lam.bat/ - Eng: slow",
+      "vietnamese": "chậm",
+      "example": "Kura-kura berjalan lambat."
+    },
+    {
+      "english": "panas",
+      "ipa": "/pa.nas/ - Eng: hot",
+      "vietnamese": "nóng",
+      "example": "Kopi ini masih panas."
+    },
+    {
+      "english": "dingin",
+      "ipa": "/di.ŋin/ - Eng: cold",
+      "vietnamese": "lạnh",
+      "example": "Es krim itu dingin."
+    },
+    {
+      "english": "cantik",
+      "ipa": "/tʃan.tik/ - Eng: beautiful",
+      "vietnamese": "đẹp / xinh",
+      "example": "Gadis itu sangat cantik."
+    },
+    {
+      "english": "jelek",
+      "ipa": "/dʒə.lek/ - Eng: ugly",
+      "vietnamese": "xấu",
+      "example": "Tulisan saya jelek."
+    },
+    {
+      "english": "baik",
+      "ipa": "/ba.ik/ - Eng: good",
+      "vietnamese": "tốt / giỏi",
+      "example": "Dia orang yang baik."
+    },
+    {
+      "english": "buruk",
+      "ipa": "/bu.ruk/ - Eng: bad",
+      "vietnamese": "tệ / xấu",
+      "example": "Cuaca hari ini buruk."
+    },
+    {
+      "english": "murah",
+      "ipa": "/mu.rah/ - Eng: cheap",
+      "vietnamese": "rẻ",
+      "example": "Harga baju ini murah."
+    },
+    {
+      "english": "mahal",
+      "ipa": "/ma.hal/ - Eng: expensive",
+      "vietnamese": "đắt",
+      "example": "Mobil itu sangat mahal."
+    },
+    {
+      "english": "ramai",
+      "ipa": "/ra.mai/ - Eng: crowded",
+      "vietnamese": "đông đúc / nhộn nhịp",
+      "example": "Pasar itu sangat ramai."
+    },
+    {
+      "english": "sepi",
+      "ipa": "/sə.pi/ - Eng: quiet",
+      "vietnamese": "vắng vẻ / yên tĩnh",
+      "example": "Jalanan sepi di malam hari."
+    },
+    {
+      "english": "baru",
+      "ipa": "/ba.ru/ - Eng: new",
+      "vietnamese": "mới",
+      "example": "Saya punya sepatu baru."
+    },
+    {
+      "english": "lama",
+      "ipa": "/la.ma/ - Eng: old",
+      "vietnamese": "cũ / lâu",
+      "example": "Ini rumah lama saya."
+    },
+    {
+      "english": "kuat",
+      "ipa": "/ku.at/ - Eng: strong",
+      "vietnamese": "mạnh / khỏe",
+      "example": "Dia sangat kuat mengangkat beban."
+    },
+    {
+      "english": "lemah",
+      "ipa": "/lə.mah/ - Eng: weak",
+      "vietnamese": "yếu",
+      "example": "Tubuhnya terasa lemah saat sakit."
+    },
+    {
+      "english": "bersih",
+      "ipa": "/bər.sih/ - Eng: clean",
+      "vietnamese": "sạch",
+      "example": "Kamar ini sangat bersih."
+    },
+    {
+      "english": "kotor",
+      "ipa": "/ko.tor/ - Eng: dirty",
+      "vietnamese": "bẩn",
+      "example": "Sepatunya kotor karena lumpur."
+    },
+    {
+      "english": "ringan",
+      "ipa": "/ri.ŋan/ - Eng: light",
+      "vietnamese": "nhẹ",
+      "example": "Kapas itu ringan."
+    },
+    {
+      "english": "berat",
+      "ipa": "/bə.rat/ - Eng: heavy",
+      "vietnamese": "nặng",
+      "example": "Batu ini berat."
+    },
+    {
+      "english": "lembut",
+      "ipa": "/ləm.but/ - Eng: soft",
+      "vietnamese": "mềm",
+      "example": "Bulu kucing itu lembut."
+    },
+    {
+      "english": "keras",
+      "ipa": "/kə.ras/ - Eng: hard",
+      "vietnamese": "cứng",
+      "example": "Kayu ini keras."
+    },
+    {
+      "english": "pedas",
+      "ipa": "/pə.das/ - Eng: spicy",
+      "vietnamese": "cay",
+      "example": "Sambal ini pedas."
+    },
+    {
+      "english": "gurih",
+      "ipa": "/gu.rih/ - Eng: savory",
+      "vietnamese": "béo / đậm đà",
+      "example": "Sup ayam ini gurih."
+    },
+    {
+      "english": "tawar",
+      "ipa": "/ta.war/ - Eng: bland",
+      "vietnamese": "nhạt / không vị",
+      "example": "Air ini tawar."
+    },
+    {
+      "english": "hangat",
+      "ipa": "/ha.ŋat/ - Eng: warm",
+      "vietnamese": "ấm",
+      "example": "Teh hangat enak diminum saat hujan."
+    },
+    {
+      "english": "dingin sekali",
+      "ipa": "/di.ŋin sə.ka.li/ - Eng: very cold",
+      "vietnamese": "rất lạnh",
+      "example": "Udara di kutub dingin sekali."
+    },
+    {
+      "english": "indah",
+      "ipa": "/in.dah/ - Eng: gorgeous",
+      "vietnamese": "tuyệt đẹp",
+      "example": "Pemandangan alam yang indah."
+    },
+    {
+      "english": "menarik",
+      "ipa": "/mə.na.rik/ - Eng: interesting",
+      "vietnamese": "thú vị / hấp dẫn",
+      "example": "Buku ini sangat menarik."
+    },
+    {
+      "english": "bosan",
+      "ipa": "/bo.san/ - Eng: boring",
+      "vietnamese": "chán",
+      "example": "Saya bosan menunggu."
+    },
+    {
+      "english": "sibuk",
+      "ipa": "/si.buk/ - Eng: busy",
+      "vietnamese": "bận rộn",
+      "example": "Ayah sibuk bekerja."
+    },
+    {
+      "english": "tenang",
+      "ipa": "/tə.naŋ/ - Eng: calm",
+      "vietnamese": "yên tĩnh / bình tĩnh",
+      "example": "Danau itu sangat tenang."
+    }
+  ]
+}
