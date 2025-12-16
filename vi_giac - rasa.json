@@ -5,80 +5,69 @@
   "words": [
     {
       "english": "tawar",
-      "ipa": "",
-      "englishMeaning": "bland",
+      "ipa": "/ta.war/ - Eng: bland",
       "vietnamese": "nhạt",
-      "example": ""
+      "example": "Sup ini rasanya tawar."
     },
     {
       "english": "enak",
-      "ipa": "",
-      "englishMeaning": "delicious",
+      "ipa": "/e.nak/ - Eng: delicious",
       "vietnamese": "ngon",
-      "example": ""
+      "example": "Makanan ini sangat enak."
     },
     {
       "english": "tidak enak",
-      "ipa": "",
-      "englishMeaning": "not tasty",
+      "ipa": "/ti.dak e.nak/ - Eng: not tasty",
       "vietnamese": "không ngon",
-      "example": ""
+      "example": "Obat ini rasanya tidak enak."
     },
     {
       "english": "beraroma",
-      "ipa": "",
-      "englishMeaning": "aromatic",
+      "ipa": "/bər.a.ro.ma/ - Eng: aromatic",
       "vietnamese": "thơm",
-      "example": ""
+      "example": "Kopi ini sangat beraroma."
     },
     {
       "english": "bau",
-      "ipa": "",
-      "englishMeaning": "smelly",
+      "ipa": "/bau/ - Eng: smelly",
       "vietnamese": "hôi / có mùi",
-      "example": ""
+      "example": "Sampah itu bau sekali."
     },
     {
       "english": "manis",
-      "ipa": "",
-      "englishMeaning": "sweet",
+      "ipa": "/ma.nis/ - Eng: sweet",
       "vietnamese": "ngọt",
-      "example": ""
+      "example": "Gula rasanya manis."
     },
     {
       "english": "asin",
-      "ipa": "",
-      "englishMeaning": "salty",
+      "ipa": "/a.sin/ - Eng: salty",
       "vietnamese": "mặn",
-      "example": ""
+      "example": "Air laut rasanya asin."
     },
     {
       "english": "asam",
-      "ipa": "",
-      "englishMeaning": "sour",
+      "ipa": "/a.sam/ - Eng: sour",
       "vietnamese": "chua",
-      "example": ""
+      "example": "Buah lemon rasanya asam."
     },
     {
       "english": "pahit",
-      "ipa": "",
-      "englishMeaning": "bitter",
+      "ipa": "/pa.hit/ - Eng: bitter",
       "vietnamese": "đắng",
-      "example": ""
+      "example": "Kopi tanpa gula rasanya pahit."
     },
     {
       "english": "gurih",
-      "ipa": "",
-      "englishMeaning": "savory",
+      "ipa": "/gu.rih/ - Eng: savory",
       "vietnamese": "béo / đậm đà",
-      "example": ""
+      "example": "Santan membuat masakan menjadi gurih."
     },
     {
       "english": "pedas",
-      "ipa": "",
-      "englishMeaning": "spicy",
+      "ipa": "/pə.das/ - Eng: spicy",
       "vietnamese": "cay",
-      "example": ""
+      "example": "Saya suka makanan pedas."
     }
   ]
 }
