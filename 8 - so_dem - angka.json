@@ -165,6 +165,114 @@
       "vietnamese": "hai mươi mốt",
       "example": "Dia berusia dua puluh satu tahun."
     },
+  {
+    "english": "dua puluh dua",
+    "ipa": "/du.a pu.luh du.a/ - Eng: Twenty-two",
+    "vietnamese": "hai mươi hai",
+    "example": "Dia berusia dua puluh dua tahun."
+  },
+  {
+    "english": "dua puluh tiga",
+    "ipa": "/du.a pu.luh ti.ga/ - Eng: Twenty-three",
+    "vietnamese": "hai mươi ba",
+    "example": "Ada dua puluh tiga siswa di kelas."
+  },
+  {
+    "english": "dua puluh empat",
+    "ipa": "/du.a pu.luh əm.pat/ - Eng: Twenty-four",
+    "vietnamese": "hai mươi bốn",
+    "example": "Hari memiliki dua puluh empat jam."
+  },
+  {
+    "english": "dua puluh lima",
+    "ipa": "/du.a pu.luh li.ma/ - Eng: Twenty-five",
+    "vietnamese": "hai mươi lăm",
+    "example": "Dia membeli dua puluh lima buku."
+  },
+  {
+    "english": "tiga puluh",
+    "ipa": "/ti.ga pu.luh/ - Eng: Thirty",
+    "vietnamese": "ba mươi",
+    "example": "Dia berusia tiga puluh tahun."
+  },
+  {
+    "english": "empat puluh",
+    "ipa": "/əm.pat pu.luh/ - Eng: Forty",
+    "vietnamese": "bốn mươi",
+    "example": "Ada empat puluh kursi di aula."
+  },
+  {
+    "english": "lima puluh",
+    "ipa": "/li.ma pu.luh/ - Eng: Fifty",
+    "vietnamese": "năm mươi",
+    "example": "Dia memiliki lima puluh koin."
+  },
+  {
+    "english": "enam puluh",
+    "ipa": "/ə.nam pu.luh/ - Eng: Sixty",
+    "vietnamese": "sáu mươi",
+    "example": "Ayah saya berusia enam puluh tahun."
+  },
+  {
+    "english": "tujuh puluh",
+    "ipa": "/tu.dʒuh pu.luh/ - Eng: Seventy",
+    "vietnamese": "bảy mươi",
+    "example": "Ada tujuh puluh orang di acara itu."
+  },
+  {
+    "english": "delapan puluh",
+    "ipa": "/də.la.pan pu.luh/ - Eng: Eighty",
+    "vietnamese": "tám mươi",
+    "example": "Dia membaca delapan puluh halaman."
+  },
+  {
+    "english": "sembilan puluh",
+    "ipa": "/səm.bi.lan pu.luh/ - Eng: Ninety",
+    "vietnamese": "chín mươi",
+    "example": "Kakek saya berusia sembilan puluh tahun."
+  },
+  {
+    "english": "dua ratus",
+    "ipa": "/du.a ra.tus/ - Eng: Two hundred",
+    "vietnamese": "hai trăm",
+    "example": "Ada dua ratus siswa di sekolah."
+  },
+  {
+    "english": "tiga ratus",
+    "ipa": "/ti.ga ra.tus/ - Eng: Three hundred",
+    "vietnamese": "ba trăm",
+    "example": "Harga buku itu tiga ratus ribu rupiah."
+  },
+  {
+    "english": "lima ratus",
+    "ipa": "/li.ma ra.tus/ - Eng: Five hundred",
+    "vietnamese": "năm trăm",
+    "example": "Dia memiliki lima ratus dolar."
+  },
+  {
+    "english": "seribu lima ratus",
+    "ipa": "/sə.ri.bu li.ma ra.tus/ - Eng: One thousand five hundred",
+    "vietnamese": "một nghìn năm trăm",
+    "example": "Harga tiketnya seribu lima ratus rupiah."
+  },
+  {
+    "english": "sepuluh ribu",
+    "ipa": "/sə.pu.luh ri.bu/ - Eng: Ten thousand",
+    "vietnamese": "mười nghìn",
+    "example": "Saya punya sepuluh ribu rupiah."
+  },
+  {
+    "english": "seratus ribu",
+    "ipa": "/sə.ra.tus ri.bu/ - Eng: One hundred thousand",
+    "vietnamese": "một trăm nghìn",
+    "example": "Tas itu berharga seratus ribu rupiah."
+  },
+  {
+    "english": "satu miliar",
+    "ipa": "/sa.tu mi.li.ar/ - Eng: One billion",
+    "vietnamese": "một tỷ",
+    "example": "Perusahaan itu bernilai satu miliar dolar."
+  }
     {
       "english": "seratus",
       "ipa": "/sə.ra.tus/ - Eng: One hundred",
